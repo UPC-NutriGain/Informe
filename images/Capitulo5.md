@@ -19,7 +19,7 @@ Esta herramienta fue clave para implementar el backend con .NET Core, ya que pro
 
 
 <div style="text-align: center;">
-    <img src="/images/img/rider.jpeg" alt="Descripción de la imagen">
+    <img src="/images/img/rider.jpeg" alt="Descripción de la imagen" width="100">
 </div>
 
 
@@ -69,13 +69,28 @@ Se decidió hacer uso de estas herramientas por la razón de que hoy en día es 
 
 
 
-- [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1. Sprint 1](#521-sprint-1)
-        - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-        - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
-        - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-        - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-        - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-        - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-        - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-        - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+## 5.2. Landing Page, Services & Applications Implementation
+
+ - ### 5.2.1. Sprint 1
+   - ### 5.2.1.1. Sprint Planning 1
+
+   - ### 5.2.1.2. Sprint Backlog 1
+
+   - ### 5.2.1.3. Development Evidence for Sprint Review
+
+   - ### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+   - ### 5.2.1.4. Execution Evidence for Sprint Review
+
+   - ### 5.2.1.5. Services Documentation Evidence for Sprint Review
+
+   - ### 5.2.1.6. Software Deployment Evidence for Sprint Review
+
+   - ### 5.2.1.7. Team Collaboration Insights during Sprint
+
+     
+
+
+
+
+
