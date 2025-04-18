@@ -1,37 +1,13 @@
 # Capitulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 - ### 5.1.1. Software Development Environment Configuration
-Para el desarrollo de NutriGain, se dividieron los entornos por tipo de componente. La Landing Page fue creada utilizando HTML, CSS y JS puro con soporte de Live Server para vista previa rápida. El editor de preferencia fue Visual Studio Code.
+Para el desarrollo de NutriGain, se adoptó una estrategia basada en entornos especializados para cada componente de la solución: Landing Page, Aplicación Web y Backend RESTful. Esto permitió garantizar independencia en los despliegues y escalabilidad de cada módulo.
 
-Para la aplicación web, se usó Vue.js para el frontend y .NET Core para el backend, puesto que brinda un enfoque más amplio y completo para el desarrollo de cada módulo de la aplicación. Las herramientas clave fueron:
+### Desarrollo del Landing Page
 
-### JetBrains WebStorm:
+El equipo eligió una implementación con HTML, CSS y JavaScript puro, priorizando la carga rápida y la simplicidad en el diseño. Esta página sirve como presentación comercial de la aplicación y punto de entrada para nuevos usuarios interesados en conocer los beneficios del enfoque fitness personalizado de NutriGain.
 
-Se eligió esta herramienta para el desarrollo del frontend de NutriGain ya que ofrece integración nativa con Vue.js, utilizado para implementar la lógica de la interfaz de usuario personalizada. WebStorm también brinda autocompletado inteligente, detección de errores en tiempo real y compatibilidad con componentes modulares, lo que facilitó el trabajo colaborativo entre los desarrolladores.
-
-<div style="text-align: center;">
-    <img src="/images/img/webstorm.png" alt="Descripción de la imagen">
-</div>
-
-### JetBrains Rider:
-
-Esta herramienta fue clave para implementar el backend con .NET Core, ya que proporciona un entorno de desarrollo robusto para servicios RESTful y permite integrar fácilmente bases de datos y lógica de negocio. Su compatibilidad con C# y sus herramientas de depuración permitieron mantener el control sobre la lógica de personalización de rutinas y planes alimenticios.
-
-
-<div style="text-align: center;">
-    <img src="/images/img/rider.jpeg" alt="Descripción de la imagen" width="100">
-</div>
-
-
-### Node.js y npm:
-
-Fueron necesarios para la gestión de dependencias del proyecto frontend en Vue.js, como frameworks de diseño, librerías de gráficos de progreso y validadores de formularios. Además, el entorno Node permitió ejecutar scripts de compilación y pruebas unitarias.
-
-<div style="text-align: center;">
-    <img src="/images/img/nodeandnpm.png" alt="Descripción de la imagen">
-</div>
-
-
+Las herramientas empleadas son las siguientes:
 
 ### Live server:
 
@@ -53,6 +29,42 @@ Se decidió hacer uso de estas herramientas por la razón de que hoy en día es 
 </div>
 
 
+### Desarrollo de la Aplicacion Web
+
+La aplicación web fue construida con Vue.js en el frontend, lo cual facilitó la creación de una interfaz dinámica para personalizar rutinas, visualizar el progreso del usuario y controlar el avatar fitness. El backend fue desarrollado en .NET Core, ideal para estructurar los servicios RESTful que gestionan los planes de nutrición, estadísticas y retos semanales aleatorios.
+
+Las herramientas claves son las siguientes:
+
+
+### JetBrains WebStorm:
+
+Se eligió esta herramienta para el desarrollo del frontend de NutriGain ya que ofrece integración nativa con Vue.js, utilizado para implementar la lógica de la interfaz de usuario personalizada. WebStorm también brinda autocompletado inteligente, detección de errores en tiempo real y compatibilidad con componentes modulares, lo que facilitó el trabajo colaborativo entre los desarrolladores.
+
+<div style="text-align: center;">
+    <img src="/images/img/webstorm.png" alt="Descripción de la imagen" width="700">
+</div>
+
+### JetBrains Rider:
+
+Esta herramienta fue clave para implementar el backend con .NET Core, ya que proporciona un entorno de desarrollo robusto para servicios RESTful y permite integrar fácilmente bases de datos y lógica de negocio. Su compatibilidad con C# y sus herramientas de depuración permitieron mantener el control sobre la lógica de personalización de rutinas y planes alimenticios.
+
+
+<div style="text-align: center;">
+    <img src="/images/img/rider.jpeg" alt="Descripción de la imagen" width="700">
+</div>
+
+
+### Node.js y npm:
+
+Fueron necesarios para la gestión de dependencias del proyecto frontend en Vue.js, como frameworks de diseño, librerías de gráficos de progreso y validadores de formularios. Además, el entorno Node permitió ejecutar scripts de compilación y pruebas unitarias.
+
+<div style="text-align: center;">
+    <img src="/images/img/nodeandnpm.png" alt="Descripción de la imagen" width="700">
+</div>
+
+Esta separación por entornos y herramientas permitió una mayor eficiencia en la entrega y pruebas.
+
+
 - ### 5.1.2. Source Code Management
 
 
@@ -60,6 +72,9 @@ Se decidió hacer uso de estas herramientas por la razón de que hoy en día es 
 
 
 - ### 5.1.3. Source Code Style Guide & Conventions
+
+
+
 
 
 - ### 5.1.4. Software Deployment Configuration
