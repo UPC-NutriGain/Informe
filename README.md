@@ -14,13 +14,13 @@
 
 ### Integrantes:
 
-| Nombre       | Código       |
-|--------------|--------------|
-| ************ | ************ |
-| ************ | ************ |
-| Gordillo Ramos Santiago Alonso | U202215160 |
-| Vera Nuñez Nicolas Alejandro | u202214869 |
-| ************ | ************ |
+| Nombre                         | Código       |
+|--------------------------------|--------------|
+| ************                   | ************ |
+| ************                   | ************ |
+| Gordillo Ramos Santiago Alonso | U202215160   |
+| Vera Nuñez Nicolas Alejandro   | u202214869   |
+| Huapaya Buitron Ariana Alheli  | U201819645   |
 
 </div>
 
