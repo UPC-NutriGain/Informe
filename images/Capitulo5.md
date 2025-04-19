@@ -148,17 +148,17 @@ Link de la [BackEnd RESTful]()
 ## 5.2. Landing Page, Services & Applications Implementation
 
  - ### 5.2.1. Sprint 1
-   - ### 5.2.1.1. Sprint Planning 1
+ - ### 5.2.1.1. Sprint Planning 1
+        
+      Durante esta primera planificación del sprint, el equipo definió los objetivos clave para comenzar a dar vida a la app NutriGain desde su página de presentación. 
+        El foco principal fue diseñar una Landing Page atractiva y funcional que refleje de manera clara qué es NutriGain, sus caminos fitness y cómo funciona el sistema del avatar y los retos.
+       Esta planificación estableció las bases visuales y comunicativas del producto.
 
-   Durante esta primera planificación del sprint, el equipo definió los objetivos clave para comenzar a dar vida a la app NutriGain desde su página de presentación. 
-   El foco principal fue diseñar una Landing Page atractiva y funcional que refleje de manera clara qué es NutriGain, sus caminos fitness y cómo funciona el sistema del avatar y los retos. 
-   Esta planificación estableció las bases visuales y comunicativas del producto.
-      
-      - **Sprint Goal:** Crear una versión inicial de la Landing Page que sea visualmente atractiva, informativa y funcional para captar el interés de los usuarios potenciales y explicar los beneficios únicos de NutriGain (como el camino fitness, el avatar personalizado, el plan nutricional y los retos extremos).
+   -   **Sprint Goal:** Crear una versión inicial de la Landing Page que sea visualmente atractiva, informativa y funcional para captar el interés de los usuarios potenciales y explicar los beneficios únicos de NutriGain (como el camino fitness, el avatar personalizado, el plan nutricional y los retos extremos).
 
-      - ####  Fecha de planificación: 10 de abril de 2025
+     -  ####  Fecha de planificación: 10 de abril de 2025
 
-         #### Herramientas utilizadas:
+        #### Herramientas utilizadas:
 
         - **Trello:** Para organizar el backlog de historias de usuario y asignar tareas.
 
@@ -169,24 +169,64 @@ Link de la [BackEnd RESTful]()
         - **Figma :** Se sugirió como herramienta para prototipado visual, especialmente útil si se desea incluir una imagen del wireframe inicial.
 
 
-   - ### 5.2.1.2. Sprint Backlog 1
+-   ### 5.2.1.2. Sprint Backlog 1
 
-   sd
+ 
+        
+|  USER STORY<br/> ID | TITULO           | TASK <br/>ID |  TITULO DE <br/>TAREA | DESCRIPCION |Estimacion<br/>(Horas)|
+|----------------|------------------|------|-----------------|-----------------------|----|
+| ID01           |Apartado del Header|T01  |Header responsivo|Desarrollo e implementacion de los estilos que corresponden al encabezado de manera responsive|3|
+| ID02          |Apartado de Footer|T02|Footer responsivo|Desarrollo e implementación del pie de página con enfoque en compatibilidad móvil y estructura clara|3|
+|ID03           |Seccion Hero|T03|Hero responsivo|Diseño de la primera sección visual con título principal, subtítulo y llamada a la acción para usuarios nuevos|2|
+|ID04           |Barra de navegacion|T04|Navegacion responsiva|Implementación del menú de navegación principal con anclajes a cada sección y comportamiento adaptativo.|3|
+|ID05           |Testimonials|T05|Testimonios|Desarrollo de una sección con opiniones de usuarios ficticios, representando experiencias con NutriGain|3|
+|ID06           |Sobre Nosotros|T06|Info del equipo|Sección con información sobre los desarrolladores del proyecto y la inspiración detrás de NutriGain.|2|
+|ID07           |Interfaz Responsive General|T07 |Responsive completo|Asegurar que toda la landing funcione correctamente en distintos dispositivos (móviles, tablets, escritorio).|3|
+        
+
    - ### 5.2.1.3. Development Evidence for Sprint Review
+
+   Durante el sprint, se realizaron múltiples commits en GitHub con etiquetas claras. Las tareas fueron desarrolladas en ramas individuales y luego fusionadas a la rama main mediante pull requests. 
+   Se adjuntaron capturas de pantalla de cada sección funcional implementada para validación.
+
+![captura]()
+
+![captura2]()
 
    - ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
+Para este sprint, las pruebas se centraron en revisión manual de interfaz y pruebas básicas de visualización. No se incorporó aún un framework automatizado, pero se validó la correcta carga de elementos, adaptabilidad responsive y funcionamiento de navegación.
+
+![captura]()
+
+![captura2]()
+
    - ### 5.2.1.4. Execution Evidence for Sprint Review
+
+Se hizo una demostración funcional del Landing Page en un entorno en vivo. Se verificó la navegación entre secciones, la carga de imágenes, la adaptación en móviles y se presentó a usuarios externos para retroalimentación básica.
+
+![captura]()
+
+![captura2]()
 
    - ### 5.2.1.5. Services Documentation Evidence for Sprint Review
 
+No aplica para este sprint, ya que aún no se integran los servicios backend. Esta documentación se planifica para el Sprint 2.
+
    - ### 5.2.1.6. Software Deployment Evidence for Sprint Review
+
+El Landing Page fue desplegado exitosamente en GitHub Pages, quedando accesible públicamente para evaluación y pruebas por parte del equipo.
+
+![captura]()
+
+![captura2]()
+
+Mediante el siguiente boton pueden apreciar el [LandingPage]()
 
    - ### 5.2.1.7. Team Collaboration Insights during Sprint
 
-     
+     Durante el Sprint 1, el equipo mostró buena comunicación y trabajo distribuido. Se coordinaron mediante WhatsApp y reuniones por Meet. Cada integrante tomó ownership de sus tareas, y el seguimiento se realizó en Trello. Las decisiones técnicas se discutieron en conjunto antes de implementarlas.
 
+![captura]()
 
-
-
-
+![captura2]()
