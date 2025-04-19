@@ -201,11 +201,15 @@ La aplicación web tendrá un diseño minimalista, de modo que la información s
 
 ### 4.2.1. Organization Systems
 
-lorem ipsum
+Como equipo, decidimos que vamos a utilizar una estructura jerárquica (Hierarchical structure) para la landing page, con el fin de ofrecer nuestro producto y explicar sus beneficios desde las primeras capas que se visualizan al cargar la página por primera vez.
+
+Por otro lado, la aplicación web contaría con una estructura secuencial (Sequential structure), debido a que se busca realizar una serie de pasos diariamente e ir registrando todo de forma constante. Además, las funcionalidades de paga también seguirán esta estructura, puesto que siguen una dinámica similar de completar un objetivo o buscan personalizar algo en base a las preferencias del usuario.
 
 ### 4.2.2. Labeling Systems
 
-lorem ipsum
+Dado que emplearemos un enfoque minimalista, la cantidad de texto en una vista sería reducida y, en su lugar, habrían más íconos o imágenes que ilustren lo que se busca realizar en dicha vista.
+
+Para el uso de los botones, utilizaremos diferentes escalas de los colores detallados en nuestra guía de estilos.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
@@ -229,11 +233,11 @@ lorem ipsum
 
 ### 4.2.4. Searching Systems
 
-lorem ipsum
+Los sistemas de búsqueda de nuestra aplicación realizarán consultas a APIs propias que irán creciendo con el paso del tiempo: una de comida y otra de ejercicios.
 
 ### 4.2.5. Navigation Systems
 
-lorem ipsum
+La forma de navegación para la landing page será mediante un header con botones que te redireccionan a cada sección de la página. Mientras que para la aplicación web, crearemos un sidebar con todas las vistas que necesita el usuario para disfrutar de las funcionalidades más importantes que ofrecemos.
 
 ### 4.3. Landing Page UI Design
 
