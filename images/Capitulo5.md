@@ -114,16 +114,16 @@ La landing page fue desplegada con GitHub Pages, configurando la rama principal 
 
 Para realizar esto se realizaron los siguientes pasos:
 
-Una vez que se haya lanzado el release al repositorio y las ramas estén actualizadas, se procede a ingresar a GitHub, luego acceder al repositorio del proyecto y seguidamente hacer click en la pestaña “Settings”, buscar el ítem “Pages” del menú lateral.
+1. Una vez que se haya lanzado el release al repositorio y las ramas estén actualizadas, se procede a ingresar a GitHub, luego acceder al repositorio del proyecto y seguidamente hacer click en la pestaña “Settings”, buscar el ítem “Pages” del menú lateral.
 
-![image]()
+![Landing page]()
 
-![image]()
+![Setting Landing page]()
 
 2. Seleccionar la rama principal y confirmar los cambios, luego de esto GitHub comenzará el proceso de deploy. Cuando GitHub tenga listo el enlace público, este se podrá ver desde el mismo menú en la parte superior.
 
 
-![image]()
+![Changes Landing Page]()
 
 
 Link de la [landing page]()
@@ -150,8 +150,28 @@ Link de la [BackEnd RESTful]()
  - ### 5.2.1. Sprint 1
    - ### 5.2.1.1. Sprint Planning 1
 
+   Durante esta primera planificación del sprint, el equipo definió los objetivos clave para comenzar a dar vida a la app NutriGain desde su página de presentación. 
+   El foco principal fue diseñar una Landing Page atractiva y funcional que refleje de manera clara qué es NutriGain, sus caminos fitness y cómo funciona el sistema del avatar y los retos. 
+   Esta planificación estableció las bases visuales y comunicativas del producto.
+      
+      - **Sprint Goal:** Crear una versión inicial de la Landing Page que sea visualmente atractiva, informativa y funcional para captar el interés de los usuarios potenciales y explicar los beneficios únicos de NutriGain (como el camino fitness, el avatar personalizado, el plan nutricional y los retos extremos).
+
+      - ####  Fecha de planificación: 10 de abril de 2025
+
+         #### Herramientas utilizadas:
+
+        - **Trello:** Para organizar el backlog de historias de usuario y asignar tareas.
+
+        - **GitHub Projects:** Para el seguimiento técnico de commits, ramas y avances del repositorio.
+
+        - **Google Meet:** Para reuniones virtuales y acuerdos de planificación.
+
+        - **Figma :** Se sugirió como herramienta para prototipado visual, especialmente útil si se desea incluir una imagen del wireframe inicial.
+
+
    - ### 5.2.1.2. Sprint Backlog 1
 
+   sd
    - ### 5.2.1.3. Development Evidence for Sprint Review
 
    - ### 5.2.1.4. Testing Suite Evidence for Sprint Review
