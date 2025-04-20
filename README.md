@@ -275,7 +275,17 @@ Nota. Elaboración propia basada en el análisis de experiencias futuras proyect
   </tbody>
 </table>
 
+## 3.3. Impact Mapping
 
+En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
+
+
+**Segmento 1: Estudiantes universitarios que desean mejorar su condición física**
+![Impact-University-Student](/assets/Impact%20map%201.png)
+
+
+**Segmento 2: Adultos jóvenes (30–40 años) que trabajan y desean llevar una vida más saludable**
+![impactExpert]()
 
 
 ## [Conclusiones](#conclusiones)
