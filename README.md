@@ -154,6 +154,59 @@ Nota. Elaboración propia basada en el análisis de experiencias futuras proyect
 *To-Be Scenario Mapping para el segmento de adultos jóvenes que trabajan*.  
 Nota. Elaboración propia basada en el análisis de experiencias futuras proyectadas para el usuario Martín.
 
+## 3.2. User Stories
+
+<table>
+  <thead>
+    <tr>
+      <th>Epic / Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Criterios de Aceptación</th>
+      <th>Relacionado con (Epic ID)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US01</td>
+      <td>Elección de camino fitness</td>
+      <td>Como estudiante sin experiencia en entrenamiento, quiero elegir un camino fitness personalizado, para poder iniciar una rutina adecuada a mis metas.</td>
+      <td><strong>Dado que</strong> el usuario ha creado una cuenta, <strong>Cuando</strong> accede por primera vez, <strong>Luego</strong> podrá seleccionar uno de los caminos fitness disponibles.</td>
+      <td>EP-01</td>
+    </tr>
+    <tr>
+      <td>US02</td>
+      <td>Acompañamiento virtual</td>
+      <td>Como estudiante usuaria de la app, quiero que un personaje virtual me acompañe en mi progreso, para sentirme motivada a seguir entrenando cada semana.</td>
+      <td><strong>Dado que</strong> el usuario ha elegido un camino, <strong>Cuando</strong> avance en su progreso semanal, <strong>Luego</strong> el avatar evolucionará y mostrará mensajes de motivación.</td>
+      <td>EP-02</td>
+    </tr>
+    <tr>
+      <td>US03</td>
+      <td>Visualización de progreso</td>
+      <td>Como estudiante que busca tonificarse, quiero ver mis avances semanales mediante gráficos, para tener visibilidad clara de mi progreso.</td>
+      <td><strong>Dado que</strong> el usuario completa sesiones, <strong>Cuando</strong> revise la sección de progreso, <strong>Luego</strong> visualizará gráficas actualizadas con sus avances.</td>
+      <td>EP-03</td>
+    </tr>
+    <tr>
+      <td>US04</td>
+      <td>Plan nutricional personalizado</td>
+      <td>Como usuaria con poco conocimiento nutricional, quiero recibir un plan nutricional basado en mis preferencias, para alimentarme mejor sin complicaciones.</td>
+      <td><strong>Dado que</strong> el usuario completa su perfil alimenticio, <strong>Cuando</strong> accede al plan nutricional, <strong>Luego</strong> recibirá un menú personalizado con recomendaciones.</td>
+      <td>EP-04</td>
+    </tr>
+    <tr>
+      <td>US05</td>
+      <td>Retos semanales aleatorios</td>
+      <td>Como estudiante con rutinas monótonas previas, quiero recibir retos semanales aleatorios, para mantenerme motivada y evitar el aburrimiento.</td>
+      <td><strong>Dado que</strong> inicia una nueva semana, <strong>Cuando</strong> entra a la app, <strong>Luego</strong> recibirá un reto semanal adaptado a su nivel.</td>
+      <td>EP-05</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
