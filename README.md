@@ -148,9 +148,11 @@ Nota. Elaboración propia basada en el análisis de experiencias futuras proyect
 
 **Segmento 2: Adultos jóvenes (30–40 años) que trabajan y desean llevar una vida más saludable**
 
-![To-Be-Experts]()
+![To-Be-Experts](/assets/To-be-map2.jpg)
 
-
+**Figura 2**  
+*To-Be Scenario Mapping para el segmento de adultos jóvenes que trabajan*.  
+Nota. Elaboración propia basada en el análisis de experiencias futuras proyectadas para el usuario Martín.
 
 
 ## [Conclusiones](#conclusiones)
