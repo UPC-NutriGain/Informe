@@ -237,6 +237,41 @@ Nota. Elaboración propia basada en el análisis de experiencias futuras proyect
       <td><strong>Dado que</strong> el usuario tiene plan premium, <strong>Cuando</strong> desee cambiar de camino, <strong>Luego</strong> podrá hacerlo desde la configuración de perfil sin restricciones.</td>
       <td>EP-06</td>
     </tr>
+    <tr>
+      <td>US11</td>
+      <td>Gestión de perfil de usuario</td>
+      <td>Como usuario registrado, quiero editar mi información personal y preferencias, para mantener mi perfil actualizado según mis objetivos.</td>
+      <td><strong>Dado que</strong> el usuario ha iniciado sesión, <strong>Cuando</strong> accede a su perfil, <strong>Luego</strong> podrá editar y guardar su información personal.</td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US12</td>
+      <td>Visualización de logros alcanzados</td>
+      <td>Como usuario, quiero ver los logros que he desbloqueado, para sentirme motivado a continuar usando la app.</td>
+      <td><strong>Dado que</strong> el usuario completa objetivos, <strong>Cuando</strong> consulte su perfil, <strong>Luego</strong> visualizará logros alcanzados y próximos por cumplir.</td>
+      <td>EP-02</td>
+    </tr>
+    <tr>
+      <td>US13</td>
+      <td>Notificaciones de actividad diaria</td>
+      <td>Como usuario con poca constancia, quiero recibir notificaciones diarias sobre mis rutinas y planes, para mantenerme enfocado en mi progreso.</td>
+      <td><strong>Dado que</strong> el usuario tiene planes activos, <strong>Cuando</strong> llegue la hora programada, <strong>Luego</strong> recibirá una notificación sobre su actividad pendiente.</td>
+      <td>EP-02</td>
+    </tr>
+    <tr>
+      <td>US14</td>
+      <td>Evaluación de bienestar semanal</td>
+      <td>Como usuario, quiero completar un cuestionario semanal sobre mi bienestar, para recibir recomendaciones más personalizadas.</td>
+      <td><strong>Dado que</strong> finaliza la semana, <strong>Cuando</strong> complete el cuestionario de bienestar, <strong>Luego</strong> la app ajustará sugerencias en base a sus respuestas.</td>
+      <td>EP-03</td>
+    </tr>
+    <tr>
+      <td>US15</td>
+      <td>Soporte técnico básico para usuarios</td>
+      <td>Como usuario que enfrenta dificultades técnicas, quiero acceder a una sección de ayuda o soporte, para resolver problemas rápidamente.</td>
+      <td><strong>Dado que</strong> el usuario reporta un problema, <strong>Cuando</strong> accede a la sección de soporte, <strong>Luego</strong> podrá ver respuestas frecuentes o contactar asistencia.</td>
+      <td>EP-06</td>
+    </tr>
   </tbody>
 </table>
 
