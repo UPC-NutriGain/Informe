@@ -132,6 +132,22 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 - [5.4. Video about the product](#54-video-about-the-product)
 
+# Capítulo III: Requirements Specification
+## 3.1. To-Be Scenario Mapping
+
+Se presenta el análisis de los distintos escenarios, estructurando una tabla que especifica la situación que requiere mejora para el segmento objetivo. Se analizan las acciones a realizar y se explica la forma en que estas son interpretadas.
+
+**Segmento 1: Estudiantes universitarios que desean mejorar su condición física**
+
+![To-Be-Beginners](https://github.com/user-attachments/assets/9902d116-b127-4553-86f5-55ede4e50745)
+
+**Segmento 2: Experts**
+
+![To-Be-Experts](https://github.com/user-attachments/assets/a2c88001-b17b-4907-8f45-434667f1ac11)
+
+
+
+
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
 - [Video about the team](#video-about-the-team)
