@@ -148,7 +148,7 @@ Nota. Elaboración propia basada en el análisis de experiencias futuras proyect
 
 **Segmento 2: Adultos jóvenes (30–40 años) que trabajan y desean llevar una vida más saludable**
 
-![To-Be-Experts](/assets/To-be-map2.jpg)
+![To-Be-Adult](/assets/To-be-map2.jpg)
 
 **Figura 2**  
 *To-Be Scenario Mapping para el segmento de adultos jóvenes que trabajan*.  
@@ -279,13 +279,22 @@ Nota. Elaboración propia basada en el análisis de experiencias futuras proyect
 
 En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 
-
 **Segmento 1: Estudiantes universitarios que desean mejorar su condición física**
+
 ![Impact-University-Student](/assets/Impact%20map%201.png)
+
+**Figura 3**  
+*Impact Mapping para el segmento de estudiantes universitarios que desean mejorar su condición física*.  
+Nota. Elaboración propia basada en el objetivo de negocio, impactos, entregables y User Story asociada a la usuaria Camila.
 
 
 **Segmento 2: Adultos jóvenes (30–40 años) que trabajan y desean llevar una vida más saludable**
-![impactExpert]()
+
+![Impact-Adult](/assets/Impact%20map%202.png)
+
+**Figura 4**  
+*Impact Mapping para el segmento de adultos jóvenes (30–40 años) que trabajan y desean una vida más saludable*.  
+Nota. Elaboración propia basada en el objetivo de negocio, impactos, entregables y User Story asociada al usuario Martín.
 
 
 ## [Conclusiones](#conclusiones)
