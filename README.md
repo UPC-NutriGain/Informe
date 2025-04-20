@@ -296,6 +296,128 @@ Nota. Elaboración propia basada en el objetivo de negocio, impactos, entregable
 *Impact Mapping para el segmento de adultos jóvenes (30–40 años) que trabajan y desean una vida más saludable*.  
 Nota. Elaboración propia basada en el objetivo de negocio, impactos, entregables y User Story asociada al usuario Martín.
 
+## 3.4. Product Backlog
+
+<table>
+  <thead>
+    <tr>
+      <th># Orden</th>
+      <th>User Story Id</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <td>1</td>
+    <td>US01</td>
+    <td>Elección de camino fitness</td>
+    <td>Como estudiante sin experiencia en entrenamiento, quiero elegir un camino fitness personalizado, para poder iniciar una rutina adecuada a mis metas.</td>
+    <td>3</td>
+    </tr>
+    <tr>
+    <td>2</td>
+    <td>US09</td>
+    <td>Acceso al camino en plan gratuito</td>
+    <td>Como usuario del plan gratuito, quiero poder probar un camino fitness completo antes de pagar, para evaluar si la app me funciona antes de suscribirme.</td>
+    <td>3</td>
+    </tr>
+    <tr>
+    <td>3</td>
+    <td>US04</td>
+    <td>Plan nutricional personalizado</td>
+    <td>Como usuaria con poco conocimiento nutricional, quiero recibir un plan nutricional basado en mis preferencias, para alimentarme mejor sin complicaciones.</td>
+    <td>5</td>
+    </tr>
+    <tr>
+    <td>4</td>
+    <td>US06</td>
+    <td>Plan semanal adaptado al tiempo</td>
+    <td>Como adulto con poco tiempo disponible, quiero recibir un plan semanal de ejercicios adaptado a mi rutina laboral, para poder entrenar sin afectar mi horario de trabajo.</td>
+    <td>3</td>
+    </tr>
+    <tr>
+    <td>5</td>
+    <td>US02</td>
+    <td>Acompañamiento virtual</td>
+    <td>Como estudiante usuaria de la app, quiero que un personaje virtual me acompañe en mi progreso, para sentirme motivada a seguir entrenando cada semana.</td>
+    <td>3</td>
+    </tr>
+    <tr>
+    <td>6</td>
+    <td>US05</td>
+    <td>Retos semanales aleatorios</td>
+    <td>Como estudiante con rutinas monótonas previas, quiero recibir retos semanales aleatorios, para mantenerme motivada y evitar el aburrimiento.</td>
+    <td>3</td>
+    </tr>
+    <tr>
+    <td>7</td>
+    <td>US03</td>
+    <td>Visualización de progreso</td>
+    <td>Como estudiante que busca tonificarse, quiero ver mis avances semanales mediante gráficos, para tener visibilidad clara de mi progreso.</td>
+    <td>2</td>
+    </tr>
+    <tr>
+    <td>8</td>
+    <td>US14</td>
+    <td>Evaluación de bienestar semanal</td>
+    <td>Como usuario, quiero completar un cuestionario semanal sobre mi bienestar, para recibir recomendaciones más personalizadas.</td>
+    <td>3</td>
+    </tr>
+    <tr>
+    <td>9</td>
+    <td>US13</td>
+    <td>Notificaciones de actividad diaria</td>
+    <td>Como usuario con poca constancia, quiero recibir notificaciones diarias sobre mis rutinas y planes, para mantenerme enfocado en mi progreso.</td>
+    <td>2</td>
+    </tr>
+    <tr>
+    <td>10</td>
+    <td>US08</td>
+    <td>Motivación constante</td>
+    <td>Como adulto que se desmotiva fácilmente, quiero recibir mensajes de motivación del personaje virtual, para mantenerme enfocado en mis metas.</td>
+    <td>2</td>
+    </tr>
+    <tr>
+    <td>11</td>
+    <td>US07</td>
+    <td>Registro de progreso físico y nutricional</td>
+    <td>Como profesional que desea llevar una vida saludable, quiero registrar fácilmente mis avances físicos y nutricionales, para tener seguimiento y constancia.</td>
+    <td>2</td>
+    </tr>
+    <tr>
+    <td>12</td>
+    <td>US10</td>
+    <td>Cambio de camino en plan premium</td>
+    <td>Como usuario premium, quiero poder cambiar de camino fitness en cualquier momento, para adaptar mi entrenamiento a mis nuevas metas o intereses.</td>
+    <td>2</td>
+    </tr>
+    <tr>
+    <td>13</td>
+    <td>US11</td>
+    <td>Gestión de perfil de usuario</td>
+    <td>Como usuario registrado, quiero editar mi información personal y preferencias, para mantener mi perfil actualizado según mis objetivos.</td>
+    <td>2</td>
+    </tr>
+    <tr>
+    <td>14</td>
+    <td>US12</td>
+    <td>Visualización de logros alcanzados</td>
+    <td>Como usuario, quiero ver los logros que he desbloqueado, para sentirme motivado a continuar usando la app.</td>
+    <td>2</td>
+    </tr>
+    <tr>
+    <td>15</td>
+    <td>US15</td>
+    <td>Soporte técnico básico para usuarios</td>
+    <td>Como usuario que enfrenta dificultades técnicas, quiero acceder a una sección de ayuda o soporte, para resolver problemas rápidamente.</td>
+    <td>1</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
