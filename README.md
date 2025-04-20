@@ -139,11 +139,16 @@ Se presenta el análisis de los distintos escenarios, estructurando una tabla qu
 
 **Segmento 1: Estudiantes universitarios que desean mejorar su condición física**
 
-![To-Be-Beginners](https://github.com/user-attachments/assets/9902d116-b127-4553-86f5-55ede4e50745)
+![To-Be-University-Student](/assets/To-be-map1.jpg)
 
-**Segmento 2: Experts**
+**Figura 1**  
+*To-Be Scenario Mapping para el segmento de estudiantes universitarios*.  
+Nota. Elaboración propia basada en el análisis de experiencias futuras proyectadas para la usuaria Camila.
 
-![To-Be-Experts](https://github.com/user-attachments/assets/a2c88001-b17b-4907-8f45-434667f1ac11)
+
+**Segmento 2: Adultos jóvenes (30–40 años) que trabajan y desean llevar una vida más saludable**
+
+![To-Be-Experts]()
 
 
 
