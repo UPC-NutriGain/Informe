@@ -202,6 +202,41 @@ Nota. Elaboración propia basada en el análisis de experiencias futuras proyect
       <td><strong>Dado que</strong> inicia una nueva semana, <strong>Cuando</strong> entra a la app, <strong>Luego</strong> recibirá un reto semanal adaptado a su nivel.</td>
       <td>EP-05</td>
     </tr>
+    <tr>
+      <td>US06</td>
+      <td>Plan semanal adaptado al tiempo</td>
+      <td>Como adulto con poco tiempo disponible, quiero recibir un plan semanal de ejercicios adaptado a mi rutina laboral, para poder entrenar sin afectar mi horario de trabajo.</td>
+      <td><strong>Dado que</strong> el usuario tiene tiempo limitado, <strong>Cuando</strong> configure sus preferencias, <strong>Luego</strong> el plan semanal se ajustará a su disponibilidad.</td>
+      <td>EP-01</td>
+    </tr>
+    <tr>
+      <td>US07</td>
+      <td>Registro de progreso físico y nutricional</td>
+      <td>Como profesional que desea llevar una vida saludable, quiero registrar fácilmente mis avances físicos y nutricionales, para tener seguimiento y constancia.</td>
+      <td><strong>Dado que</strong> el usuario registra sus datos, <strong>Cuando</strong> consulte su evolución, <strong>Luego</strong> podrá visualizar estadísticas de progreso físico y nutricional.</td>
+      <td>EP-03</td>
+    </tr>
+    <tr>
+      <td>US08</td>
+      <td>Motivación constante</td>
+      <td>Como adulto que se desmotiva fácilmente, quiero recibir mensajes de motivación del personaje virtual, para mantenerme enfocado en mis metas.</td>
+      <td><strong>Dado que</strong> el usuario complete objetivos, <strong>Cuando</strong> interactúe con su avatar, <strong>Luego</strong> recibirá mensajes motivacionales personalizados.</td>
+      <td>EP-02</td>
+    </tr>
+    <tr>
+      <td>US09</td>
+      <td>Acceso al camino en plan gratuito</td>
+      <td>Como usuario del plan gratuito, quiero poder probar un camino fitness completo antes de pagar, para evaluar si la app me funciona antes de suscribirme.</td>
+      <td><strong>Dado que</strong> el usuario está en plan gratuito, <strong>Cuando</strong> inicia la app, <strong>Luego</strong> podrá acceder a un camino completo pero con funciones limitadas.</td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US10</td>
+      <td>Cambio de camino en plan premium</td>
+      <td>Como usuario premium, quiero poder cambiar de camino fitness en cualquier momento, para adaptar mi entrenamiento a mis nuevas metas o intereses.</td>
+      <td><strong>Dado que</strong> el usuario tiene plan premium, <strong>Cuando</strong> desee cambiar de camino, <strong>Luego</strong> podrá hacerlo desde la configuración de perfil sin restricciones.</td>
+      <td>EP-06</td>
+    </tr>
   </tbody>
 </table>
 
