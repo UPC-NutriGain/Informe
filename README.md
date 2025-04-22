@@ -272,6 +272,41 @@ Nota. Elaboración propia basada en el análisis de experiencias futuras proyect
       <td><strong>Dado que</strong> el usuario reporta un problema, <strong>Cuando</strong> accede a la sección de soporte, <strong>Luego</strong> podrá ver respuestas frecuentes o contactar asistencia.</td>
       <td>EP-06</td>
     </tr>
+    <tr>
+    <td>US16</td>
+    <td>Visualización de secciones clave</td>
+    <td>Como visitante del sitio web, quiero visualizar de forma clara las secciones "About the app", "Paths", "Pricing" y "About us", para entender la app fácilmente.</td>
+    <td><strong>Dado que</strong> accedo a la landing page, <strong>Cuando</strong> navego entre secciones, <strong>Luego</strong> puedo ver cada bloque con información diferenciada y comprensible.</td>
+    <td>EP-06</td>
+    </tr>
+    <tr>
+    <td>US17</td>
+    <td>Botón CTA (Call To Action)</td>
+    <td>Como visitante, quiero ver un botón llamativo para registrarme o iniciar sesión, para empezar a usar la app de forma rápida.</td>
+    <td><strong>Dado que</strong> estoy en la landing page, <strong>Cuando</strong> visualizo el header, <strong>Luego</strong> veo un botón destacado "Get Started" que me lleva al registro/login.</td>
+    <td>EP-06</td>
+    </tr>
+    <tr>
+    <td>US18</td>
+    <td>Visualización de los caminos (Paths)</td>
+    <td>Como visitante, quiero ver los distintos caminos de entrenamiento (Aesthetic, Sports, Yoga), para elegir el que mejor se adapte a mis objetivos.</td>
+    <td><strong>Dado que</strong> navego a la sección "Paths", <strong>Cuando</strong> leo la información y veo las imágenes, <strong>Luego</strong> puedo entender la diferencia entre cada tipo de camino.</td>
+    <td>EP-01</td>
+    </tr>
+    <tr>
+    <td>US19</td>
+    <td>Información sobre la app</td>
+    <td>Como visitante, quiero entender qué hace diferente a NutriGain, para saber si me interesa registrarme.</td>
+    <td><strong>Dado que</strong> accedo a la sección "About the app", <strong>Cuando</strong> leo su contenido, <strong>Luego</strong> puedo entender sus funcionalidades principales.</td>
+    <td>EP-06</td>
+    </tr>
+    <tr>
+    <td>US20</td>
+    <td>Visualización del equipo</td>
+    <td>Como visitante, quiero conocer a las personas detrás de la app, para confiar más en el producto.</td>
+    <td><strong>Dado que</strong> accedo a la sección "About us", <strong>Cuando</strong> visualizo las tarjetas del equipo, <strong>Luego</strong> puedo ver sus nombres, roles e imágenes.</td>
+    <td>EP-06</td>
+    </tr>
   </tbody>
 </table>
 
