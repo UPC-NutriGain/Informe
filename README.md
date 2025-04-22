@@ -157,7 +157,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 **Segmento 2: Adultos jóvenes (30–40 años) que trabajan y desean llevar una vida más saludable**
 
-![User Persona-Adult]()
+![User Persona-Adult](/assets/User_Person_2_Martín.png)
 
 
 ### 2.3.2 User Task Matrix
