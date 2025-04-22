@@ -181,7 +181,11 @@ Nota. Elaboración propia basada en el análisis de experiencias futuras proyect
 
 **Segmento 2: Adultos jóvenes (30–40 años) que trabajan y desean llevar una vida más saludable**
 
-![As-Is--Adult]()
+![As-Is-Adult](/assets/As-Is-map2.jpg)
+
+**Figura 2**  
+*As-Is Scenario Mapping para el segmento de adultos jóvenes que trabajan*.  
+Nota. Elaboración propia basada en el análisis de experiencias futuras proyectadas para el usuario Martín.
 
 ## 2.4. Ubiquitous Language.
 
