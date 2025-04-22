@@ -157,7 +157,7 @@ Nuestra Startup llamado NutriGain es una app de entrenamiento personalizada y di
 ![Santi](https://raw.githubusercontent.com/UPC-NutriGain/upc-pre-2510-daos-4321-grupo5-tp1/refs/heads/capitulo-i/images/integrante22.jpg)
 
 -----------------------------------------------------------------------------------------
-- Mi nombre es 
+- Mi nombre es Nicolas Alejandro Vera Nuñez, tengo 19 años y estudio Ingeniería de Software. En mi tiempo libre, disfruto jugar videojuegos o practicar fútbol. Soy una persona capaz de trabajar en equipo, detallista y destacada en la creación de user personas, elaboración de diagramas y programación. Mi motivación para seguir aprendiendo es llegar a crear y diseñar soluciones creativas. Me considero creativo, proactivo, tolerante, respetuoso y apasionado por lo que me gusta. Me comprometo a apoyar en el proceso para lograr un proyecto final bien planteado y obtener una buena nota.
 
 -----------------------------------------------------------------------------------------
 - Mi nombre es 
@@ -193,84 +193,96 @@ NutriGain se utilizará desde una aplicación móvil. Al iniciar, el usuario eli
 **¿Cuál es la magnitud del problema?**  
 El índice de sobrepeso, estrés y enfermedades que genera una vida sedentaria.
 
-### 1.2.2. Lean UX Process
+## 1.2.2. Lean UX Process
 ##### 1.2.2.1. **Lean UX Problem Statements** 
 **Problem Statement**
 
+Existe una desconexión entre los planes de entrenamiento estándar y los objetivos individuales de los usuarios, lo que genera desmotivación y abandono temprano del estilo de vida saludable. Las personas necesitan una herramienta atractiva y personalizada que les permita entrenar de forma eficiente, adaptada a su ritmo y objetivos. NutriGain busca llenar ese vacío mediante una app que ofrece una experiencia divertida, motivadora y orientada al progreso real del usuario.
 
 ##### 1.2.2.2. Lean UX Assumptions
 **Business Assumptions**
-1. **Asumimos que nuestros usuarios** están optando por la bicicleta como medio de transporte diario debido al alto peligro del transporte público, el tráfico excesivo y el deseo de un estilo de vida más saludable.
-2. **Estas necesidades seran abordadas** mediante el desarrollo del software dedicado al deporte del ciclismo prorizando la seguridad, eficiencia y comodidad del usuario.
-3. **Los primeros usuarios serán** personas entre 18 y 35 años, aficionados al ciclismo urbano, que ya poseen una bicicleta y desean optimizar su experiencia de transporte diario.
-4. **El valor principal que esperan de nuestra aplicación es poder**planificar rutas seguras, compartir su trayecto con otros ciclistas y mantenerse informados sobre zonas de alto riesgo o congestión.
-5. **Los clientes obtendrán** recompensas por uso frecuente, retos mensuales, descuentos en tiendas de ciclismo asociadas.
-6. **Planeamos atraer usuarios a través de** redes sociales, influencers ciclistas, alianzas con colectivos de ciclismo urbano.
-7. 
-8. 
-9. 
-10. 
-11. 
+1. **Asumimos que nuestros usuarios** buscan mejorar su salud física y mental a través de rutinas de entrenamiento personalizadas y sostenibles en el tiempo.
+2. **Estas necesidades seran abordadas** mediante una app que combina entrenamiento físico, nutrición y motivación a través de gamificación y personajes virtuales.
+3. **Los primeros usuarios serán** jovenes y adultos con hábitos digitales, interesados en fitness, que usan el celular para entrenar y organizar su dieta.
+4. **El valor principal que esperan de nuestra aplicación es poder** acceder a rutinas personalizadas, seguimiento de su progreso, retos motivacionales y un plan nutricional integrado.
+5. **Los clientes obtendrán** logros semanales, participación en desafíos y seguimiento completo del plan.
+6. **Planeamos atraer usuarios a través de** campañas en redes sociales, influencers fitness y desafíos virales.
+7. **Generaremos ingresos en** funciones avanzadas de pago como una suscrpción premium(planes nutricionales personalizados, análisis de progreso en profundidad, rutinas premium), y anuncios de marcas saludables.
+8. **Nuestra competencia incluye** apps como Nike Training Club, Freeletics o MyFitnessPal.
+9. **Creemos que nuestra ventaja competitiva radica** en la experiencia gamificada, el acompañamiento de un personaje virtual y la integración de entrenamiento y nutrición en un mismo lugar.
+10. **El mayor riesgo es que** los usuarios no mantengan el hábito de uso diario o perciban la app como poco útil si no sienten resultados rápidos.
+11. **Enfrentaremos estos riesgos a través de** pruebas gratuitas, comunidad activa y actualizaciones constantes basadas en feedback.
 
-##### User Assumptions
+**User Assumptions**
 
 **¿Quién es el usuario?**
 
+Jóvenes y adultos, entusiastas del fitness, que buscan mejorar su estado físico ya sea por salud o recreacional.
 
 **¿Qué problemas enfrenta nuestro producto? ¿Cómo los resolveremos?**
 
+El principal desafío es el mercado saturado. Lo abordamos con personalización real, gamificación, personajes virtuales que acompañan el progreso, y retos diarios únicos.
 
 **¿Qué características son importantes?**
 
+La interfaz fácil de utilizar, el personaje virtual que acompañará al usuario, los planes nutricionales, las rutinas, etc.
 
 **¿Dónde encaja nuestro producto en su trabajo o vida?**
 
+En el día a día de personas activas o que quieren adoptar un estilo de vida saludable
 
 **¿Cuándo y cómo se usa nuestro producto?**
 
+Durante el entrenamiento en casa o gimnasio. La app guía la rutina diaria, ofrece retroalimentación, consejos nutricionales y retos.
 
 **¿Cómo debe ser y comportarse nuestro producto?**
+
+visualmente atractivo y con capacidad de adaptación al progreso y gustos del usuario. Debe mantener al usuario motivado, brindando contenido variado, desafiante y útil.
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 
 - **Hypothesis Statement 01**
 
-**Creemos que** 
+**Creemos que** los usuarios fitness valorarán una app que les ofrezca un acompañamiento virtual personalizado.
 
 **Sabremos** que hemos tenido éxito.
 
-**Cuando** 
+**Cuando** los usuarios pasen aunque sea mas de 3 semanas en la aplicación.
 
 - **Hypothesis Statement 02**
 
-**Creemos que** 
+**Creemos que** al implementar desafíos diarios extremos aumentaremos el nivel de compromiso.
 
 **Sabremos** que hemos tenido éxito
 
-**Cuando** 
+**Cuando** mas del 60% de los usuarios completen los retos.
 
 - **Hypothesis Statement 03**
 
-**Creemos que** 
+**Creemos que** al ofrecer diferentes caminos fitness (musculación, agilidad o yoga), atraeremos a una audiencia más amplia.
 
 **Sabremos** que hemos tenido éxito.
 
-**Cuando** 
+**Cuando** cada camino utilizado marque aunque sea el 50% de usuarios activos.
 
 - **Hypothesis Statement 04**
 
-**Creemos que** 
+**Creemos que** al incluir una sección de nutrición personalizada aumentaremos la eficacia del programa y la satisfacción del usuario.
 
 **Sabremos** que hemos tenido éxito.
 
-**Cuando** 
+**Cuando** los usuarios reporten satisfacción en los planes nutricionales en las encuestas realizadas.
 
 ##### 1.2.2.4. Lean UX Canvas
 
 # 1.3. Segmentos objetivo
 Nuestro software esta dirigido hacia 2 segmentos objetivos, los cuales son:
 
-- 
-- 
+- Estudiantes universitarios que desean mejorar su condición física:
+Jóvenes de entre 18 y 25 años, en su mayoría universitarios, que buscan incorporar hábitos saludables en su estilo de vida. Buscan soluciones prácticas, entretenidas y accesibles que se adapten a su ritmo académico. Valoran la gamificación, la personalización y la posibilidad de entrenar desde casa o el gimnasio universitario.
+
+- Adultos (30–40 años) que trabajan y desean llevar una vida más saludable:
+Personas entre 30 y 40 años con una rutina laboral estable. Están interesados en mejorar su salud física y mental mediante entrenamientos eficientes y planes de alimentación. Valoran la practicidad, la orientación clara y los resultados medibles en poco tiempo.
+
 
 
