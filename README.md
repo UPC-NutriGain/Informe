@@ -138,3 +138,136 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 ## [Bibliografía](#bibliografía)
 ## [Anexos](#anexos)
+
+
+# 1.1. Startup Profile
+### 1.1.1.Descripcion de la startup
+Nuestra Startup llamado NutriGain es una app de entrenamiento personalizada y divertida que se adapta a los intereses y objetivos del usuario. Al comenzar, el usuario elige su camino fitness (Crecimiento muscular, Deportes de agilidad o Yoga) y un personaje virtual lo acompañará en su progreso, ajustando su rutina semanal, su plan nutricional y ofreciendo desafíos únicos y aleatorios. La app también introduce un reto diario extremo que desafía al usuario a mejorar constantemente.
+
+
+##### Misión: Impulsar al usuario a alcanzar sus objetivos físicos a través de entrenamientos personalizados, nutrición adaptada y una experiencia interactiva gamificada.
+##### Visión: Ser la aplicación líder en fitness personalizado en Latinoamérica, motivando a millones de personas a transformar su salud física y mental.
+### 1.1.2. Perfil de los integrantes
+
+- Mi nombre es Ariana Huapaya Buitron, soy estudiante ingeniería de Software, nos enfocamos en la programación, la adaptabilidad y la naturaleza dinámica del software, ya sea en su desarrollo desde cero o en la mejora de uno existente. Aplicamos técnicas y métodos propios de la ingeniería para asegurar su calidad, así como para ofrecer mantenimiento y soporte operativo continuo. Tengo conocimiento en Python, C++, SQL y principalmente Javascript y Nodejs de los cuales tengo conocimiento para crear aplicaciones Back-end y APIS. Además tengo habilidades en lo que respecta a la resolución de problemas
+
+-----------------------------------------------------------------------------------------
+- Mi nombre es Santiago Gordillo Ramos, soy estudiante de ingeniería de software, tengo 21 años. Me gusta el lenguaje python y tengo conocimiento intermedio en los demás lenguajes.
+![Santi](https://raw.githubusercontent.com/SantiIHC/Web-PAge/refs/heads/main/Pagina%20web/integrante22.jpg?token=GHSAT0AAAAAADBUS2DBRZXTWPAZ3JLJJAG62AG32DA)
+-----------------------------------------------------------------------------------------
+- Mi nombre es 
+
+-----------------------------------------------------------------------------------------
+- Mi nombre es 
+
+
+# 1.2. Solution Profile
+### 1.2.1.Antecedentes y problemática
+### What (Qué)  
+**¿Cuál es el problema?**  
+
+
+### Where (Dónde)  
+**¿A dónde se dirige?**  
+
+
+### Why (Por Qué)  
+**¿Cuál es la causa del problema?**  
+
+### When (Cuándo)  
+**¿Cuándo sucede el problema?**  
+
+
+### Who (Quién)  
+**¿Quiénes están involucrados? ¿Quién lo utilizará?**  
+
+
+### How (Cómo)  
+**¿Cómo se utilizará el producto?**  
+
+
+### How Much (Cuánto)  
+**¿Cuál es la magnitud del problema?**  
+
+
+### 1.2.2. Lean UX Process
+##### 1.2.2.1. ** Lean UX Problem Statements** 
+**Problem Statement**
+
+
+##### 1.2.2.2. Lean UX Assumptions
+**Business Assumptions**
+1. **Asumimos que nuestros usuarios** están optando por la bicicleta como medio de transporte diario debido al alto peligro del transporte público, el tráfico excesivo y el deseo de un estilo de vida más saludable.
+2. **Estas necesidades seran abordadas** mediante el desarrollo del software dedicado al deporte del ciclismo prorizando la seguridad, eficiencia y comodidad del usuario.
+3. **Los primeros usuarios serán** personas entre 18 y 35 años, aficionados al ciclismo urbano, que ya poseen una bicicleta y desean optimizar su experiencia de transporte diario.
+4. **El valor principal que esperan de nuestra aplicación es poder**planificar rutas seguras, compartir su trayecto con otros ciclistas y mantenerse informados sobre zonas de alto riesgo o congestión.
+5. **Los clientes obtendrán** recompensas por uso frecuente, retos mensuales, descuentos en tiendas de ciclismo asociadas.
+6. **Planeamos atraer usuarios a través de** redes sociales, influencers ciclistas, alianzas con colectivos de ciclismo urbano.
+7. 
+8. 
+9. 
+10. 
+11. 
+
+##### User Assumptions
+
+**¿Quién es el usuario?**
+
+
+**¿Qué problemas enfrenta nuestro producto? ¿Cómo los resolveremos?**
+
+
+**¿Qué características son importantes?**
+
+
+**¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+
+**¿Cuándo y cómo se usa nuestro producto?**
+
+
+**¿Cómo debe ser y comportarse nuestro producto?**
+
+##### 1.2.2.3. Lean UX Hypothesis Statements
+
+- **Hypothesis Statement 01**
+
+**Creemos que** 
+
+**Sabremos** que hemos tenido éxito.
+
+**Cuando** 
+
+- **Hypothesis Statement 02**
+
+**Creemos que** 
+
+**Sabremos** que hemos tenido éxito
+
+**Cuando** 
+
+- **Hypothesis Statement 03**
+
+**Creemos que** 
+
+**Sabremos** que hemos tenido éxito.
+
+**Cuando** 
+
+- **Hypothesis Statement 04**
+
+**Creemos que** 
+
+**Sabremos** que hemos tenido éxito.
+
+**Cuando** 
+
+##### 1.2.2.4. Lean UX Canvas
+
+# 1.3. Segmentos objetivo
+Nuestro software esta dirigido hacia 2 segmentos objetivos, los cuales son:
+
+- 
+- 
+
+
