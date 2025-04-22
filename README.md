@@ -16,12 +16,11 @@
 
 | Nombre       | Código       |
 |--------------|--------------|
-| ************ | ************ |
-| ************ | ************ |
-| ************ | ************ |
-| Vera Nuñez Nicolas Alejandro | u202214869 |
-| ************ | ************ |
-
+| Pumahualcca Garcia, Diego Rodrigo| U202219266 |
+| Méndez Vargas Sebastian Orlando | U20201F140   |
+| Gordillo Ramos Santiago Alonso | U202215160   |
+| Vera Nuñez Nicolas Alejandro   | u202214869   |
+| Huapaya Buitron Ariana Alheli  | U201819645   |
 </div>
 
 <div align="justify">
