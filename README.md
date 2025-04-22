@@ -168,6 +168,21 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 ### 2.3.5. As-is Scenario Mapping
 
+Los escenarios actuales (AS-IS) ofrecen una descripción detallada de los pasos, pensamientos y emociones de los usuarios antes de interactuar con el producto. Estos escenarios facilitan la comprensión de sus necesidades y desafíos actuales, lo cual guía al equipo en el diseño de una experiencia más efectiva y centrada en la solución de problemas reales. Al analizar los escenarios actuales, el producto puede desarrollarse de manera que cumpla con las expectativas y ofrezca soluciones alineadas con las experiencias reales de los usuarios, resultando en un producto más exitoso y relevante.
+
+**Segmento 1: Estudiantes universitarios que desean mejorar su condición física**
+
+![As-Is-University](/assets/As-Is-map1.jpg)
+
+**Figura 1**  
+*As-Is Scenario Mapping para el segmento de estudiantes universitarios*.  
+Nota. Elaboración propia basada en el análisis de experiencias futuras proyectadas para la usuaria Camila.
+
+
+**Segmento 2: Adultos jóvenes (30–40 años) que trabajan y desean llevar una vida más saludable**
+
+![As-Is--Adult]()
+
 ## 2.4. Ubiquitous Language.
 
 
