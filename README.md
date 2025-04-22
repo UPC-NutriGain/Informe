@@ -150,10 +150,10 @@ Nuestra Startup llamado NutriGain es una app de entrenamiento personalizada y di
 ### 1.1.2. Perfil de los integrantes
 
 - Mi nombre es Ariana Huapaya Buitron, soy estudiante ingeniería de Software, nos enfocamos en la programación, la adaptabilidad y la naturaleza dinámica del software, ya sea en su desarrollo desde cero o en la mejora de uno existente. Aplicamos técnicas y métodos propios de la ingeniería para asegurar su calidad, así como para ofrecer mantenimiento y soporte operativo continuo. Tengo conocimiento en Python, C++, SQL y principalmente Javascript y Nodejs de los cuales tengo conocimiento para crear aplicaciones Back-end y APIS. Además tengo habilidades en lo que respecta a la resolución de problemas
-
+![Ariana](https://raw.githubusercontent.com/UPC-NutriGain/upc-pre-2510-daos-4321-grupo5-tp1/refs/heads/capitulo-i/images/2.jpg)
 -----------------------------------------------------------------------------------------
 - Mi nombre es Santiago Gordillo Ramos, soy estudiante de ingeniería de software, tengo 21 años. Me gusta el lenguaje python y tengo conocimiento intermedio en los demás lenguajes.
-![Santi](https://raw.githubusercontent.com/SantiIHC/Web-PAge/refs/heads/main/Pagina%20web/integrante22.jpg?token=GHSAT0AAAAAADBUS2DBRZXTWPAZ3JLJJAG62AG32DA)
+
 -----------------------------------------------------------------------------------------
 - Mi nombre es 
 
