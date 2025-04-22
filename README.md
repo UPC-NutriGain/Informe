@@ -195,7 +195,7 @@ NutriGain se utilizará desde una aplicación móvil. Al iniciar, el usuario eli
 El índice de sobrepeso, estrés y enfermedades que genera una vida sedentaria.
 
 ### 1.2.2. Lean UX Process
-##### 1.2.2.1. ** Lean UX Problem Statements** 
+##### 1.2.2.1. **Lean UX Problem Statements** 
 **Problem Statement**
 
 
