@@ -153,7 +153,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 **Segmento 1: Estudiantes universitarios que desean mejorar su condición física**
 
-![User Persona-University]()
+![User Persona-University](/assets/User_Person_1_Camila.png)
 
 **Segmento 2: Adultos jóvenes (30–40 años) que trabajan y desean llevar una vida más saludable**
 
