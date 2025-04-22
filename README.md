@@ -16,13 +16,13 @@
 
 ### Integrantes:
 
-| Nombre                       | Código               |
-| ---------------------------- | -------------------- |
-| ************                 | ******** |
-| ************                 | ******** |
-| ************                 | ******** |
-| Vera Nuñez Nicolas Alejandro | u202214869           |
-| Méndez Vargas Sebastian Orlando | u20201f140     |
+| Nombre                         | Código       |
+|--------------------------------|--------------|
+| ************                   | ************ |
+| Méndez Vargas Sebastian Orlando | U20201F140   |
+| Gordillo Ramos Santiago Alonso | U202215160   |
+| Vera Nuñez Nicolas Alejandro   | u202214869   |
+| Huapaya Buitron Ariana Alheli  | U201819645   |
 
 </div>
 
