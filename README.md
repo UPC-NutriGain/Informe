@@ -241,35 +241,43 @@ La forma de navegación para la landing page será mediante un header con botone
 
 ### 4.3. Landing Page UI Design
 
-lorem ipsum
+A continuación, presentamos los bosquejos y diseños generales que tendrá la landing page inicialmente. Utilizamos la herramienta Figma para generar prototipos de diseño web que luego plasmaremos en la página oficial ya codificada y publicada en línea.
 
-Enlace a la Landing Page:
+Enlace a los Wireframes: [Figma NutriGain Wireframes](https://www.figma.com/design/LJgdFUywR8wJLzGuRmfKMh/NutriGain-Media?node-id=155-2)
 
-Enlace a los Wireframes:
-
-Enlace a los Mock-Ups:
+Enlace a los Mock-Ups: [Figma NutriGain Mockups](https://www.figma.com/design/LJgdFUywR8wJLzGuRmfKMh/NutriGain-Media?node-id=155-3)
 
 #### 4.3.1. Landing Page Wireframe
 
 <div align="center">
 
 **Sección Header**
-![Wireframe Header](./assets/landing/wireframes/wireframe-header.jpg)
+
+![Wireframe Header](./assets/landing/wireframes/wireframe-header.png)
 
 **Sección Hero**
-![Wireframe Hero](./assets/landing/wireframes/wireframe-hero.jpg)
+
+![Wireframe Hero](./assets/landing/wireframes/wireframe-hero.png)
 
 **Sección Sobre el Producto**
-![Wireframe Sobre el Producto](./assets/landing/wireframes/wireframe-product.jpg)
+
+![Wireframe Sobre el Producto](./assets/landing/wireframes/wireframe-product.png)
+
+**Sección Paths**
+
+![Wireframe Paths](./assets/landing/wireframes/wireframe-paths.png)
 
 **Sección Pricing**
-![Wireframe Pricing](./assets/landing/wireframes/wireframe-pricing.jpg)
+
+![Wireframe Pricing](./assets/landing/wireframes/wireframe-pricing.png)
 
 **Sección Sobre Nosotros**
-![Wireframe Sobre Nosotros](./assets/landing/wireframes/wireframe-us.jpg)
+
+![Wireframe Sobre Nosotros](./assets/landing/wireframes/wireframe-us.png)
 
 **Sección Footer**
-![Wireframe Footer](./assets/landing/wireframes/wireframe-footer.jpg)
+
+![Wireframe Footer](./assets/landing/wireframes/wireframe-footer.png)
 
 </div>
 
@@ -278,22 +286,26 @@ Enlace a los Mock-Ups:
 <div align="center">
 
 **Sección Header**
-![Mockup Header](./assets/landing/mockups/mockup-header.jpg)
+![Mockup Header](./assets/landing/mockups/mockup-header.png)
 
 **Sección Hero**
-![Mockup Hero](./assets/landing/mockups/mockup-hero.jpg)
+![Mockup Hero](./assets/landing/mockups/mockup-hero.png)
 
 **Sección Sobre el Producto**
-![Mockup Sobre el Producto](./assets/landing/mockups/mockup-product.jpg)
+![Mockup Sobre el Producto](./assets/landing/mockups/mockup-product.png)
+
+**Sección Paths**
+
+![Mockup Paths](./assets/landing/mockups/mockup-paths.png)
 
 **Sección Pricing**
-![Mockup Pricing](./assets/landing/mockups/wireframockupme-pricing.jpg)
+![Mockup Pricing](./assets/landing/mockups/mockup-pricing.png)
 
 **Sección Sobre Nosotros**
-![Mockup Sobre Nosotros](./assets/landing/mockups/mockup-us.jpg)
+![Mockup Sobre Nosotros](./assets/landing/mockups/mockup-us.png)
 
 **Sección Footer**
-![Mockup Footer](./assets/landing/mockups/mockup-footer.jpg)
+![Mockup Footer](./assets/landing/mockups/mockup-footer.png)
 
 </div>
 
