@@ -168,30 +168,31 @@ Nuestra Startup llamado NutriGain es una app de entrenamiento personalizada y di
 ### 1.2.1.Antecedentes y problemática
 ### What (Qué)  
 **¿Cuál es el problema?**  
-
+Muchas personas desean mejorar su condición física o adoptar hábitos más saludables, pero enfrentan dificultades para mantenerse motivadas, encontrar un plan que se adapte a sus objetivos específicos o seguir una rutina constante. Las aplicaciones tradicionales de fitness suelen ser genéricas, poco dinámicas y no se adaptan a los cambios en el progreso o intereses de los usuarios.
 
 ### Where (Dónde)  
 **¿A dónde se dirige?**  
-
+Este problema afecta a usuarios en todo el Perú, especialmente en zonas urbanas donde el estilo de vida acelerado dificulta mantener un plan de ejercicio y alimentación constante.
 
 ### Why (Por Qué)  
 **¿Cuál es la causa del problema?**  
+La mayoría de las aplicaciones de fitness actuales no logran conectar emocionalmente con el usuario, y no personalizan adecuadamente la experiencia. Además, muchas personas no cuentan con la guía profesional necesaria para estructurar un plan de ejercicio y nutrición que se alinee con sus metas individuales.
 
 ### When (Cuándo)  
 **¿Cuándo sucede el problema?**  
-
+El problema aparece desde el momento en que una persona decide comenzar a ejercitarse sin orientación adecuada o pierde motivación rápidamente por falta de seguimiento y variedad.
 
 ### Who (Quién)  
 **¿Quiénes están involucrados? ¿Quién lo utilizará?**  
-
+Los principales usuarios son jóvenes y adultos interesados en fitness, salud y bienestar, desde principiantes hasta deportistas intermedios.
 
 ### How (Cómo)  
 **¿Cómo se utilizará el producto?**  
-
+NutriGain se utilizará desde una aplicación móvil. Al iniciar, el usuario elige un camino (Crecimiento Muscular, Deportes de Agilidad, Yoga) y un personaje virtual lo acompañará en todo su proceso, adaptando semanalmente su rutina de ejercicios, dieta y desafíos. 
 
 ### How Much (Cuánto)  
 **¿Cuál es la magnitud del problema?**  
-
+El índice de sobrepeso, estrés y enfermedades que genera una vida sedentaria.
 
 ### 1.2.2. Lean UX Process
 ##### 1.2.2.1. ** Lean UX Problem Statements** 
