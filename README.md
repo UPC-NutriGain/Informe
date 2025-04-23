@@ -18,7 +18,7 @@
 
 | Nombre                         | Código       |
 |--------------------------------|--------------|
-| ************                   | ************ |
+| Pumahualcca Garcia, Diego Rodrigo | U202219266 |
 | Méndez Vargas Sebastian Orlando | U20201F140   |
 | Gordillo Ramos Santiago Alonso | U202215160   |
 | Vera Nuñez Nicolas Alejandro   | u202214869   |
@@ -323,11 +323,31 @@ Enlace a los Mock-Ups: [Figma NutriGain Mockups](https://www.figma.com/design/LJ
 
 ## 4.6. Domain-Driven Software Architecture
 
+Para el diseño de estos diagramas, decidimos como equipo utilizar Structurizr, una herramienta que permite su diseño mediante líneas de código.
+
 ### 4.6.1. Software Architecture Context Diagram
+
+![Context Diagram](./assets/diagrams/DContext.png)
+
+**Elementos del diagrama:**
+
+![Context Diagram](./assets/diagrams/DContext-Elem.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
+![Context Diagram](./assets/diagrams/DContainer.png)
+
+**Elementos del diagrama:**
+
+![Context Diagram](./assets/diagrams/DContainer-Elem.png)
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+![Context Diagram](./assets/diagrams/DComponent.png)
+
+**Elementos del diagrama:**
+
+![Context Diagram](./assets/diagrams/DComponent-Elem.png)
 
 ## 4.7. Software Object-Oriented Design
 
