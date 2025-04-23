@@ -275,6 +275,14 @@ visualmente atractivo y con capacidad de adaptación al progreso y gustos del us
 
 ##### 1.2.2.4. Lean UX Canvas
 
+![canva](https://raw.githubusercontent.com/UPC-NutriGain/upc-pre-2510-daos-4321-grupo5-tp1/refs/heads/capitulo-i/images/canvas%201.png)
+
+
+
+![canva](https://raw.githubusercontent.com/UPC-NutriGain/upc-pre-2510-daos-4321-grupo5-tp1/refs/heads/capitulo-i/images/canvas%202.png)
+
+
+
 # 1.3. Segmentos objetivo
 Nuestro software esta dirigido hacia 2 segmentos objetivos, los cuales son:
 
