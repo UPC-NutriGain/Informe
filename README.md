@@ -353,7 +353,85 @@ Para el diseño de estos diagramas, decidimos como equipo utilizar Structurizr, 
 
 ### 4.7.1. Class Diagrams
 
+  ![Class Diagram](./assets/diagrams/DClass.png)
+
 ### 4.7.2. Class Dictionary
+
+**Class Usuario**
+
+| Attribute       | Type    | Description               |
+| --------------- | ------- | ------------------------- |
+| id              | string  | Unique code for user      |
+| nombre          | string  | Name of user              |
+| apellido        | string  | Last name of user         |
+| dni             | string  | Identity document of user |
+| teléfono        | string  | Phone number of user      |
+| fechaNacimiento | string  | Birthday of user          |
+| tipoMembresia   | string  | Membership type of user   |
+| rutina          | Rutina  | Unique routine for user   |
+
+**Class Ejercicio**
+
+| Attribute       | Type    | Description               |
+| --------------- | ------- | ------------------------- |
+| id              | string  | Unique code for exercise  |
+| nombre          | string  | Name of exercise          |
+| descripcion     | string  | Description of exercise   |
+| dificultad      | number  | Dificulty of exercise     |
+| ruta            | Ruta    | Path type of exercise     |
+
+**Class Ruta**
+
+| Attribute       | Type    | Description               |
+| --------------- | ------- | ------------------------- |
+| id              | string  | Unique code for path      |
+| level           | number  | Path level reached        |
+
+**Class Comida**
+
+| Attribute       | Type    | Description               |
+| --------------- | ------- | ------------------------- |
+| id              | string  | Unique code for food      |
+| nombre          | string  | Name of food              |
+| ingredientes    | Ingrediente[]| Ingredients of food  |
+
+
+**Class Ingrediente**
+
+| Attribute       | Type    | Description               |
+| --------------- | ------- | ------------------------- |
+| id              | string  | Unique code for ingredient|
+| nombre          | string  | Name of ingredient        |
+| descripcion     | string  | Description of ingredient |
+
+**Class RutinaComida**
+
+| Attribute       | Type    | Description               |
+| --------------- | ------- | ------------------------- |
+| id     | string  | Unique code for daily diet routine |
+| comidas         | Comida[]| Foods included on diet    |
+
+**Class RutinaEjercicio**
+
+| Attribute       | Type    | Description               |
+| --------------- | ------- | ------------------------- |
+| id | string  | Unique code for daily exercise routine |
+| ejercicios   | Ejercicio[]| Exercises included on diet|
+
+**Class Rutina**
+
+| Attribute       | Type    | Description               |
+| --------------- | ------- | ------------------------- |
+| id              | string  | Unique code for routine   |
+| rutinaSemanalE| RutinaEjercicio[7]| Exercise routine per day|
+| rutinaSemanalC| RutinaComida[7]| Diet routine per day|
+
+**Class Preferencias**
+
+| Attribute       | Type    | Description               |
+| --------------- | ------- | ------------------------- |
+| tema            | string  | Theme applied on app      |
+| idioma          | string  | Language applied on app   |
 
 ## 4.8. Database Design
 
