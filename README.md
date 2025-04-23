@@ -150,17 +150,20 @@ Nuestra Startup llamado NutriGain es una app de entrenamiento personalizada y di
 
 - Mi nombre es Ariana Huapaya Buitron, soy estudiante ingeniería de Software, nos enfocamos en la programación, la adaptabilidad y la naturaleza dinámica del software, ya sea en su desarrollo desde cero o en la mejora de uno existente. Aplicamos técnicas y métodos propios de la ingeniería para asegurar su calidad, así como para ofrecer mantenimiento y soporte operativo continuo. Tengo conocimiento en Python, C++, SQL y principalmente Javascript y Nodejs de los cuales tengo conocimiento para crear aplicaciones Back-end y APIS. Además tengo habilidades en lo que respecta a la resolución de problemas
   
-![Ariana](https://raw.githubusercontent.com/UPC-NutriGain/upc-pre-2510-daos-4321-grupo5-tp1/refs/heads/capitulo-i/images/2.jpg)
+![Ariana](./assets/2.jpg)
+
 -----------------------------------------------------------------------------------------
 - Mi nombre es Santiago Gordillo Ramos, soy estudiante de ingeniería de software, tengo 21 años. Me gusta el lenguaje python y tengo conocimiento intermedio en los demás lenguajes.
 
-![Santi](https://raw.githubusercontent.com/UPC-NutriGain/upc-pre-2510-daos-4321-grupo5-tp1/refs/heads/capitulo-i/images/integrante22.jpg)
+![Santi](./assets/integrante22.jpg)
 
 -----------------------------------------------------------------------------------------
 - Mi nombre es Nicolas Alejandro Vera Nuñez, tengo 19 años y estudio Ingeniería de Software. En mi tiempo libre, disfruto jugar videojuegos o practicar fútbol. Soy una persona capaz de trabajar en equipo, detallista y destacada en la creación de user personas, elaboración de diagramas y programación. Mi motivación para seguir aprendiendo es llegar a crear y diseñar soluciones creativas. Me considero creativo, proactivo, tolerante, respetuoso y apasionado por lo que me gusta. Me comprometo a apoyar en el proceso para lograr un proyecto final bien planteado y obtener una buena nota.
 
 -----------------------------------------------------------------------------------------
-- Mi nombre es 
+- Mi nombre es Sebastian Méndez y estudio la carrera de Ingeniería de Software en UPC. Me apasiona el desarrollo web y actualmente estoy realizando prácticas como Frontend Developer. Cuento con conocimientos en tecnologías como: HTML5, CSS5, JavaScript, TypeScript y C#. En mis ratos libres practico mecanografía, voy al gimnasio o juego algo.
+
+![Sebastian](./assets/3.png)
 
 
 # 1.2. Solution Profile
@@ -275,12 +278,9 @@ visualmente atractivo y con capacidad de adaptación al progreso y gustos del us
 
 ##### 1.2.2.4. Lean UX Canvas
 
-![canva](https://raw.githubusercontent.com/UPC-NutriGain/upc-pre-2510-daos-4321-grupo5-tp1/refs/heads/capitulo-i/images/canvas%201.png)
+![canva](./assets/canvas1.png)
 
-
-
-![canva](https://raw.githubusercontent.com/UPC-NutriGain/upc-pre-2510-daos-4321-grupo5-tp1/refs/heads/capitulo-i/images/canvas%202.png)
-
+![canva](./assets/canvas2.png)
 
 
 # 1.3. Segmentos objetivo
