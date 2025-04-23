@@ -211,7 +211,7 @@ Esta separación por entornos y herramientas permitió una mayor eficiencia en l
 
 Para mantener el orden al desarrollar una solución y evitar conflictos o superposiciones de información, los proyectos se trabajaron en un organización de GitHub y dentro de esta se encuentran los diferentes repositorios para cada proyecto cuyos enlaces de los repositorios son los siguientes:
 
-Repositorio para el [landing page]()
+Repositorio para el [landing page](https://github.com/UPC-NutriGain/Landing-Page)
 
 Repositorio para los [tests de aceptación]()
 
@@ -260,7 +260,7 @@ Para realizar esto se realizaron los siguientes pasos:
 
 ![Landing page]()
 
-![Setting Landing page]()
+![Setting Landing page](/images/img/landind_page[2].JPG)
 
 2. Seleccionar la rama principal y confirmar los cambios, luego de esto GitHub comenzará el proceso de deploy. Cuando GitHub tenga listo el enlace público, este se podrá ver desde el mismo menú en la parte superior.
 
@@ -268,7 +268,7 @@ Para realizar esto se realizaron los siguientes pasos:
 ![Changes Landing Page]()
 
 
-Link de la [landing page]()
+Link de la [landing page](https://github.com/UPC-NutriGain/Landing-Page)
 
 
 ### **Despliegue de la Aplicación Web**
