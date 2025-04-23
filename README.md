@@ -160,6 +160,8 @@ Nuestra Startup llamado NutriGain es una app de entrenamiento personalizada y di
 -----------------------------------------------------------------------------------------
 - Mi nombre es Nicolas Alejandro Vera Nuñez, tengo 19 años y estudio Ingeniería de Software. En mi tiempo libre, disfruto jugar videojuegos o practicar fútbol. Soy una persona capaz de trabajar en equipo, detallista y destacada en la creación de user personas, elaboración de diagramas y programación. Mi motivación para seguir aprendiendo es llegar a crear y diseñar soluciones creativas. Me considero creativo, proactivo, tolerante, respetuoso y apasionado por lo que me gusta. Me comprometo a apoyar en el proceso para lograr un proyecto final bien planteado y obtener una buena nota.
 
+![Santi](https://raw.githubusercontent.com/UPC-NutriGain/Informe/refs/heads/capitulo-i/assets/nicolas.png)
+
 -----------------------------------------------------------------------------------------
 - Mi nombre es Sebastian Méndez y estudio la carrera de Ingeniería de Software en UPC. Me apasiona el desarrollo web y actualmente estoy realizando prácticas como Frontend Developer. Cuento con conocimientos en tecnologías como: HTML5, CSS5, JavaScript, TypeScript y C#. En mis ratos libres practico mecanografía, voy al gimnasio o juego algo.
 
