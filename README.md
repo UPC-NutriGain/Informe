@@ -136,6 +136,9 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 # Capítulo II : Requirements Elicitation & Analysis 	
 
 ## 2.1 Competidores
+
+Se ha identificado a Noom, Peloton y FitnessPal como los principales competidores de nuestro proyecto. Este reconocimiento nos brinda una comprensión más clara del panorama del mercado, permitiéndonos evaluar nuestras fortalezas y debilidades frente a ellos. Contar con esta información será clave para diseñar estrategias y acciones efectivas dentro del sector elegido.
+
 ### 2.1.1 Análisis competitivo
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
