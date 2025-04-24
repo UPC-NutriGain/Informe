@@ -156,7 +156,166 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 ## [Anexos](#anexos)
 
-# Student Outcome
+# Capítulo I: Introducción
+
+# 1.1. Startup Profile
+### 1.1.1.Descripcion de la startup
+Nuestra Startup llamado NutriGain es una app de entrenamiento personalizada y divertida que se adapta a los intereses y objetivos del usuario. Al comenzar, el usuario elige su camino fitness (Crecimiento muscular, Deportes de agilidad o Yoga) y un personaje virtual lo acompañará en su progreso, ajustando su rutina semanal, su plan nutricional y ofreciendo desafíos únicos y aleatorios. La app también introduce un reto diario extremo que desafía al usuario a mejorar constantemente.
+
+
+##### Misión: Impulsar al usuario a alcanzar sus objetivos físicos a través de entrenamientos personalizados, nutrición adaptada y una experiencia interactiva gamificada.
+##### Visión: Ser la aplicación líder en fitness personalizado en Latinoamérica, motivando a millones de personas a transformar su salud física y mental.
+### 1.1.2. Perfil de los integrantes
+
+- Mi nombre es Ariana Huapaya Buitron, soy estudiante ingeniería de Software, nos enfocamos en la programación, la adaptabilidad y la naturaleza dinámica del software, ya sea en su desarrollo desde cero o en la mejora de uno existente. Aplicamos técnicas y métodos propios de la ingeniería para asegurar su calidad, así como para ofrecer mantenimiento y soporte operativo continuo. Tengo conocimiento en Python, C++, SQL y principalmente Javascript y Nodejs de los cuales tengo conocimiento para crear aplicaciones Back-end y APIS. Además tengo habilidades en lo que respecta a la resolución de problemas
+  
+![Ariana](./assets/2.jpg)
+
+-----------------------------------------------------------------------------------------
+- Mi nombre es Santiago Gordillo Ramos, soy estudiante de ingeniería de software, tengo 21 años. Me gusta el lenguaje python y tengo conocimiento intermedio en los demás lenguajes.
+
+![Santi](./assets/integrante22.jpg)
+
+-----------------------------------------------------------------------------------------
+- Mi nombre es Nicolas Alejandro Vera Nuñez, tengo 19 años y estudio Ingeniería de Software. En mi tiempo libre, disfruto jugar videojuegos o practicar fútbol. Soy una persona capaz de trabajar en equipo, detallista y destacada en la creación de user personas, elaboración de diagramas y programación. Mi motivación para seguir aprendiendo es llegar a crear y diseñar soluciones creativas. Me considero creativo, proactivo, tolerante, respetuoso y apasionado por lo que me gusta. Me comprometo a apoyar en el proceso para lograr un proyecto final bien planteado y obtener una buena nota.
+
+![Santi](https://raw.githubusercontent.com/UPC-NutriGain/Informe/refs/heads/capitulo-i/assets/nicolas.png)
+
+-----------------------------------------------------------------------------------------
+- Mi nombre es Sebastian Méndez y estudio la carrera de Ingeniería de Software en UPC. Me apasiona el desarrollo web y actualmente estoy realizando prácticas como Frontend Developer. Cuento con conocimientos en tecnologías como: HTML5, CSS5, JavaScript, TypeScript y C#. En mis ratos libres practico mecanografía, voy al gimnasio o juego algo.
+
+![Sebastian](./assets/3.png)
+
+-----------------------------------------------------------------------------------------
+Mi nombre es Diego Pumahualcca y tengo 19 años. Estoy cursando la carrera de Ingeniería de Software en la UPC. Elegi la carrera, porque me interese por la creacion de paginas web y el diseño web. Con el paso del tiempo me gusto hacer los diagramas de clases, contexto, contenedores, componentes, etc.
+
+![Diego](./assets/integrante4.jpg)
+
+# 1.2. Solution Profile
+### 1.2.1.Antecedentes y problemática
+### What (Qué)  
+**¿Cuál es el problema?**  
+Muchas personas desean mejorar su condición física o adoptar hábitos más saludables, pero enfrentan dificultades para mantenerse motivadas, encontrar un plan que se adapte a sus objetivos específicos o seguir una rutina constante. Las aplicaciones tradicionales de fitness suelen ser genéricas, poco dinámicas y no se adaptan a los cambios en el progreso o intereses de los usuarios.
+
+### Where (Dónde)  
+**¿A dónde se dirige?**  
+Este problema afecta a usuarios en todo el Perú, especialmente en zonas urbanas donde el estilo de vida acelerado dificulta mantener un plan de ejercicio y alimentación constante.
+
+### Why (Por Qué)  
+**¿Cuál es la causa del problema?**  
+La mayoría de las aplicaciones de fitness actuales no logran conectar emocionalmente con el usuario, y no personalizan adecuadamente la experiencia. Además, muchas personas no cuentan con la guía profesional necesaria para estructurar un plan de ejercicio y nutrición que se alinee con sus metas individuales.
+
+### When (Cuándo)  
+**¿Cuándo sucede el problema?**  
+El problema aparece desde el momento en que una persona decide comenzar a ejercitarse sin orientación adecuada o pierde motivación rápidamente por falta de seguimiento y variedad.
+
+### Who (Quién)  
+**¿Quiénes están involucrados? ¿Quién lo utilizará?**  
+Los principales usuarios son jóvenes y adultos interesados en fitness, salud y bienestar, desde principiantes hasta deportistas intermedios.
+
+### How (Cómo)  
+**¿Cómo se utilizará el producto?**  
+NutriGain se utilizará desde una aplicación móvil. Al iniciar, el usuario elige un camino (Crecimiento Muscular, Deportes de Agilidad, Yoga) y un personaje virtual lo acompañará en todo su proceso, adaptando semanalmente su rutina de ejercicios, dieta y desafíos. 
+
+### How Much (Cuánto)  
+**¿Cuál es la magnitud del problema?**  
+El índice de sobrepeso, estrés y enfermedades que genera una vida sedentaria.
+
+## 1.2.2. Lean UX Process
+##### 1.2.2.1. **Lean UX Problem Statements** 
+**Problem Statement**
+
+Existe una desconexión entre los planes de entrenamiento estándar y los objetivos individuales de los usuarios, lo que genera desmotivación y abandono temprano del estilo de vida saludable. Las personas necesitan una herramienta atractiva y personalizada que les permita entrenar de forma eficiente, adaptada a su ritmo y objetivos. NutriGain busca llenar ese vacío mediante una app que ofrece una experiencia divertida, motivadora y orientada al progreso real del usuario.
+
+##### 1.2.2.2. Lean UX Assumptions
+**Business Assumptions**
+1. **Asumimos que nuestros usuarios** buscan mejorar su salud física y mental a través de rutinas de entrenamiento personalizadas y sostenibles en el tiempo.
+2. **Estas necesidades seran abordadas** mediante una app que combina entrenamiento físico, nutrición y motivación a través de gamificación y personajes virtuales.
+3. **Los primeros usuarios serán** jovenes y adultos con hábitos digitales, interesados en fitness, que usan el celular para entrenar y organizar su dieta.
+4. **El valor principal que esperan de nuestra aplicación es poder** acceder a rutinas personalizadas, seguimiento de su progreso, retos motivacionales y un plan nutricional integrado.
+5. **Los clientes obtendrán** logros semanales, participación en desafíos y seguimiento completo del plan.
+6. **Planeamos atraer usuarios a través de** campañas en redes sociales, influencers fitness y desafíos virales.
+7. **Generaremos ingresos en** funciones avanzadas de pago como una suscrpción premium(planes nutricionales personalizados, análisis de progreso en profundidad, rutinas premium), y anuncios de marcas saludables.
+8. **Nuestra competencia incluye** apps como Nike Training Club, Freeletics o MyFitnessPal.
+9. **Creemos que nuestra ventaja competitiva radica** en la experiencia gamificada, el acompañamiento de un personaje virtual y la integración de entrenamiento y nutrición en un mismo lugar.
+10. **El mayor riesgo es que** los usuarios no mantengan el hábito de uso diario o perciban la app como poco útil si no sienten resultados rápidos.
+11. **Enfrentaremos estos riesgos a través de** pruebas gratuitas, comunidad activa y actualizaciones constantes basadas en feedback.
+
+**User Assumptions**
+
+**¿Quién es el usuario?**
+
+Jóvenes y adultos, entusiastas del fitness, que buscan mejorar su estado físico ya sea por salud o recreacional.
+
+**¿Qué problemas enfrenta nuestro producto? ¿Cómo los resolveremos?**
+
+El principal desafío es el mercado saturado. Lo abordamos con personalización real, gamificación, personajes virtuales que acompañan el progreso, y retos diarios únicos.
+
+**¿Qué características son importantes?**
+
+La interfaz fácil de utilizar, el personaje virtual que acompañará al usuario, los planes nutricionales, las rutinas, etc.
+
+**¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+En el día a día de personas activas o que quieren adoptar un estilo de vida saludable
+
+**¿Cuándo y cómo se usa nuestro producto?**
+
+Durante el entrenamiento en casa o gimnasio. La app guía la rutina diaria, ofrece retroalimentación, consejos nutricionales y retos.
+
+**¿Cómo debe ser y comportarse nuestro producto?**
+
+visualmente atractivo y con capacidad de adaptación al progreso y gustos del usuario. Debe mantener al usuario motivado, brindando contenido variado, desafiante y útil.
+
+##### 1.2.2.3. Lean UX Hypothesis Statements
+
+- **Hypothesis Statement 01**
+
+**Creemos que** los usuarios fitness valorarán una app que les ofrezca un acompañamiento virtual personalizado.
+
+**Sabremos** que hemos tenido éxito.
+
+**Cuando** los usuarios pasen aunque sea mas de 3 semanas en la aplicación.
+
+- **Hypothesis Statement 02**
+
+**Creemos que** al implementar desafíos diarios extremos aumentaremos el nivel de compromiso.
+
+**Sabremos** que hemos tenido éxito
+
+**Cuando** mas del 60% de los usuarios completen los retos.
+
+- **Hypothesis Statement 03**
+
+**Creemos que** al ofrecer diferentes caminos fitness (musculación, agilidad o yoga), atraeremos a una audiencia más amplia.
+
+**Sabremos** que hemos tenido éxito.
+
+**Cuando** cada camino utilizado marque aunque sea el 50% de usuarios activos.
+
+- **Hypothesis Statement 04**
+
+**Creemos que** al incluir una sección de nutrición personalizada aumentaremos la eficacia del programa y la satisfacción del usuario.
+
+**Sabremos** que hemos tenido éxito.
+
+**Cuando** los usuarios reporten satisfacción en los planes nutricionales en las encuestas realizadas.
+
+##### 1.2.2.4. Lean UX Canvas
+
+![canva](./assets/canvas1.png)
+
+![canva](./assets/canvas2.png)
+
+
+# 1.3. Segmentos objetivo
+Nuestro software esta dirigido hacia 2 segmentos objetivos, los cuales son:
+
+- Estudiantes universitarios que desean mejorar su condición física:
+Jóvenes de entre 18 y 25 años, en su mayoría universitarios, que buscan incorporar hábitos saludables en su estilo de vida. Buscan soluciones prácticas, entretenidas y accesibles que se adapten a su ritmo académico. Valoran la gamificación, la personalización y la posibilidad de entrenar desde casa o el gimnasio universitario.
+
+- Adultos (30–40 años) que trabajan y desean llevar una vida más saludable:
+Personas entre 30 y 40 años con una rutina laboral estable. Están interesados en mejorar su salud física y mental mediante entrenamientos eficientes y planes de alimentación. Valoran la practicidad, la orientación clara y los resultados medibles en poco tiempo.
 
 # Capítulo IV: Product Design
 
@@ -434,7 +593,6 @@ Para el diseño de estos diagramas, decidimos como equipo utilizar Structurizr, 
 | idioma          | string  | Language applied on app   |
 
 ## 4.8. Database Design
-
 
 ### 4.8.1. Database Diagram
 
