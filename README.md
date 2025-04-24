@@ -23,7 +23,7 @@
 | Gordillo Ramos Santiago Alonso | U202215160   |
 | Vera Nuñez Nicolas Alejandro   | u202214869   |
 | Huapaya Buitron Ariana Alheli  | U201819645   |
-
+  
 </div>
 
 <div align="justify">
@@ -146,15 +146,6 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
   - [5.3.3. Evaluación según heurísticas](#532-evaluación-según-heurísticas)
 
 - [5.4. Video about the product](#54-video-about-the-product)
-
-## [Conclusiones](#conclusiones)
-
-- [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
-- [Video about the team](#video-about-the-team)
-
-## [Bibliografía](#bibliografía)
-
-## [Anexos](#anexos)
 
 # Capítulo I: Introducción
 
@@ -316,6 +307,326 @@ Jóvenes de entre 18 y 25 años, en su mayoría universitarios, que buscan incor
 
 - Adultos (30–40 años) que trabajan y desean llevar una vida más saludable:
 Personas entre 30 y 40 años con una rutina laboral estable. Están interesados en mejorar su salud física y mental mediante entrenamientos eficientes y planes de alimentación. Valoran la practicidad, la orientación clara y los resultados medibles en poco tiempo.
+
+# Capítulo III: Requirements Specification
+## 3.1. To-Be Scenario Mapping
+
+Se presenta el análisis de los distintos escenarios, estructurando una tabla que especifica la situación que requiere mejora para el segmento objetivo. Se analizan las acciones a realizar y se explica la forma en que estas son interpretadas.
+
+**Segmento 1: Estudiantes universitarios que desean mejorar su condición física**
+
+![To-Be-University-Student](/assets/To-be-map1.jpg)
+
+**Figura 1**  
+*To-Be Scenario Mapping para el segmento de estudiantes universitarios*.  
+Nota. Elaboración propia basada en el análisis de experiencias futuras proyectadas para la usuaria Camila.
+
+
+**Segmento 2: Adultos jóvenes (30–40 años) que trabajan y desean llevar una vida más saludable**
+
+![To-Be-Adult](/assets/To-be-map2.jpg)
+
+**Figura 2**  
+*To-Be Scenario Mapping para el segmento de adultos jóvenes que trabajan*.  
+Nota. Elaboración propia basada en el análisis de experiencias futuras proyectadas para el usuario Martín.
+
+## 3.2. User Stories
+
+<table>
+  <thead>
+    <tr>
+      <th>Epic / Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Criterios de Aceptación</th>
+      <th>Relacionado con (Epic ID)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US01</td>
+      <td>Elección de camino fitness</td>
+      <td>Como estudiante sin experiencia en entrenamiento, quiero elegir un camino fitness personalizado, para poder iniciar una rutina adecuada a mis metas.</td>
+      <td><strong>Dado que</strong> el usuario ha creado una cuenta, <strong>Cuando</strong> accede por primera vez, <strong>Luego</strong> podrá seleccionar uno de los caminos fitness disponibles.</td>
+      <td>EP-01</td>
+    </tr>
+    <tr>
+      <td>US02</td>
+      <td>Acompañamiento virtual</td>
+      <td>Como estudiante usuaria de la app, quiero que un personaje virtual me acompañe en mi progreso, para sentirme motivada a seguir entrenando cada semana.</td>
+      <td><strong>Dado que</strong> el usuario ha elegido un camino, <strong>Cuando</strong> avance en su progreso semanal, <strong>Luego</strong> el avatar evolucionará y mostrará mensajes de motivación.</td>
+      <td>EP-02</td>
+    </tr>
+    <tr>
+      <td>US03</td>
+      <td>Visualización de progreso</td>
+      <td>Como estudiante que busca tonificarse, quiero ver mis avances semanales mediante gráficos, para tener visibilidad clara de mi progreso.</td>
+      <td><strong>Dado que</strong> el usuario completa sesiones, <strong>Cuando</strong> revise la sección de progreso, <strong>Luego</strong> visualizará gráficas actualizadas con sus avances.</td>
+      <td>EP-03</td>
+    </tr>
+    <tr>
+      <td>US04</td>
+      <td>Plan nutricional personalizado</td>
+      <td>Como usuaria con poco conocimiento nutricional, quiero recibir un plan nutricional basado en mis preferencias, para alimentarme mejor sin complicaciones.</td>
+      <td><strong>Dado que</strong> el usuario completa su perfil alimenticio, <strong>Cuando</strong> accede al plan nutricional, <strong>Luego</strong> recibirá un menú personalizado con recomendaciones.</td>
+      <td>EP-04</td>
+    </tr>
+    <tr>
+      <td>US05</td>
+      <td>Retos semanales aleatorios</td>
+      <td>Como estudiante con rutinas monótonas previas, quiero recibir retos semanales aleatorios, para mantenerme motivada y evitar el aburrimiento.</td>
+      <td><strong>Dado que</strong> inicia una nueva semana, <strong>Cuando</strong> entra a la app, <strong>Luego</strong> recibirá un reto semanal adaptado a su nivel.</td>
+      <td>EP-05</td>
+    </tr>
+    <tr>
+      <td>US06</td>
+      <td>Plan semanal adaptado al tiempo</td>
+      <td>Como adulto con poco tiempo disponible, quiero recibir un plan semanal de ejercicios adaptado a mi rutina laboral, para poder entrenar sin afectar mi horario de trabajo.</td>
+      <td><strong>Dado que</strong> el usuario tiene tiempo limitado, <strong>Cuando</strong> configure sus preferencias, <strong>Luego</strong> el plan semanal se ajustará a su disponibilidad.</td>
+      <td>EP-01</td>
+    </tr>
+    <tr>
+      <td>US07</td>
+      <td>Registro de progreso físico y nutricional</td>
+      <td>Como profesional que desea llevar una vida saludable, quiero registrar fácilmente mis avances físicos y nutricionales, para tener seguimiento y constancia.</td>
+      <td><strong>Dado que</strong> el usuario registra sus datos, <strong>Cuando</strong> consulte su evolución, <strong>Luego</strong> podrá visualizar estadísticas de progreso físico y nutricional.</td>
+      <td>EP-03</td>
+    </tr>
+    <tr>
+      <td>US08</td>
+      <td>Motivación constante</td>
+      <td>Como adulto que se desmotiva fácilmente, quiero recibir mensajes de motivación del personaje virtual, para mantenerme enfocado en mis metas.</td>
+      <td><strong>Dado que</strong> el usuario complete objetivos, <strong>Cuando</strong> interactúe con su avatar, <strong>Luego</strong> recibirá mensajes motivacionales personalizados.</td>
+      <td>EP-02</td>
+    </tr>
+    <tr>
+      <td>US09</td>
+      <td>Acceso al camino en plan gratuito</td>
+      <td>Como usuario del plan gratuito, quiero poder probar un camino fitness completo antes de pagar, para evaluar si la app me funciona antes de suscribirme.</td>
+      <td><strong>Dado que</strong> el usuario está en plan gratuito, <strong>Cuando</strong> inicia la app, <strong>Luego</strong> podrá acceder a un camino completo pero con funciones limitadas.</td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US10</td>
+      <td>Cambio de camino en plan premium</td>
+      <td>Como usuario premium, quiero poder cambiar de camino fitness en cualquier momento, para adaptar mi entrenamiento a mis nuevas metas o intereses.</td>
+      <td><strong>Dado que</strong> el usuario tiene plan premium, <strong>Cuando</strong> desee cambiar de camino, <strong>Luego</strong> podrá hacerlo desde la configuración de perfil sin restricciones.</td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US11</td>
+      <td>Gestión de perfil de usuario</td>
+      <td>Como usuario registrado, quiero editar mi información personal y preferencias, para mantener mi perfil actualizado según mis objetivos.</td>
+      <td><strong>Dado que</strong> el usuario ha iniciado sesión, <strong>Cuando</strong> accede a su perfil, <strong>Luego</strong> podrá editar y guardar su información personal.</td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US12</td>
+      <td>Visualización de logros alcanzados</td>
+      <td>Como usuario, quiero ver los logros que he desbloqueado, para sentirme motivado a continuar usando la app.</td>
+      <td><strong>Dado que</strong> el usuario completa objetivos, <strong>Cuando</strong> consulte su perfil, <strong>Luego</strong> visualizará logros alcanzados y próximos por cumplir.</td>
+      <td>EP-02</td>
+    </tr>
+    <tr>
+      <td>US13</td>
+      <td>Notificaciones de actividad diaria</td>
+      <td>Como usuario con poca constancia, quiero recibir notificaciones diarias sobre mis rutinas y planes, para mantenerme enfocado en mi progreso.</td>
+      <td><strong>Dado que</strong> el usuario tiene planes activos, <strong>Cuando</strong> llegue la hora programada, <strong>Luego</strong> recibirá una notificación sobre su actividad pendiente.</td>
+      <td>EP-02</td>
+    </tr>
+    <tr>
+      <td>US14</td>
+      <td>Evaluación de bienestar semanal</td>
+      <td>Como usuario, quiero completar un cuestionario semanal sobre mi bienestar, para recibir recomendaciones más personalizadas.</td>
+      <td><strong>Dado que</strong> finaliza la semana, <strong>Cuando</strong> complete el cuestionario de bienestar, <strong>Luego</strong> la app ajustará sugerencias en base a sus respuestas.</td>
+      <td>EP-03</td>
+    </tr>
+    <tr>
+      <td>US15</td>
+      <td>Soporte técnico básico para usuarios</td>
+      <td>Como usuario que enfrenta dificultades técnicas, quiero acceder a una sección de ayuda o soporte, para resolver problemas rápidamente.</td>
+      <td><strong>Dado que</strong> el usuario reporta un problema, <strong>Cuando</strong> accede a la sección de soporte, <strong>Luego</strong> podrá ver respuestas frecuentes o contactar asistencia.</td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+    <td>US16</td>
+    <td>Visualización de secciones clave</td>
+    <td>Como visitante del sitio web, quiero visualizar de forma clara las secciones "About the app", "Paths", "Pricing" y "About us", para entender la app fácilmente.</td>
+    <td><strong>Dado que</strong> accedo a la landing page, <strong>Cuando</strong> navego entre secciones, <strong>Luego</strong> puedo ver cada bloque con información diferenciada y comprensible.</td>
+    <td>EP-06</td>
+    </tr>
+    <tr>
+    <td>US17</td>
+    <td>Botón CTA (Call To Action)</td>
+    <td>Como visitante, quiero ver un botón llamativo para registrarme o iniciar sesión, para empezar a usar la app de forma rápida.</td>
+    <td><strong>Dado que</strong> estoy en la landing page, <strong>Cuando</strong> visualizo el header, <strong>Luego</strong> veo un botón destacado "Get Started" que me lleva al registro/login.</td>
+    <td>EP-06</td>
+    </tr>
+    <tr>
+    <td>US18</td>
+    <td>Visualización de los caminos (Paths)</td>
+    <td>Como visitante, quiero ver los distintos caminos de entrenamiento (Aesthetic, Sports, Yoga), para elegir el que mejor se adapte a mis objetivos.</td>
+    <td><strong>Dado que</strong> navego a la sección "Paths", <strong>Cuando</strong> leo la información y veo las imágenes, <strong>Luego</strong> puedo entender la diferencia entre cada tipo de camino.</td>
+    <td>EP-01</td>
+    </tr>
+    <tr>
+    <td>US19</td>
+    <td>Información sobre la app</td>
+    <td>Como visitante, quiero entender qué hace diferente a NutriGain, para saber si me interesa registrarme.</td>
+    <td><strong>Dado que</strong> accedo a la sección "About the app", <strong>Cuando</strong> leo su contenido, <strong>Luego</strong> puedo entender sus funcionalidades principales.</td>
+    <td>EP-06</td>
+    </tr>
+    <tr>
+    <td>US20</td>
+    <td>Visualización del equipo</td>
+    <td>Como visitante, quiero conocer a las personas detrás de la app, para confiar más en el producto.</td>
+    <td><strong>Dado que</strong> accedo a la sección "About us", <strong>Cuando</strong> visualizo las tarjetas del equipo, <strong>Luego</strong> puedo ver sus nombres, roles e imágenes.</td>
+    <td>EP-06</td>
+    </tr>
+  </tbody>
+</table>
+
+## 3.3. Impact Mapping
+
+En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
+
+**Segmento 1: Estudiantes universitarios que desean mejorar su condición física**
+
+![Impact-University-Student](/assets/Impact%20map%201.png)
+
+**Figura 3**  
+*Impact Mapping para el segmento de estudiantes universitarios que desean mejorar su condición física*.  
+Nota. Elaboración propia basada en el objetivo de negocio, impactos, entregables y User Story asociada a la usuaria Camila.
+
+
+**Segmento 2: Adultos jóvenes (30–40 años) que trabajan y desean llevar una vida más saludable**
+
+![Impact-Adult](/assets/Impact%20map%202.png)
+
+**Figura 4**  
+*Impact Mapping para el segmento de adultos jóvenes (30–40 años) que trabajan y desean una vida más saludable*.  
+Nota. Elaboración propia basada en el objetivo de negocio, impactos, entregables y User Story asociada al usuario Martín.
+
+## 3.4. Product Backlog
+
+<table>
+  <thead>
+    <tr>
+      <th># Orden</th>
+      <th>User Story Id</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <td>1</td>
+    <td>US01</td>
+    <td>Elección de camino fitness</td>
+    <td>Como estudiante sin experiencia en entrenamiento, quiero elegir un camino fitness personalizado, para poder iniciar una rutina adecuada a mis metas.</td>
+    <td>3</td>
+    </tr>
+    <tr>
+    <td>2</td>
+    <td>US09</td>
+    <td>Acceso al camino en plan gratuito</td>
+    <td>Como usuario del plan gratuito, quiero poder probar un camino fitness completo antes de pagar, para evaluar si la app me funciona antes de suscribirme.</td>
+    <td>3</td>
+    </tr>
+    <tr>
+    <td>3</td>
+    <td>US04</td>
+    <td>Plan nutricional personalizado</td>
+    <td>Como usuaria con poco conocimiento nutricional, quiero recibir un plan nutricional basado en mis preferencias, para alimentarme mejor sin complicaciones.</td>
+    <td>5</td>
+    </tr>
+    <tr>
+    <td>4</td>
+    <td>US06</td>
+    <td>Plan semanal adaptado al tiempo</td>
+    <td>Como adulto con poco tiempo disponible, quiero recibir un plan semanal de ejercicios adaptado a mi rutina laboral, para poder entrenar sin afectar mi horario de trabajo.</td>
+    <td>3</td>
+    </tr>
+    <tr>
+    <td>5</td>
+    <td>US02</td>
+    <td>Acompañamiento virtual</td>
+    <td>Como estudiante usuaria de la app, quiero que un personaje virtual me acompañe en mi progreso, para sentirme motivada a seguir entrenando cada semana.</td>
+    <td>3</td>
+    </tr>
+    <tr>
+    <td>6</td>
+    <td>US05</td>
+    <td>Retos semanales aleatorios</td>
+    <td>Como estudiante con rutinas monótonas previas, quiero recibir retos semanales aleatorios, para mantenerme motivada y evitar el aburrimiento.</td>
+    <td>3</td>
+    </tr>
+    <tr>
+    <td>7</td>
+    <td>US03</td>
+    <td>Visualización de progreso</td>
+    <td>Como estudiante que busca tonificarse, quiero ver mis avances semanales mediante gráficos, para tener visibilidad clara de mi progreso.</td>
+    <td>2</td>
+    </tr>
+    <tr>
+    <td>8</td>
+    <td>US14</td>
+    <td>Evaluación de bienestar semanal</td>
+    <td>Como usuario, quiero completar un cuestionario semanal sobre mi bienestar, para recibir recomendaciones más personalizadas.</td>
+    <td>3</td>
+    </tr>
+    <tr>
+    <td>9</td>
+    <td>US13</td>
+    <td>Notificaciones de actividad diaria</td>
+    <td>Como usuario con poca constancia, quiero recibir notificaciones diarias sobre mis rutinas y planes, para mantenerme enfocado en mi progreso.</td>
+    <td>2</td>
+    </tr>
+    <tr>
+    <td>10</td>
+    <td>US08</td>
+    <td>Motivación constante</td>
+    <td>Como adulto que se desmotiva fácilmente, quiero recibir mensajes de motivación del personaje virtual, para mantenerme enfocado en mis metas.</td>
+    <td>2</td>
+    </tr>
+    <tr>
+    <td>11</td>
+    <td>US07</td>
+    <td>Registro de progreso físico y nutricional</td>
+    <td>Como profesional que desea llevar una vida saludable, quiero registrar fácilmente mis avances físicos y nutricionales, para tener seguimiento y constancia.</td>
+    <td>2</td>
+    </tr>
+    <tr>
+    <td>12</td>
+    <td>US10</td>
+    <td>Cambio de camino en plan premium</td>
+    <td>Como usuario premium, quiero poder cambiar de camino fitness en cualquier momento, para adaptar mi entrenamiento a mis nuevas metas o intereses.</td>
+    <td>2</td>
+    </tr>
+    <tr>
+    <td>13</td>
+    <td>US11</td>
+    <td>Gestión de perfil de usuario</td>
+    <td>Como usuario registrado, quiero editar mi información personal y preferencias, para mantener mi perfil actualizado según mis objetivos.</td>
+    <td>2</td>
+    </tr>
+    <tr>
+    <td>14</td>
+    <td>US12</td>
+    <td>Visualización de logros alcanzados</td>
+    <td>Como usuario, quiero ver los logros que he desbloqueado, para sentirme motivado a continuar usando la app.</td>
+    <td>2</td>
+    </tr>
+    <tr>
+    <td>15</td>
+    <td>US15</td>
+    <td>Soporte técnico básico para usuarios</td>
+    <td>Como usuario que enfrenta dificultades técnicas, quiero acceder a una sección de ayuda o soporte, para resolver problemas rápidamente.</td>
+    <td>1</td>
+    </tr>
+  </tbody>
+</table>
 
 # Capítulo IV: Product Design
 
