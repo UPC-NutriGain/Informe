@@ -170,7 +170,7 @@ Nuestra Startup llamado NutriGain es una app de entrenamiento personalizada y di
 -----------------------------------------------------------------------------------------
 Mi nombre es Diego Pumahualcca y tengo 19 años. Estoy cursando la carrera de Ingeniería de Software en la UPC. Elegi la carrera, porque me interese por la creacion de paginas web y el diseño web. Con el paso del tiempo me gusto hacer los diagramas de clases, contexto, contenedores, componentes, etc.
 
-
+![Diego](./assets/integrante4.png)
 
 # 1.2. Solution Profile
 ### 1.2.1.Antecedentes y problemática
