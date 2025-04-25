@@ -331,7 +331,6 @@ Edad: 19 <br>
 
 ![Entrevista_Seg01_Angel](assets/EntrevistaAngel.png)
 <br>
-Imagen 3 - Entrevista 2
 
 **Resumen de la entrevista:** <td> El entrevistado nos cuenta sobre qué lo motivó a mejorar su salud y condición física. Esto porque quería mejorar su aspecto físico y no tener que comprar ropa ancha.
 También cuenta qué experiencias y obstáculos tuvo al adoptar este nuevo estilo de vida saludable.
