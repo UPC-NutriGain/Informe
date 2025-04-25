@@ -154,7 +154,35 @@ El objetivo de realizar entrevistas es comprender a fondo las experiencias, punt
 
 ### 2.2.1 Diseño de entrevistas
 
+interesados en mejorar su salud y condición física:
 
+¿Qué razones te han impulsado recientemente a buscar formas de mejorar tu bienestar físico y tu salud?
+
+¿Cómo ha sido tu experiencia en el pasado al intentar llevar un estilo de vida más saludable? ¿Qué dificultades has encontrado en el camino?
+
+¿Qué tipo de guía o acompañamiento consideras que te sería más útil para alcanzar tus metas relacionadas con la salud y la forma física?
+
+¿De qué manera crees que una aplicación web de coaching online podría ayudarte a mantener la motivación y el compromiso con tus objetivos de bienestar?
+
+¿Qué funcionalidades considerarías esenciales al momento de elegir un servicio de coaching en línea enfocado en la salud y el acondicionamiento físico?
+
+¿Qué tipo de apoyo y seguimiento esperarías recibir de un coach profesional en tu camino hacia un estilo de vida más sano?
+
+Profesionales del coaching en ejercicio y alimentación:
+
+¿Qué te motivó a dedicarte profesionalmente al coaching en el ámbito del ejercicio o la nutrición?
+
+¿Cuáles son los principales retos que enfrentas al brindar tus servicios de manera presencial?
+
+¿Qué ventajas percibes en la posibilidad de ofrecer tus sesiones de coaching a través de internet?
+
+¿Qué herramientas o funciones considerarías más valiosas para brindar un servicio de coaching en línea efectivo?
+
+¿Qué elementos te parecerían fundamentales al elegir una plataforma digital para ofrecer tus servicios profesionales como coach?
+
+¿De qué forma crees que una aplicación web de coaching podría optimizar tanto tu labor como coach como la experiencia de tus clientes?
+
+eso como diseño de entrevista estaria bien?
 
 ### 2.2.2 Registro de entrevistas 
 
