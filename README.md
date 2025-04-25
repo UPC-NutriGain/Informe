@@ -258,14 +258,9 @@ Para realizar esto se realizaron los siguientes pasos:
 
 1. Una vez que se haya lanzado el release al repositorio y las ramas estén actualizadas, se procede a ingresar a GitHub, luego acceder al repositorio del proyecto y seguidamente hacer click en la pestaña “Settings”, buscar el ítem “Pages” del menú lateral.
 
-![Landing page]()
-
 ![Setting Landing page](/images/img/landind_page[2].JPG)
 
 2. Seleccionar la rama principal y confirmar los cambios, luego de esto GitHub comenzará el proceso de deploy. Cuando GitHub tenga listo el enlace público, este se podrá ver desde el mismo menú en la parte superior.
-
-
-![Changes Landing Page]()
 
 
 Link de la [landing page](https://github.com/UPC-NutriGain/Landing-Page)
@@ -363,7 +358,7 @@ El Landing Page fue desplegado exitosamente en GitHub Pages, quedando accesible 
 
 ![captura2]()
 
-Mediante el siguiente boton pueden apreciar el [LandingPage]()
+Mediante el siguiente boton pueden apreciar el [LandingPage](https://github.com/UPC-NutriGain/Landing-Page)
 
 - ### 5.2.1.7. Team Collaboration Insights during Sprint
 
