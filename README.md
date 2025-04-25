@@ -183,7 +183,7 @@ Las herramientas claves son las siguientes:
 Se eligió esta herramienta para el desarrollo del frontend de NutriGain ya que ofrece integración nativa con Vue.js, utilizado para implementar la lógica de la interfaz de usuario personalizada. WebStorm también brinda autocompletado inteligente, detección de errores en tiempo real y compatibilidad con componentes modulares, lo que facilitó el trabajo colaborativo entre los desarrolladores.
 
 <div style="text-align: center;">
-    <img src="/images/img/webstorm.png" alt="Descripción de la imagen" width="700">
+    <img src="/assets/webstorm.png" alt="Descripción de la imagen" width="700">
 </div>
 
 ### JetBrains Rider:
@@ -192,7 +192,7 @@ Esta herramienta fue clave para implementar el backend con .NET Core, ya que pro
 
 
 <div style="text-align: center;">
-    <img src="/images/img/rider.jpeg" alt="Descripción de la imagen" width="700">
+    <img src="/assets/rider.jpeg" alt="Descripción de la imagen" width="700">
 </div>
 
 
@@ -201,7 +201,7 @@ Esta herramienta fue clave para implementar el backend con .NET Core, ya que pro
 Fueron necesarios para la gestión de dependencias del proyecto frontend en Vue.js, como frameworks de diseño, librerías de gráficos de progreso y validadores de formularios. Además, el entorno Node permitió ejecutar scripts de compilación y pruebas unitarias.
 
 <div style="text-align: center;">
-    <img src="/images/img/nodeandnpm.png" alt="Descripción de la imagen" width="700">
+    <img src="/assets/nodeandnpm.png" alt="Descripción de la imagen" width="700">
 </div>
 
 Esta separación por entornos y herramientas permitió una mayor eficiencia en la entrega y pruebas.
@@ -229,7 +229,7 @@ Se aplicó el modelo de ramas GitFlow, con una estructura compuesta por:
 Para los commits se adoptó la convención Conventional Commits, permitiendo organizar fácilmente los cambios mediante etiquetas como *feat, fix, docs,* entre otros
 
 <div style="text-align: center;">
-    <img src="/images/img/GITFLOW.JPG" alt="Descripción de la imagen" width="500">
+    <img src="/assets/GITFLOW.JPG" alt="Descripción de la imagen" width="500">
 </div>
 
 
@@ -258,7 +258,7 @@ Para realizar esto se realizaron los siguientes pasos:
 
 1. Una vez que se haya lanzado el release al repositorio y las ramas estén actualizadas, se procede a ingresar a GitHub, luego acceder al repositorio del proyecto y seguidamente hacer click en la pestaña “Settings”, buscar el ítem “Pages” del menú lateral.
 
-![Setting Landing page](/images/img/landind_page[2].JPG)
+![Setting Landing page](/assets/landind_page[2].JPG)
 
 2. Seleccionar la rama principal y confirmar los cambios, luego de esto GitHub comenzará el proceso de deploy. Cuando GitHub tenga listo el enlace público, este se podrá ver desde el mismo menú en la parte superior.
 
@@ -271,7 +271,7 @@ Link de la [landing page](https://github.com/UPC-NutriGain/Landing-Page)
 Para el frontend de la aplicación NutriGain, se utilizó Vercel, aprovechando sus capacidades de CI/CD, soporte para frameworks modernos y facilidad de configuración para proyectos en Vue.js.
 
 <div style="text-align: center;">
-    <img src="/images/img/vercel.png" alt="Descripción de la imagen" width="400">
+    <img src="/assets/vercel.png" alt="Descripción de la imagen" width="400">
 </div>
 
 
@@ -326,25 +326,19 @@ Link de la [BackEnd RESTful]()
 Durante el sprint, se realizaron múltiples commits en GitHub con etiquetas claras. Las tareas fueron desarrolladas en ramas individuales y luego fusionadas a la rama main mediante pull requests.
 Se adjuntaron capturas de pantalla de cada sección funcional implementada para validación.
 
-![captura]()
+![captura](/assets/commits_1.JPG)
 
-![captura2]()
+![captura2](/assets/commits_2.JPG)
 
 - ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 Para este sprint, las pruebas se centraron en revisión manual de interfaz y pruebas básicas de visualización. No se incorporó aún un framework automatizado, pero se validó la correcta carga de elementos, adaptabilidad responsive y funcionamiento de navegación.
 
-![captura]()
-
-![captura2]()
-
 - ### 5.2.1.4. Execution Evidence for Sprint Review
 
 Se hizo una demostración funcional del Landing Page en un entorno en vivo. Se verificó la navegación entre secciones, la carga de imágenes, la adaptación en móviles y se presentó a usuarios externos para retroalimentación básica.
 
-![captura]()
-
-![captura2]()
+![captura](/assets/landing_page_figma.JPG)
 
 - ### 5.2.1.5. Services Documentation Evidence for Sprint Review
 
