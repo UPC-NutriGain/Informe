@@ -327,7 +327,7 @@ interesados en mejorar su salud y condición física:
 Nombre y apellidos: Angel Fabian <br>
 Edad: 19 <br>
 
-[URL para ir a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219266_upc_edu_pe/EXm6qkvLSXpOmnlmbQjtqDEBD06cOCpi1ZF77g4czf08BQ?e=uz0q7j&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[URL para ir a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219266_upc_edu_pe/EWENlAEPxZJHmqZvxuDqO0MBD3zQxxkQnChG0q1x3q6OBA?e=iGpgaj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ![Entrevista_Seg01_Angel](assets/EntrevistaAngel.png)
 <br>
