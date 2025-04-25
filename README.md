@@ -324,7 +324,19 @@ interesados en mejorar su salud y condición física:
 
 ### 2.2.2 Registro de entrevistas 
 
+Nombre y apellidos: Angel Fabian <br>
+Edad: 19 <br>
 
+[URL para ir a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219266_upc_edu_pe/EXm6qkvLSXpOmnlmbQjtqDEBD06cOCpi1ZF77g4czf08BQ?e=uz0q7j&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+![Entrevista_Seg01_Angel](assets/EntrevistaAngel.png)
+<br>
+Imagen 3 - Entrevista 2
+
+**Resumen de la entrevista:** <td> El entrevistado nos cuenta sobre qué lo motivó a mejorar su salud y condición física. Esto porque quería mejorar su aspecto físico y no tener que comprar ropa ancha.
+También cuenta qué experiencias y obstáculos tuvo al adoptar este nuevo estilo de vida saludable.
+Finalmente nos cuenta que lo que espera de un coach es que lo incentive dándole metas y apoyo con las rutinas y la alimentación.
+ </td>
 
 ### 2.2.3 Análisis de entrevistas
 
