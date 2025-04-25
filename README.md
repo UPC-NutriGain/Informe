@@ -908,3 +908,7 @@ Para el diseño de estos diagramas, decidimos como equipo utilizar Structurizr, 
 ### 4.8.1. Database Diagram
 
 ![Database Diagram](./assets/diagrams/DDatabase.png)
+
+
+# Capítulo V: Product Implementation, Validation & Deployment
+
