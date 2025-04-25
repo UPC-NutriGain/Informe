@@ -625,6 +625,41 @@ Nota. Elaboración propia basada en el objetivo de negocio, impactos, entregable
     <td>Como usuario que enfrenta dificultades técnicas, quiero acceder a una sección de ayuda o soporte, para resolver problemas rápidamente.</td>
     <td>1</td>
     </tr>
+    <tr>
+    <td>16</td>
+    <td>US16</td>
+    <td>Visualización de secciones clave</td>
+    <td>Como visitante del sitio web, quiero visualizar de forma clara las secciones "About the app", "Paths", "Pricing" y "About us", para entender la app fácilmente.</td>
+    <td>2</td>
+    </tr>
+    <tr>
+    <td>17</td>
+    <td>US17</td>
+    <td>Botón CTA (Call To Action)</td>
+    <td>Como visitante, quiero ver un botón llamativo para registrarme o iniciar sesión, para empezar a usar la app de forma rápida.</td>
+    <td>2</td>
+    </tr>
+    <tr>
+    <td>18</td>
+    <td>US18</td>
+    <td>Visualización de los caminos (Paths)</td>
+    <td>Como visitante, quiero ver los distintos caminos de entrenamiento (Aesthetic, Sports, Yoga), para elegir el que mejor se adapte a mis objetivos.</td>
+    <td>2</td>
+    </tr>
+    <tr>
+    <td>19</td>
+    <td>US19</td>
+    <td>Información sobre la app</td>
+    <td>Como visitante, quiero entender qué hace diferente a NutriGain, para saber si me interesa registrarme.</td>
+    <td>2</td>
+    </tr>
+    <tr>
+    <td>20</td>
+    <td>US20</td>
+    <td>Visualización del equipo</td>
+    <td>Como visitante, quiero conocer a las personas detrás de la app, para confiar más en el producto.</td>
+    <td>2</td>
+    </tr>
   </tbody>
 </table>
 
