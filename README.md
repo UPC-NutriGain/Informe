@@ -140,6 +140,132 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 Se ha identificado a Noom, Peloton y FitnessPal como los principales competidores de nuestro proyecto. Este reconocimiento nos brinda una comprensión más clara del panorama del mercado, permitiéndonos evaluar nuestras fortalezas y debilidades frente a ellos. Contar con esta información será clave para diseñar estrategias y acciones efectivas dentro del sector elegido.
 
 ### 2.1.1 Análisis competitivo
+
+<table>
+  <tr>
+    <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">Objetivo del análisis</td>
+    <td colspan="5">¿De qué forma mi competencia evalúa el mercado, crea sus soluciones y se posiciona frente a las dinámicas del sector?</td>
+  </tr>
+  <tr>
+    <td colspan="5">Este análisis se llevó a cabo con el propósito de identificar a nuestros posibles competidores y desarrollar estrategias y tácticas que nos permitan diferenciarnos de ellos.</td>
+  </tr>
+  <tr>
+    <td colspan="3">Nombre y logo</td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+        NutriGain
+        <br>
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/chapter02/logogym.png" alt="Nutrigain" width="60px">
+        </div>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+      Noom
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/chapter02/noom.png" alt="noom" width="60px">
+        </div>
+    </td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+      Peloton
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/chapter02/peloton.png" alt="peloton" width="60px">
+            </div>
+        </td>
+    <td colspan="1" valign="top" style="font-weight: bold;" >
+      MyFitnessPal
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/chapter02/myfitness.png" alt="myfitness" width="60px">
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil</p></td>
+    <td colspan="2">Overview</td>
+    <td colspan="1" valign="top">Aplicación web que conecta a usuarios interesados en ejercitarse y mantener una alimentación saludable con nutriólogos y coaches especializados.</td>
+    <td colspan="1" valign="top">Aplicación web que combina tecnología con coaching humano para ayudar a los usuarios a desarrollar hábitos saludables en torno a la alimentación, el ejercicio y el bienestar mental</td>
+    <td colspan="1" valign="top">Aplicación web que proporciona acceso a una variedad de clases de fitness en vivo y bajo demanda, incluidas clases de ciclismo, carrera, yoga y más.</td>
+    <td colspan="1" valign="top">Aplicación web que permite a los usuarios realizar un seguimiento detallado de su dieta y ejercicioy. Realiza un seguimiento del progreso físico a lo largo del tiempo.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Ventaja competitiva</td>
+    <td colspan="1" valign="top">Permite a los usuarios conectar con nutriólogos y coaches especializados, recibiendo recomendaciones personalizadas y planes de acción para alcanzar sus objetivos de salud y fitness. Con características adicionales como seguimiento de progreso, registro de alimentos, y acceso a contenido exclusivo, nuestra plataforma ofrece una experiencia integral para ayudar a los usuarios a lograr sus metas de bienestar de manera efectiva y sostenible.</td>
+    <td colspan="1" valign="top">Permite a los usuarios desarrollar hábitos saludables personalizados con el apoyo de coaches expertos, facilitando cambios de comportamiento positivos a largo plazo.</td>
+    <td colspan="1" valign="top">Permite acceder a una amplia variedad de clases de fitness en vivo y bajo demanda desde la comodidad del hogar, proporcionando una experiencia interactiva y motivadora para los usuarios.</td>
+    <td colspan="1" valign="top">Permite realizar un seguimiento detallado de la dieta y el ejercicio, ofreciendo una extensa base de datos de alimentos y ejercicios para ayudar a los usuarios a alcanzar sus objetivos de salud y fitness con mayor precisión y eficacia.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+    <td colspan="2">Mercado objetivo</td>
+    <td colspan="1" valign="top">Usuarios entre 18 y 65 años que buscan mejorar su salud y condición física a través de la combinación de ejercicio, alimentación saludable y asesoramiento profesional.</td>
+    <td colspan="1" valign="top">Usuarios entre 18 y 65 años que buscan desarrollar hábitos saludables personalizados y recibir apoyo de coaches expertos para lograr cambios de comportamiento positivos a largo plazo.</td>
+    <td colspan="1" valign="top">Usuarios entre 18 y 65 años que desean acceder a una amplia variedad de clases de fitness en vivo y bajo demanda desde la comodidad del hogar, buscando una experiencia interactiva y motivadora para mejorar su condición física.</td>
+    <td colspan="1" valign="top">Usuarios entre 18 y 65 años que están interesados en realizar un seguimiento detallado de su dieta y ejercicio, utilizando una extensa base de datos de alimentos y ejercicios para alcanzar sus objetivos de salud y fitness de manera precisa y eficaz.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Estrategias de marketing</td>
+    <td colspan="1" valign="top">Nutrigain realiza colaboraciones con influencers locales en el ámbito del fitness, la nutrición o el bienestar para promocionar tu aplicación. Estos influencers pueden tener una audiencia comprometida y localizada.</td>
+    <td colspan="1" valign="top">Ofrecen contenido efectivo, creando y compartiendo artículos, videos y recursos relacionados con la salud, el fitness y la nutrición en sus canales digitales</td>
+    <td colspan="1" valign="top">Ofrecen una amplia variedad de clases de fitness en vivo y bajo demanda a través de su plataforma</td>
+    <td colspan="1" valign="top">Ofrecen a sus usuarios a compartir sus logros y progresos en las redes sociales utilizando el hashtag oficial de la marca.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
+    <td colspan="2">Productos & Servicios</td>
+    <td colspan="1" valign="top">-Permite a los usuarios conectarse con nutriólogos y coaches especializados en salud y fitness.<br>- Proporciona recomendaciones personalizadas según los objetivos individuales de cada usuario, ya sea bajar de peso, definir músculos o aumentar volumen, entre otros.<br>- Permite a los usuarios realizar un seguimiento de su progreso a lo largo del tiempo, ya sea en términos de peso, medidas, hábitos alimenticios o rendimiento en el ejercicio.<br>- Facilita la conexión con nutriólogos, coaches independientes y gimnasios locales donde los    usuarios pueden recibir apoyo adicional y realizar sus ejercicios.
+    </td>
+    <td colspan="1" valign="top">-Ofrece coaching personalizado que combina tecnología avanzada con asesoramiento humano para ayudar a los usuarios a desarrollar hábitos saludables.<br>-Proporciona herramientas y recursos para la planificación de comidas, incluyendo recetas saludables y sugerencias de alimentos.<br>-Permite a los usuarios realizar un seguimiento de su progreso en términos de pérdida de peso, actividad física y hábitos alimenticios a lo largo del tiempo.</td>
+    <td colspan="1" valign="top">-Ofrece una amplia variedad de clases de fitness en vivo y bajo demanda, que incluyen ciclismo, carrera, yoga y más.<br>-Ofrece equipos de ejercicio en el hogar, como bicicletas estáticas y cintas de correr, para una experiencia completa de entrenamiento.<br>-Fomenta la participación de la comunidad a través de eventos virtuales, grupos de apoyo y desafíos de fitness para mantener a los usuarios motivados y comprometidos.</td>
+    <td colspan="1" valign="top">-Permite a los usuarios realizar un seguimiento detallado de su consumo de alimentos y actividad física, proporcionando datos y análisis para ayudar a alcanzar sus metas de salud y fitness.<br>-Ofrece una amplia base de datos de alimentos que facilita a los usuarios encontrar y registrar información nutricional precisa sobre sus comidas.<br>-Cuenta con una comunidad activa en línea donde los usuarios pueden compartir sus logros, obtener apoyo y motivación de otros miembros.</td>
+  </tr>
+  <tr>
+      <td colspan="2">Precios & Costos</td>
+      <td colspan="1" valign="top">-Test Plan: S/.0 <br>-Monthy Plan: S/.19.90<br>-Annual Plan: S/.249.9.</td>
+      <td colspan="1" valign="top">-Periodo de prueba (7 a 14 dias): $0.50 hasta $18.<br>-Plan mensual de renovación automática: $70 USD por mes.<br>-Plan anual de renovacion automatica:  $17.50 USD por mes.</td>
+      <td colspan="1" valign="top">Los precios pueden incluir el costo inicial del equipo (como bicicletas estáticas o cintas de correr) más una tarifa mensual de suscripción que suele rondar los $39 al mes para acceso completo a clases y contenido exclusivo.</td>
+      <td colspan="1" valign="top">-Free: $0 (seguimiento de la dieta y el ejercicio)<br>-Premium: $19.99 mensual</td>
+  </tr>
+  <tr>
+    <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+    <td colspan="1" valign="top">Redes sociales y aplicación web</td>
+    <td colspan="1" valign="top">Página web y aplicación móvil</td>
+    <td colspan="1" valign="top">Página web y aplicación móvil</td>
+    <td colspan="1" valign="top">Página web y aplicación móvil</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
+    <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Fortalezas</td>
+    <td colspan="1" valign="top">Conexión directa con nutriólogos y coachs</td>
+    <td colspan="1" valign="top">Ofrece recomendaciones y seguimiento personalizados basados en datos de usuario</td>
+    <td colspan="1" valign="top">Comunidad comprometida</td>
+    <td colspan="1" valign="top">Amplia base de datos de alimentosInterfaz fácil de usar.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Debilidades</td>
+    <td colspan="1" valign="top">Dependencia de la disponibilidad de profesionales</td>
+    <td colspan="1" valign="top">Costo de suscripción</td>
+    <td colspan="1" valign="top">Costo inicial elevado<br>Dependencia del equipo</td>
+    <td colspan="1" valign="top">La versión gratuita de MyFitnessPal muestra anuncios intrusivos que pueden afectar la experiencia del usuario y disminuir la satisfacción.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Oportunidades</td>
+    <td colspan="1" valign="top">Explorar la posibilidad de ofrecer servicios adicionales, como planes de comida personalizados o seguimiento de progreso a largo plazo.</td>
+    <td colspan="1" valign="top">La expansión a mercados internacionales ofrece oportunidades para llegar a nuevas audiencias y aumentar la base de usuarios.</td>
+    <td colspan="1" valign="top">Peloton puede expandir su oferta de clases y contenido para cubrir una variedad aún más amplia de intereses y necesidades de fitness.</td>
+    <td colspan="1" valign="top">Integración con dispositivos de fitness populares, como Fitbit o Garmin, para proporcionar a los usuarios una experiencia más completa y personalizada.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Amenazas</td>
+    <td colspan="1" valign="top">Competencia creciente</td>
+    <td colspan="1" valign="top">Cambios en las tendencias de salud o en las preferencias del consumido</td>
+    <td colspan="1" valign="top">Cambios en las preferencias del consumidor.</td>
+    <td colspan="1" valign="top">La competencia en el mercado de aplicaciones de salud y fitness es feroz, con una variedad de opciones disponibles para los usuarios</td>
+  </tr>
+</table>
+
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
 Nuestro objetivo principal es ofrecer una experiencia de usuario superior que nos distinga claramente de la competencia. Aspiramos a que nuestra aplicación sea intuitiva, visualmente atractiva y cargada de funciones útiles que superen las expectativas del usuario.
