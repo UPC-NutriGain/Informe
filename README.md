@@ -143,7 +143,7 @@ Se ha identificado a Noom, Peloton y FitnessPal como los principales competidore
 
 <table>
   <tr>
-    <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+    <th colspan="7" valign="top"><b>Competitive Analysis</b></th>
   </tr>
   <tr>
     <td colspan="2" rowspan="2">Objetivo del análisis</td>
@@ -182,48 +182,76 @@ Se ha identificado a Noom, Peloton y FitnessPal como los principales competidore
   <tr>
     <td colspan="1" rowspan="2"><p>Perfil</p></td>
     <td colspan="2">Overview</td>
-    <td colspan="1" valign="top">Aplicación web que conecta a usuarios interesados en ejercitarse y mantener una alimentación saludable con nutriólogos y coaches especializados.</td>
-    <td colspan="1" valign="top">Aplicación web que combina tecnología con coaching humano para ayudar a los usuarios a desarrollar hábitos saludables en torno a la alimentación, el ejercicio y el bienestar mental</td>
-    <td colspan="1" valign="top">Aplicación web que proporciona acceso a una variedad de clases de fitness en vivo y bajo demanda, incluidas clases de ciclismo, carrera, yoga y más.</td>
-    <td colspan="1" valign="top">Aplicación web que permite a los usuarios realizar un seguimiento detallado de su dieta y ejercicioy. Realiza un seguimiento del progreso físico a lo largo del tiempo.</td>
+    <td colspan="1" valign="top">Plataforma web que vincula a personas que desean mantenerse activas y llevar una dieta equilibrada con nutriólogos y entrenadores profesionales.</td>
+    <td colspan="1" valign="top">Plataforma web que integra tecnología y acompañamiento personalizado para guiar a los usuarios en la adopción de hábitos saludables relacionados con la nutrición, la actividad física y la salud mental.</td>
+    <td colspan="1" valign="top">Plataforma web que ofrece acceso a una amplia gama de clases de fitness tanto en vivo como a demanda, incluyendo sesiones de ciclismo, running, yoga y otras disciplinas.</td>
+    <td colspan="1" valign="top">Plataforma web que facilita a los usuarios el monitoreo detallado de su alimentación y rutina de ejercicios, permitiéndoles seguir su progreso físico a lo largo del tiempo.</td>
   </tr>
   <tr>
     <td colspan="2">Ventaja competitiva</td>
-    <td colspan="1" valign="top">Permite a los usuarios conectar con nutriólogos y coaches especializados, recibiendo recomendaciones personalizadas y planes de acción para alcanzar sus objetivos de salud y fitness. Con características adicionales como seguimiento de progreso, registro de alimentos, y acceso a contenido exclusivo, nuestra plataforma ofrece una experiencia integral para ayudar a los usuarios a lograr sus metas de bienestar de manera efectiva y sostenible.</td>
-    <td colspan="1" valign="top">Permite a los usuarios desarrollar hábitos saludables personalizados con el apoyo de coaches expertos, facilitando cambios de comportamiento positivos a largo plazo.</td>
-    <td colspan="1" valign="top">Permite acceder a una amplia variedad de clases de fitness en vivo y bajo demanda desde la comodidad del hogar, proporcionando una experiencia interactiva y motivadora para los usuarios.</td>
-    <td colspan="1" valign="top">Permite realizar un seguimiento detallado de la dieta y el ejercicio, ofreciendo una extensa base de datos de alimentos y ejercicios para ayudar a los usuarios a alcanzar sus objetivos de salud y fitness con mayor precisión y eficacia.</td>
+    <td colspan="1" valign="top">Brinda a los usuarios la posibilidad de conectarse con nutriólogos y entrenadores especializados, obteniendo recomendaciones personalizadas y planes diseñados para alcanzar sus metas de salud y acondicionamiento físico. Con funciones complementarias como el seguimiento del progreso, el registro de alimentos y el acceso a contenido exclusivo, nuestra plataforma ofrece una experiencia completa que impulsa a los usuarios a lograr sus objetivos de bienestar de forma efectiva y duradera.</td>
+    <td colspan="1" valign="top">Facilita a los usuarios la creación de hábitos saludables a medida con el respaldo de entrenadores expertos, promoviendo cambios de comportamiento positivos y sostenibles a largo plazo.</td>
+    <td colspan="1" valign="top">Ofrece acceso a una extensa gama de clases de fitness en vivo y a demanda desde la comodidad del hogar, brindando una experiencia interactiva y motivadora para los usuarios.</td>
+    <td colspan="1" valign="top">Facilita un seguimiento detallado de la dieta y el ejercicio, proporcionando una amplia base de datos de alimentos y ejercicios para ayudar a los usuarios a lograr sus metas de salud y acondicionamiento físico con mayor precisión y eficacia.</td>
   </tr>
   <tr>
     <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
     <td colspan="2">Mercado objetivo</td>
-    <td colspan="1" valign="top">Usuarios entre 18 y 65 años que buscan mejorar su salud y condición física a través de la combinación de ejercicio, alimentación saludable y asesoramiento profesional.</td>
-    <td colspan="1" valign="top">Usuarios entre 18 y 65 años que buscan desarrollar hábitos saludables personalizados y recibir apoyo de coaches expertos para lograr cambios de comportamiento positivos a largo plazo.</td>
-    <td colspan="1" valign="top">Usuarios entre 18 y 65 años que desean acceder a una amplia variedad de clases de fitness en vivo y bajo demanda desde la comodidad del hogar, buscando una experiencia interactiva y motivadora para mejorar su condición física.</td>
-    <td colspan="1" valign="top">Usuarios entre 18 y 65 años que están interesados en realizar un seguimiento detallado de su dieta y ejercicio, utilizando una extensa base de datos de alimentos y ejercicios para alcanzar sus objetivos de salud y fitness de manera precisa y eficaz.</td>
+    <td colspan="1" valign="top">Personas de entre 18 y 65 años que desean mejorar su salud y estado físico mediante una combinación de ejercicio, nutrición balanceada y orientación profesional.</td>
+    <td colspan="1" valign="top">Personas de entre 18 y 65 años que desean crear hábitos saludables personalizados y contar con el apoyo de entrenadores expertos para lograr cambios de comportamiento positivos y sostenibles a largo plazo.</td>
+    <td colspan="1" valign="top">Personas de entre 18 y 65 años que quieren acceder a una amplia gama de clases de fitness en vivo y a demanda desde la comodidad de su hogar, buscando una experiencia interactiva y motivadora para mejorar su estado físico.</td>
+    <td colspan="1" valign="top">Personas de entre 18 y 65 años interesadas en monitorear detalladamente su dieta y ejercicio, utilizando una amplia base de datos de alimentos y ejercicios para lograr sus objetivos de salud y acondicionamiento físico de manera precisa y efectiva.</td>
   </tr>
   <tr>
     <td colspan="2">Estrategias de marketing</td>
-    <td colspan="1" valign="top">Nutrigain realiza colaboraciones con influencers locales en el ámbito del fitness, la nutrición o el bienestar para promocionar tu aplicación. Estos influencers pueden tener una audiencia comprometida y localizada.</td>
-    <td colspan="1" valign="top">Ofrecen contenido efectivo, creando y compartiendo artículos, videos y recursos relacionados con la salud, el fitness y la nutrición en sus canales digitales</td>
-    <td colspan="1" valign="top">Ofrecen una amplia variedad de clases de fitness en vivo y bajo demanda a través de su plataforma</td>
-    <td colspan="1" valign="top">Ofrecen a sus usuarios a compartir sus logros y progresos en las redes sociales utilizando el hashtag oficial de la marca.</td>
+    <td colspan="1" valign="top">Nutrigain establece alianzas con influencers locales en los sectores de fitness, nutrición o bienestar para promocionar su aplicación. Estos influencers cuentan con audiencias comprometidas y específicas, lo que permite llegar de manera más directa a un público objetivo.</td>
+    <td colspan="1" valign="top">Proporcionan contenido valioso creando y compartiendo artículos, videos y recursos relacionados con la salud, el fitness y la nutrición a través de sus canales digitales.</td>
+    <td colspan="1" valign="top">Brindan una extensa gama de clases de fitness en vivo y a demanda a través de su plataforma.</td>
+    <td colspan="1" valign="top">Permiten a sus usuarios compartir sus logros y avances en las redes sociales utilizando el hashtag oficial de la marca.</td>
   </tr>
   <tr>
     <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
     <td colspan="2">Productos & Servicios</td>
-    <td colspan="1" valign="top">-Permite a los usuarios conectarse con nutriólogos y coaches especializados en salud y fitness.<br>- Proporciona recomendaciones personalizadas según los objetivos individuales de cada usuario, ya sea bajar de peso, definir músculos o aumentar volumen, entre otros.<br>- Permite a los usuarios realizar un seguimiento de su progreso a lo largo del tiempo, ya sea en términos de peso, medidas, hábitos alimenticios o rendimiento en el ejercicio.<br>- Facilita la conexión con nutriólogos, coaches independientes y gimnasios locales donde los    usuarios pueden recibir apoyo adicional y realizar sus ejercicios.
+    <td colspan="1" valign="top">Brinda a los usuarios la posibilidad de conectarse con nutriólogos y entrenadores especializados en salud y fitness.
+
+Ofrece recomendaciones personalizadas basadas en los objetivos individuales de cada usuario, como perder peso, tonificar músculos o ganar masa muscular, entre otros.
+
+Permite a los usuarios monitorear su progreso a lo largo del tiempo, ya sea en términos de peso, medidas, hábitos alimenticios o desempeño en ejercicios.
+
+Facilita la conexión con nutriólogos, entrenadores independientes y gimnasios locales, donde los usuarios pueden recibir apoyo adicional y realizar sus entrenamientos.
     </td>
-    <td colspan="1" valign="top">-Ofrece coaching personalizado que combina tecnología avanzada con asesoramiento humano para ayudar a los usuarios a desarrollar hábitos saludables.<br>-Proporciona herramientas y recursos para la planificación de comidas, incluyendo recetas saludables y sugerencias de alimentos.<br>-Permite a los usuarios realizar un seguimiento de su progreso en términos de pérdida de peso, actividad física y hábitos alimenticios a lo largo del tiempo.</td>
-    <td colspan="1" valign="top">-Ofrece una amplia variedad de clases de fitness en vivo y bajo demanda, que incluyen ciclismo, carrera, yoga y más.<br>-Ofrece equipos de ejercicio en el hogar, como bicicletas estáticas y cintas de correr, para una experiencia completa de entrenamiento.<br>-Fomenta la participación de la comunidad a través de eventos virtuales, grupos de apoyo y desafíos de fitness para mantener a los usuarios motivados y comprometidos.</td>
-    <td colspan="1" valign="top">-Permite a los usuarios realizar un seguimiento detallado de su consumo de alimentos y actividad física, proporcionando datos y análisis para ayudar a alcanzar sus metas de salud y fitness.<br>-Ofrece una amplia base de datos de alimentos que facilita a los usuarios encontrar y registrar información nutricional precisa sobre sus comidas.<br>-Cuenta con una comunidad activa en línea donde los usuarios pueden compartir sus logros, obtener apoyo y motivación de otros miembros.</td>
+    <td colspan="1" valign="top">Brinda coaching personalizado que combina tecnología avanzada con asesoramiento humano para apoyar a los usuarios en el desarrollo de hábitos saludables.
+
+Ofrece herramientas y recursos para la planificación de comidas, incluyendo recetas saludables y recomendaciones de alimentos.
+
+Permite a los usuarios monitorear su progreso en cuanto a pérdida de peso, actividad física y hábitos alimenticios a lo largo del tiempo.</td>
+    <td colspan="1" valign="top">Brinda una amplia variedad de clases de fitness en vivo y a demanda, que incluyen ciclismo, carrera, yoga y otras disciplinas.
+
+Ofrece equipos de ejercicio en casa, como bicicletas estáticas y cintas de correr, para proporcionar una experiencia de entrenamiento completa.
+
+Promueve la participación de la comunidad mediante eventos virtuales, grupos de apoyo y desafíos de fitness, manteniendo a los usuarios motivados y comprometidos.</td>
+    <td colspan="1" valign="top">Permite a los usuarios monitorear detalladamente su consumo de alimentos y actividad física, proporcionando datos y análisis para ayudarles a alcanzar sus metas de salud y acondicionamiento físico.
+
+Ofrece una extensa base de datos de alimentos que facilita a los usuarios encontrar y registrar información nutricional precisa sobre sus comidas.
+
+Cuenta con una comunidad activa en línea donde los usuarios pueden compartir sus logros, recibir apoyo y motivación de otros miembros.</td>
   </tr>
   <tr>
       <td colspan="2">Precios & Costos</td>
-      <td colspan="1" valign="top">-Test Plan: S/.0 <br>-Monthy Plan: S/.19.90<br>-Annual Plan: S/.249.9.</td>
-      <td colspan="1" valign="top">-Periodo de prueba (7 a 14 dias): $0.50 hasta $18.<br>-Plan mensual de renovación automática: $70 USD por mes.<br>-Plan anual de renovacion automatica:  $17.50 USD por mes.</td>
-      <td colspan="1" valign="top">Los precios pueden incluir el costo inicial del equipo (como bicicletas estáticas o cintas de correr) más una tarifa mensual de suscripción que suele rondar los $39 al mes para acceso completo a clases y contenido exclusivo.</td>
-      <td colspan="1" valign="top">-Free: $0 (seguimiento de la dieta y el ejercicio)<br>-Premium: $19.99 mensual</td>
+      <td colspan="1" valign="top">Test Plan: S/.0
+
+Monthly Plan: S/.19.90
+
+Annual Plan: S/.249.90</td>
+      <td colspan="1" valign="top">Periodo de prueba (7 a 14 días): $0.50 hasta $18.
+
+Plan mensual con renovación automática: $70 USD por mes.
+
+Plan anual con renovación automática: $17.50 USD por mes.</td>
+      <td colspan="1" valign="top">Los precios pueden incluir el costo inicial del equipo (como bicicletas estáticas o cintas de correr), además de una tarifa mensual de suscripción que generalmente es de $39 al mes para obtener acceso completo a clases y contenido exclusivo.</td>
+      <td colspan="1" valign="top">Free: $0 (seguimiento de la dieta y el ejercicio).
+
+Premium: $19.99 mensual.</td>
   </tr>
   <tr>
     <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
@@ -234,35 +262,35 @@ Se ha identificado a Noom, Peloton y FitnessPal como los principales competidore
   </tr>
   <tr>
     <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
-    <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+    <td colspan="6">Elabore este análisis para su startup y sus competidores. Las fortalezas de su empresa deben potenciar las oportunidades del mercado y contribuir a lo que usted define como su ventaja competitiva.</td>
   </tr>
   <tr>
     <td colspan="2">Fortalezas</td>
-    <td colspan="1" valign="top">Conexión directa con nutriólogos y coachs</td>
-    <td colspan="1" valign="top">Ofrece recomendaciones y seguimiento personalizados basados en datos de usuario</td>
-    <td colspan="1" valign="top">Comunidad comprometida</td>
-    <td colspan="1" valign="top">Amplia base de datos de alimentosInterfaz fácil de usar.</td>
+    <td colspan="1" valign="top">Vinculación directa con nutriólogos y entrenadores.</td>
+    <td colspan="1" valign="top">Proporciona sugerencias y monitoreo personalizados basados en la información del usuario.</td>
+    <td colspan="1" valign="top">Comunidad activa y dedicada.</td>
+    <td colspan="1" valign="top">La combinación de tecnología con soporte humano crea una ventaja competitiva al proporcionar un enfoque más individualizado.</td>
   </tr>
   <tr>
     <td colspan="2">Debilidades</td>
-    <td colspan="1" valign="top">Dependencia de la disponibilidad de profesionales</td>
-    <td colspan="1" valign="top">Costo de suscripción</td>
-    <td colspan="1" valign="top">Costo inicial elevado<br>Dependencia del equipo</td>
-    <td colspan="1" valign="top">La versión gratuita de MyFitnessPal muestra anuncios intrusivos que pueden afectar la experiencia del usuario y disminuir la satisfacción.</td>
+    <td colspan="1" valign="top"> Los competidores establecidos pueden tener una base de usuarios sólida, lo que dificulta la captación de nuevos usuarios.</td>
+    <td colspan="1" valign="top">Si la infraestructura no está diseñada para crecer rápidamente, podría haber problemas al expandir el número de usuarios o funcionalidades.</td>
+    <td colspan="1" valign="top">Si la personalización de las recomendaciones no es lo suficientemente precisa, los usuarios pueden no encontrar valor en la aplicación.</td>
+    <td colspan="1" valign="top">Conseguir nuevos usuarios puede ser costoso si no se cuenta con una estrategia efectiva de marketing o visibilidad en el mercado.</td>
   </tr>
   <tr>
     <td colspan="2">Oportunidades</td>
-    <td colspan="1" valign="top">Explorar la posibilidad de ofrecer servicios adicionales, como planes de comida personalizados o seguimiento de progreso a largo plazo.</td>
-    <td colspan="1" valign="top">La expansión a mercados internacionales ofrece oportunidades para llegar a nuevas audiencias y aumentar la base de usuarios.</td>
-    <td colspan="1" valign="top">Peloton puede expandir su oferta de clases y contenido para cubrir una variedad aún más amplia de intereses y necesidades de fitness.</td>
-    <td colspan="1" valign="top">Integración con dispositivos de fitness populares, como Fitbit o Garmin, para proporcionar a los usuarios una experiencia más completa y personalizada.</td>
+    <td colspan="1" valign="top">La creciente conciencia sobre la salud y el bienestar ofrece una oportunidad para capturar una mayor cuota de mercado.</td>
+    <td colspan="1" valign="top">Incorporar tecnologías avanzadas, como inteligencia artificial, puede mejorar la personalización de la plataforma.</td>
+    <td colspan="1" valign="top">Colaborar con marcas locales, influencers y gimnasios puede ampliar el alcance de la startup.</td>
+    <td colspan="1" valign="top">Conexión con dispositivos de fitness populares, como Fitbit o Garmin, para ofrecer a los usuarios una experiencia más integral y adaptada a sus necesidades.</td>
   </tr>
   <tr>
     <td colspan="2">Amenazas</td>
-    <td colspan="1" valign="top">Competencia creciente</td>
-    <td colspan="1" valign="top">Cambios en las tendencias de salud o en las preferencias del consumido</td>
-    <td colspan="1" valign="top">Cambios en las preferencias del consumidor.</td>
-    <td colspan="1" valign="top">La competencia en el mercado de aplicaciones de salud y fitness es feroz, con una variedad de opciones disponibles para los usuarios</td>
+    <td colspan="1" valign="top">La aparición de nuevas aplicaciones o plataformas con características similares puede aumentar la presión en el mercado y dificultar la captación de usuarios.</td>
+    <td colspan="1" valign="top">Los intereses y necesidades de los usuarios pueden cambiar rápidamente, lo que obliga a las plataformas a adaptarse constantemente para mantener la relevancia.</td>
+    <td colspan="1" valign="top">La creciente preocupación por la privacidad de los datos y las regulaciones en torno a la protección de la información personal pueden generar desafíos en términos de cumplimiento y confianza del usuario.</td>
+    <td colspan="1" valign="top">Cualquier interrupción en el servicio o fallos técnicos pueden dañar la reputación de la aplicación y disminuir la satisfacción de los usuarios.</td>
   </tr>
 </table>
 
