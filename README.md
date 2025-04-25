@@ -324,19 +324,18 @@ interesados en mejorar su salud y condición física:
 
 ### 2.2.2 Registro de entrevistas 
 
-**Entrevista #2**
 
-Nombre y apellidos:  Jaqueline Rodríguez <br>
-Edad: 24 <br>
-[URL para ir a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219266_upc_edu_pe/EUffeZIZvipMoIEP7KmF74ABd1ZX9WKkSsknz2XiZLmczw?e=6SLBuP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-![Entrevista_Seg02_Jaqueline](assets/chapter02/EntrevistaCoach.png)
-<br>
-Imagen 6 - Entrevista 2
-
-**Resumen de la entrevista:** La entrevistada nos comenta sobre el interés acerca de ayudar a los demás a entrenar y que alcancen sus metas, nos comenta también las dificultades que tuvo con algunos clientes cuando ella les intentaba ayudar. Finalmente nos comenta que el usar una aplicación web le resulta interesante y cree que le ayudará en su trabajo como coach.
 
 ### 2.2.3 Análisis de entrevistas
+
+![Pregunta1](assets/chapter02/Resultados_Segmento1_Pregunta1.png)
+<br><br>
+![Pregunta2](assets/chapter02/Resultados_Segmento1_Pregunta2.png)
+<br><br>
+![Pregunta4](assets/chapter02/Resultados_Segmento1_Pregunta4.png)
+<br><br>
+![Pregunta6](assets/chapter02/Resultados_Segmento1_Pregunta6.png)
+<br><br>
 
 ## 2.3 Needfinding 
 
