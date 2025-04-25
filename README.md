@@ -32,7 +32,10 @@
 
 # Project Report Collaboration Insights
 
+URL del repositorio para el reporte del proyecto: https://github.com/UPC-NutriGain/Informe/tree/main?tab=readme-ov-file
+
 TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo:
+
 
 Durante la preparación del informe, se llevaron a cabo las siguientes actividades:
 
@@ -41,6 +44,35 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 - Se organizaron reuniones para asignar las tareas, para coordinar el progreso de los elementos del informe y para comunicar los avances del primer Sprint.
 
 <br>
+
+|Integrante|Tareas Asignadas|
+|---|---|
+|Ariana Huapaya|xxxxxx.<br>xxxxxxx.<br>xxxxx<br>xxxxxx<br>xx.<br>xxx.<br>xxxx.<br>Landing Page<br>Sprint 1|
+|Santiago Gordillo|xxxx.<br>xxxx<br>xxxxx<br>xxxxxx<br>xxxxxx<br>xxxxx<br>xxxxx<br>xxxxx<br>Landing Page<br>Sprint 1|
+|Sebastian Mendez|xxxx<br>xxxxx<br>xxxxx<br>xxxxx<br>xxxxxx<br>xxxxx<br>xxxxxx<br>xxxxxx<br>xxxxx<br>xxxxx<br>xxxxx<br>Landing Page<br>Sprint 1|
+|Diego Pumahualcca|xxxx<br>xxxxx.<br>xxxx.<br>xxxxx<br>xxxxxxx<br>xxxxx<br>xxxx<br>xxxx<br>xxxx<br>xxxxx<br>xxxxxx<br>xxxxx<brxxxxx<br>xxxxx<br>xxxxx<br>Landing Page<br>Sprint 1|
+|Nicolas Vera|Impact Map.<br>AS-IS Map.<br>TO-BE Map.<br>User Stories.<br>Product Backlog.<br>User Persona.<br>Nav bar del Landing.<br>Hero section del landing.<br>Responsive del landing.<br>Animación del landing.<br>Botón de traducción del landing.<br>Sprint 1|
+
+## GitHub Insights
+GitHub nos permite exponer una linea de tiempo de nuestras ramas principales y el proceso al que se han sometido. Tdodas las ramas creadas fue en base al diseño de GitFlow para una buena organización y control de versiones.
+
+Los integrantes del equipo son:
+* Ariana Huapaya (arianahuapayabui)
+* Santiago Gordillo (SantiIHC)
+* Sebastian Mendez (el-tres-palabritas)
+* Diego Pumahualcca  (DiegoPumahualcca)
+* Nicolas Vera (nicxlxs)
+
+**Student Outcomes**
+
+|Criterio específico|Acciones realizadas|Conclusiones|
+|---|---|---|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Ariana Huapaya**<br>TB1:xxxx<br><br>**Santiago Gordillo**<br>TB1:<br>xxxxxxx<br><br>**Sebastian Mendez**<br>TB1:<br>xxxxxx<br><br>**Diego Pumahualcca**<br>TB1:<br>xxxxxx<br><br>**Nicolas Vera**<br>TB1:<br>Durante el desarrollo de los entregables como el Impact Map, AS-IS Map, TO-BE Map y User Stories, comprendí la importancia de identificar y priorizar correctamente las necesidades de los futuros usuarios. Además, gracias a reuniones constantes con mis compañeros, fortalecí mi capacidad de comunicar ideas de manera clara para construir soluciones innovadoras y efectivas.|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Ariana Huapaya**<br>TB1:xxxxx<br><br>**Santiago Gordillo**<br>TB1:<br>xxxxxx<br><br>**Sebastian Mendez**<br>TB1:<br>xxxxxx<br><br>**Diego Pumahualcca**<br>TB1:<br>xxxxxx<br><br>**Nicolas Vera**<br>TB1:<br>La elaboración de entregables como el Product Backlog, User Personas, Impact Map, y la estructura del Landing Page (Nav bar, Hero Section, Responsive, Animación y Botón de traducción) me permitió comunicar de forma escrita las ideas clave del proyecto. Gracias a este proceso de documentación, se logró mantener una línea clara de desarrollo, facilitando la comprensión de los entregables por parte de todos los miembros del equipo.|La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
+
+La colaboración en la creación del informe se llevó a cabo a través de una serie de contribuciones constantes al repositorio de la organización NutriGain.
+
+![TB!](/assets/Inshight.png)
 
 # Contenido
 
