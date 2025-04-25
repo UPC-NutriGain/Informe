@@ -322,20 +322,6 @@ interesados en mejorar su salud y condición física:
 
 ¿Qué tipo de apoyo y seguimiento esperarías recibir de un coach profesional en tu camino hacia un estilo de vida más sano?
 
-Profesionales del coaching en ejercicio y alimentación:
-
-¿Qué te motivó a dedicarte profesionalmente al coaching en el ámbito del ejercicio o la nutrición?
-
-¿Cuáles son los principales retos que enfrentas al brindar tus servicios de manera presencial?
-
-¿Qué ventajas percibes en la posibilidad de ofrecer tus sesiones de coaching a través de internet?
-
-¿Qué herramientas o funciones considerarías más valiosas para brindar un servicio de coaching en línea efectivo?
-
-¿Qué elementos te parecerían fundamentales al elegir una plataforma digital para ofrecer tus servicios profesionales como coach?
-
-¿De qué forma crees que una aplicación web de coaching podría optimizar tanto tu labor como coach como la experiencia de tus clientes?
-
 ### 2.2.2 Registro de entrevistas 
 
 **Entrevista #2**
