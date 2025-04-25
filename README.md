@@ -336,8 +336,6 @@ Profesionales del coaching en ejercicio y alimentación:
 
 ¿De qué forma crees que una aplicación web de coaching podría optimizar tanto tu labor como coach como la experiencia de tus clientes?
 
-eso como diseño de entrevista estaria bien?
-
 ### 2.2.2 Registro de entrevistas 
 
 ### 2.2.3 Análisis de entrevistas
