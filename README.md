@@ -142,9 +142,19 @@ Se ha identificado a Noom, Peloton y FitnessPal como los principales competidore
 ### 2.1.1 Análisis competitivo
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
+Nuestro objetivo principal es ofrecer una experiencia de usuario superior que nos distinga claramente de la competencia. Aspiramos a que nuestra aplicación sea intuitiva, visualmente atractiva y cargada de funciones útiles que superen las expectativas del usuario.
+
+Pondremos en valor las características diferenciadoras de nuestra app, destacando un enfoque personalizado en la interacción entre los usuarios y los profesionales de la salud. Además, incluiremos contenido exclusivo y tecnología de vanguardia. Nuestra aplicación estará diseñada para adaptarse a las necesidades particulares de cada usuario, brindando recomendaciones personalizadas y ajustes basados en los datos recolectados, mediante algoritmos avanzados y una retroalimentación constante por parte de los usuarios.
+
+Para fortalecer nuestra presencia y credibilidad, estableceremos alianzas con influencers, nutriólogos reconocidos y entrenadores personales, además de organizar eventos de lanzamiento y colaboraciones estratégicas que generen confianza e interés en nuestra marca. Escuchar activamente a nuestros usuarios y responder a sus comentarios será clave para ofrecer un servicio al cliente excepcional, lo cual no solo fomentará la lealtad de nuestros usuarios actuales, sino que también atraerá a nuevos clientes hacia nuestra plataforma.
+
 ## 2.2 Entrevistas 
 
+El objetivo de realizar entrevistas es comprender a fondo las experiencias, puntos de vista y opiniones de los segmentos de mercado elegidos. Buscamos recolectar información relevante que nos permita conocer mejor a nuestro público objetivo y profundizar en el entendimiento de los usuarios. A través de estas conversaciones, podremos identificar con mayor claridad sus necesidades y deseos, lo que facilitará la adaptación de nuestros productos o servicios para responder de forma más adecuada a sus expectativas.
+
 ### 2.2.1 Diseño de entrevistas
+
+
 
 ### 2.2.2 Registro de entrevistas 
 
@@ -164,6 +174,204 @@ Se ha identificado a Noom, Peloton y FitnessPal como los principales competidore
 
 
 ### 2.3.2 User Task Matrix
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td>User Task Matrix</td>
+        <td colspan=2>
+            Usuarios interesados en mejorar su salud y estado físico
+        </td>
+        <td colspan=2>
+            Profesionales de la salud y el fitness
+        </td>
+    </tr>
+    <tr>
+        <td>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Definir metas relacionadas con la salud y el acondicionamiento físico.
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            Baja
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Explorar y establecer contacto con nutriólogos y entrenadores personales.
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            Baja
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Obtener sugerencias personalizadas en cuanto a alimentación y rutinas de ejercicio.
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A menudo
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A veces
+        </td>
+    </tr>
+     <tr>
+        <td>
+            Monitorear el consumo de alimentos y el conteo de calorías.
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            Baja
+        </td>
+    </tr>
+     <tr>
+        <td>
+            Llevar un registro de las actividades físicas y los ejercicios efectuados.
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A menudo
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A veces
+        </td>
+    </tr>
+     <tr>
+        <td>
+            Revisar el avance alcanzado en relación con las metas de salud establecidas.
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A veces
+        </td>
+    </tr>
+     <tr>
+        <td>
+            Pedir supervisión y comentarios por parte de los profesionales de la salud.
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A veces
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A menudo
+        </td>
+    </tr>
+     <tr>
+        <td>
+            Configurar recordatorios y alertas para las actividades diarias.
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A menudo
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A veces
+        </td>
+    </tr>
+     <tr>
+        <td>
+            Conectarse y participar con otros usuarios en la comunidad de la aplicación.
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A menudo
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A veces
+        </td>
+    </tr>
+     <tr>
+        <td>
+            Explorar programas de entrenamiento específicos
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A menudo
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            Baja
+        </td>
+    </tr>
+</table>
 
 ### 2.3.3. User Journey Mapping
 
