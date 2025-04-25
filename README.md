@@ -158,24 +158,24 @@ Se ha identificado a Noom, Peloton y FitnessPal como los principales competidore
         NutriGain
         <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="assets/chapter02/logogym.png" alt="Nutrigain" width="60px">
+                <img src="assets/Nutrigain.png" alt="Nutrigain" width="60px">
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Noom
         <div style="text-align: center; margin-top: 10px;">
-                <img src="assets/chapter02/noom.png" alt="noom" width="60px">
+                <img src="assets/noom.png" alt="noom" width="60px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Peloton
         <div style="text-align: center; margin-top: 10px;">
-                <img src="assets/chapter02/peloton.png" alt="peloton" width="60px">
+                <img src="assets/peloton.png" alt="peloton" width="60px">
             </div>
         </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
       MyFitnessPal
         <div style="text-align: center; margin-top: 10px;">
-                <img src="assets/chapter02/myfitness.png" alt="myfitness" width="60px">
+                <img src="assets/myfitness.png" alt="myfitness" width="60px">
         </div>
     </td>
   </tr>
