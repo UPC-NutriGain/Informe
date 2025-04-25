@@ -598,6 +598,44 @@ Nota. Elaboración propia basada en el análisis de experiencias futuras proyect
 
 ## 2.4. Ubiquitous Language.
 
+Usuario
+Persona que se une a NutriGain para ponerse en forma de una manera divertida, con entrenamientos que se adaptan a su vida y a sus intereses.
+
+Camino Fitness
+Es el camino que el usuario elige al empezar su aventura en NutriGain: ¿quiere ganar músculo, ser más ágil como un atleta o encontrar equilibrio a través del yoga?
+
+Personaje Virtual
+Es su compañero de viaje: un personaje que no solo anima, sino que también adapta los entrenamientos y la alimentación según cómo va progresando.
+
+Rutina Semanal
+Es el plan de ejercicios de cada semana, personalizado y actualizado automáticamente para que siempre se ajuste a su nivel, ritmo de vida y metas.
+
+Plan Nutricional
+Es una guía de comidas pensada para acompañar los entrenamientos, ayudando al usuario a alcanzar resultados de forma equilibrada y realista.
+
+Desafíos Únicos
+Son mini-retos aleatorios y personalizados que aparecen para mantener la experiencia divertida, desafiante y diferente cada vez.
+
+Reto Extremo Diario
+Es un desafío especial que cambia todos los días y lleva al usuario a superar sus propios límites, de forma intensa pero motivadora.
+
+Gamificación
+Son los toques de juego que hacen a NutriGain especial: personajes, niveles, recompensas, desafíos… todo pensado para que entrenar sea algo que se disfrute, no una obligación.
+
+Progreso del Usuario
+Es el seguimiento constante de cuánto ha mejorado: desde las metas cumplidas, hasta los desafíos ganados y los hábitos mantenidos.
+
+Adaptabilidad
+Es la magia detrás de NutriGain: todo se ajusta solo —entrenamientos y alimentación— según el avance, los horarios y hasta los cambios de humor del usuario.
+
+Entrenamiento en Casa/Gimnasio
+Es la libertad de decidir si hoy se entrena en la sala de su casa o en el gimnasio, sin perder calidad ni resultados.
+
+Segmento Estudiante
+Son jóvenes universitarios que buscan mejorar su salud de manera divertida, fácil de integrar en su vida académica y accesible en cualquier momento.
+
+Segmento Adulto Profesional
+Son adultos entre 30 y 40 años, trabajadores ocupados que quieren soluciones claras, prácticas y que realmente den resultados sin complicar su rutina diaria.
 
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
