@@ -980,7 +980,7 @@ Se decidió hacer uso de estas herramientas por la razón de que hoy en día es 
 
 ### Desarrollo de la Aplicacion Web
 
-La aplicación web fue construida con Vue.js en el frontend, lo cual facilitó la creación de una interfaz dinámica para personalizar rutinas, visualizar el progreso del usuario y controlar el avatar fitness. El backend fue desarrollado en .NET Core, ideal para estructurar los servicios RESTful que gestionan los planes de nutrición, estadísticas y retos semanales aleatorios.
+La aplicación web sera construida con Angular en el frontend, lo cual facilitara la creación de una interfaz dinámica para personalizar rutinas, visualizar el progreso del usuario y controlar el avatar fitness. El backend sera desarrollado con Java y Springboot, ideal para estructurar los servicios RESTful que gestionan los planes de nutrición, estadísticas y retos semanales aleatorios.
 
 Las herramientas claves son las siguientes:
 
@@ -993,19 +993,19 @@ Se eligió esta herramienta para el desarrollo del frontend de NutriGain ya que 
     <img src="/assets/webstorm.png" alt="Descripción de la imagen" width="700">
 </div>
 
-### JetBrains Rider:
+### JetBrains IntelliJ IDEA:
 
-Esta herramienta fue clave para implementar el backend con .NET Core, ya que proporciona un entorno de desarrollo robusto para servicios RESTful y permite integrar fácilmente bases de datos y lógica de negocio. Su compatibilidad con C# y sus herramientas de depuración permitieron mantener el control sobre la lógica de personalización de rutinas y planes alimenticios.
+Esta herramienta fue clave para implementar el backend con Java y Springboot, ya que proporciona un entorno de desarrollo robusto para servicios RESTful y permite integrar fácilmente bases de datos y lógica de negocio. Su compatibilidad con Java y sus herramientas de depuración permitieron mantener el control sobre la lógica de personalización de rutinas y planes alimenticios.
 
 
 <div style="text-align: center;">
-    <img src="/assets/rider.jpeg" alt="Descripción de la imagen" width="700">
+    <img src="/assets/IntellJ-Idea.png" alt="Descripción de la imagen" width="700">
 </div>
 
 
 ### Node.js y npm:
 
-Fueron necesarios para la gestión de dependencias del proyecto frontend en Vue.js, como frameworks de diseño, librerías de gráficos de progreso y validadores de formularios. Además, el entorno Node permitió ejecutar scripts de compilación y pruebas unitarias.
+Seran necesarios para la gestión de dependencias del proyecto frontend en Angular, como frameworks de diseño, librerías de gráficos de progreso y validadores de formularios. Además, el entorno Node permitió ejecutar scripts de compilación y pruebas unitarias.
 
 <div style="text-align: center;">
     <img src="/assets/nodeandnpm.png" alt="Descripción de la imagen" width="700">
@@ -1048,9 +1048,9 @@ Se definieron guías de estilo para cada tecnología utilizada, con el objetivo 
 
 - **JavaScript:** uso de const y let, evitar variables globales, nombramiento en camelCase, comentarios para funciones complejas.
 
-- **Vue.js:** uso modular por componentes, uso correcto de v-bind, v-model, v-for, computed y watch. Comunicación entre componentes vía props y eventos.
+- **Angular:** uso de estructura modular con separación clara de componentes, servicios y módulos; nombres de archivos en kebab-case (component-name.component.ts), uso de TypeScript estricto (strict: true), anotación de tipos explícitos, preferencia por Observables en servicios HTTP, comentarios en componentes y servicios relevantes.
 
-- **.NET (C#):** declaración con var donde sea evidente, buenas prácticas en métodos asíncronos con sufijo Async, uso de using para liberar recursos y comentarios XML en endpoints públicos.
+- **SpringBoot (Java):** nombramiento de clases en PascalCase, nombramiento de variables y métodos en camelCase, separación de capas (Controller, Service, Repository) siguiendo el patrón MVC, manejo de excepciones personalizado, uso de anotaciones estándar de Spring (@Service, @Repository, @RestController), documentación de métodos públicos con JavaDoc.
 
 - **Gherkin:** estructuración clara con Given-When-Then, uso de tablas para parámetros complejos y separación de escenarios.
 
