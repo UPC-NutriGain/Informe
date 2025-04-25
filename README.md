@@ -340,6 +340,471 @@ Jóvenes de entre 18 y 25 años, en su mayoría universitarios, que buscan incor
 - Adultos (30–40 años) que trabajan y desean llevar una vida más saludable:
 Personas entre 30 y 40 años con una rutina laboral estable. Están interesados en mejorar su salud física y mental mediante entrenamientos eficientes y planes de alimentación. Valoran la practicidad, la orientación clara y los resultados medibles en poco tiempo.
 
+# Capítulo II : Requirements Elicitation & Analysis 	
+
+## 2.1 Competidores
+
+Se ha identificado a Noom, Peloton y FitnessPal como los principales competidores de nuestro proyecto. Este reconocimiento nos brinda una comprensión más clara del panorama del mercado, permitiéndonos evaluar nuestras fortalezas y debilidades frente a ellos. Contar con esta información será clave para diseñar estrategias y acciones efectivas dentro del sector elegido.
+
+### 2.1.1 Análisis competitivo
+
+<table>
+  <tr>
+    <th colspan="7" valign="top"><b>Competitive Analysis</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">Objetivo del análisis</td>
+    <td colspan="5">¿De qué forma mi competencia evalúa el mercado, crea sus soluciones y se posiciona frente a las dinámicas del sector?</td>
+  </tr>
+  <tr>
+    <td colspan="5">Este análisis se llevó a cabo con el propósito de identificar a nuestros posibles competidores y desarrollar estrategias y tácticas que nos permitan diferenciarnos de ellos.</td>
+  </tr>
+  <tr>
+    <td colspan="3">Nombre y logo</td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+        NutriGain
+        <br>
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/Nutrigain.png" alt="Nutrigain" width="60px">
+        </div>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+      Noom
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/noom.png" alt="noom" width="60px">
+        </div>
+    </td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+      Peloton
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/peloton.png" alt="peloton" width="60px">
+            </div>
+        </td>
+    <td colspan="1" valign="top" style="font-weight: bold;" >
+      MyFitnessPal
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/myfitness.png" alt="myfitness" width="60px">
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil</p></td>
+    <td colspan="2">Overview</td>
+    <td colspan="1" valign="top">Plataforma web que vincula a personas que desean mantenerse activas y llevar una dieta equilibrada con nutriólogos y entrenadores profesionales.</td>
+    <td colspan="1" valign="top">Plataforma web que integra tecnología y acompañamiento personalizado para guiar a los usuarios en la adopción de hábitos saludables relacionados con la nutrición, la actividad física y la salud mental.</td>
+    <td colspan="1" valign="top">Plataforma web que ofrece acceso a una amplia gama de clases de fitness tanto en vivo como a demanda, incluyendo sesiones de ciclismo, running, yoga y otras disciplinas.</td>
+    <td colspan="1" valign="top">Plataforma web que facilita a los usuarios el monitoreo detallado de su alimentación y rutina de ejercicios, permitiéndoles seguir su progreso físico a lo largo del tiempo.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Ventaja competitiva</td>
+    <td colspan="1" valign="top">Brinda a los usuarios la posibilidad de obtener recomendaciones personalizadas y planes diseñados para alcanzar sus metas de salud y acondicionamiento físico. Con funciones complementarias como el seguimiento del progreso, el registro de alimentos y el acceso a contenido exclusivo, nuestra plataforma ofrece una experiencia completa que impulsa a los usuarios a lograr sus objetivos de bienestar de forma efectiva y duradera.</td>
+    <td colspan="1" valign="top">Facilita a los usuarios la creación de hábitos saludables a medida con el respaldo de entrenadores expertos, promoviendo cambios de comportamiento positivos y sostenibles a largo plazo.</td>
+    <td colspan="1" valign="top">Ofrece acceso a una extensa gama de clases de fitness en vivo y a demanda desde la comodidad del hogar, brindando una experiencia interactiva y motivadora para los usuarios.</td>
+    <td colspan="1" valign="top">Facilita un seguimiento detallado de la dieta y el ejercicio, proporcionando una amplia base de datos de alimentos y ejercicios para ayudar a los usuarios a lograr sus metas de salud y acondicionamiento físico con mayor precisión y eficacia.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+    <td colspan="2">Mercado objetivo</td>
+    <td colspan="1" valign="top">Personas de entre 18 y 65 años que desean mejorar su salud y estado físico mediante una combinación de ejercicio, nutrición balanceada y orientación profesional.</td>
+    <td colspan="1" valign="top">Personas de entre 18 y 65 años que desean crear hábitos saludables personalizados y contar con el apoyo de entrenadores expertos para lograr cambios de comportamiento positivos y sostenibles a largo plazo.</td>
+    <td colspan="1" valign="top">Personas de entre 18 y 65 años que quieren acceder a una amplia gama de clases de fitness en vivo y a demanda desde la comodidad de su hogar, buscando una experiencia interactiva y motivadora para mejorar su estado físico.</td>
+    <td colspan="1" valign="top">Personas de entre 18 y 65 años interesadas en monitorear detalladamente su dieta y ejercicio, utilizando una amplia base de datos de alimentos y ejercicios para lograr sus objetivos de salud y acondicionamiento físico de manera precisa y efectiva.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Estrategias de marketing</td>
+    <td colspan="1" valign="top">Nutrigain establece alianzas con influencers locales en los sectores de fitness, nutrición o bienestar para promocionar su aplicación. Estos influencers cuentan con audiencias comprometidas y específicas, lo que permite llegar de manera más directa a un público objetivo.</td>
+    <td colspan="1" valign="top">Proporcionan contenido valioso creando y compartiendo artículos, videos y recursos relacionados con la salud, el fitness y la nutrición a través de sus canales digitales.</td>
+    <td colspan="1" valign="top">Brindan una extensa gama de clases de fitness en vivo y a demanda a través de su plataforma.</td>
+    <td colspan="1" valign="top">Permiten a sus usuarios compartir sus logros y avances en las redes sociales utilizando el hashtag oficial de la marca.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
+    <td colspan="2">Productos & Servicios</td>
+    <td colspan="1" valign="top">Brinda a los usuarios la posibilidad de conectarse con nutriólogos y entrenadores especializados en salud y fitness.
+
+Ofrece recomendaciones personalizadas basadas en los objetivos individuales de cada usuario, como perder peso, tonificar músculos o ganar masa muscular, entre otros.
+
+Permite a los usuarios monitorear su progreso a lo largo del tiempo, ya sea en términos de peso, medidas, hábitos alimenticios o desempeño en ejercicios.
+
+Facilita la conexión con nutriólogos, entrenadores independientes y gimnasios locales, donde los usuarios pueden recibir apoyo adicional y realizar sus entrenamientos.
+    </td>
+    <td colspan="1" valign="top">Brinda coaching personalizado que combina tecnología avanzada con asesoramiento humano para apoyar a los usuarios en el desarrollo de hábitos saludables.
+
+Ofrece herramientas y recursos para la planificación de comidas, incluyendo recetas saludables y recomendaciones de alimentos.
+
+Permite a los usuarios monitorear su progreso en cuanto a pérdida de peso, actividad física y hábitos alimenticios a lo largo del tiempo.</td>
+    <td colspan="1" valign="top">Brinda una amplia variedad de clases de fitness en vivo y a demanda, que incluyen ciclismo, carrera, yoga y otras disciplinas.
+
+Ofrece equipos de ejercicio en casa, como bicicletas estáticas y cintas de correr, para proporcionar una experiencia de entrenamiento completa.
+
+Promueve la participación de la comunidad mediante eventos virtuales, grupos de apoyo y desafíos de fitness, manteniendo a los usuarios motivados y comprometidos.</td>
+    <td colspan="1" valign="top">Permite a los usuarios monitorear detalladamente su consumo de alimentos y actividad física, proporcionando datos y análisis para ayudarles a alcanzar sus metas de salud y acondicionamiento físico.
+
+Ofrece una extensa base de datos de alimentos que facilita a los usuarios encontrar y registrar información nutricional precisa sobre sus comidas.
+
+Cuenta con una comunidad activa en línea donde los usuarios pueden compartir sus logros, recibir apoyo y motivación de otros miembros.</td>
+  </tr>
+  <tr>
+      <td colspan="2">Precios & Costos</td>
+      <td colspan="1" valign="top">Test Plan: S/.0
+
+Monthly Plan: S/.19.90
+
+Annual Plan: S/.249.90</td>
+      <td colspan="1" valign="top">Periodo de prueba (7 a 14 días): $0.50 hasta $18.
+
+Plan mensual con renovación automática: $70 USD por mes.
+
+Plan anual con renovación automática: $17.50 USD por mes.</td>
+      <td colspan="1" valign="top">Los precios pueden incluir el costo inicial del equipo (como bicicletas estáticas o cintas de correr), además de una tarifa mensual de suscripción que generalmente es de $39 al mes para obtener acceso completo a clases y contenido exclusivo.</td>
+      <td colspan="1" valign="top">Free: $0 (seguimiento de la dieta y el ejercicio).
+
+Premium: $19.99 mensual.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+    <td colspan="1" valign="top">Redes sociales y aplicación web</td>
+    <td colspan="1" valign="top">Página web y aplicación móvil</td>
+    <td colspan="1" valign="top">Página web y aplicación móvil</td>
+    <td colspan="1" valign="top">Página web y aplicación móvil</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
+    <td colspan="6">Elabore este análisis para su startup y sus competidores. Las fortalezas de su empresa deben potenciar las oportunidades del mercado y contribuir a lo que usted define como su ventaja competitiva.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Fortalezas</td>
+    <td colspan="1" valign="top">Vinculación directa con nutriólogos y entrenadores.</td>
+    <td colspan="1" valign="top">Proporciona sugerencias y monitoreo personalizados basados en la información del usuario.</td>
+    <td colspan="1" valign="top">Comunidad activa y dedicada.</td>
+    <td colspan="1" valign="top">La combinación de tecnología con soporte humano crea una ventaja competitiva al proporcionar un enfoque más individualizado.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Debilidades</td>
+    <td colspan="1" valign="top"> Los competidores establecidos pueden tener una base de usuarios sólida, lo que dificulta la captación de nuevos usuarios.</td>
+    <td colspan="1" valign="top">Si la infraestructura no está diseñada para crecer rápidamente, podría haber problemas al expandir el número de usuarios o funcionalidades.</td>
+    <td colspan="1" valign="top">Si la personalización de las recomendaciones no es lo suficientemente precisa, los usuarios pueden no encontrar valor en la aplicación.</td>
+    <td colspan="1" valign="top">Conseguir nuevos usuarios puede ser costoso si no se cuenta con una estrategia efectiva de marketing o visibilidad en el mercado.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Oportunidades</td>
+    <td colspan="1" valign="top">La creciente conciencia sobre la salud y el bienestar ofrece una oportunidad para capturar una mayor cuota de mercado.</td>
+    <td colspan="1" valign="top">Incorporar tecnologías avanzadas, como inteligencia artificial, puede mejorar la personalización de la plataforma.</td>
+    <td colspan="1" valign="top">Colaborar con marcas locales, influencers y gimnasios puede ampliar el alcance de la startup.</td>
+    <td colspan="1" valign="top">Conexión con dispositivos de fitness populares, como Fitbit o Garmin, para ofrecer a los usuarios una experiencia más integral y adaptada a sus necesidades.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Amenazas</td>
+    <td colspan="1" valign="top">La aparición de nuevas aplicaciones o plataformas con características similares puede aumentar la presión en el mercado y dificultar la captación de usuarios.</td>
+    <td colspan="1" valign="top">Los intereses y necesidades de los usuarios pueden cambiar rápidamente, lo que obliga a las plataformas a adaptarse constantemente para mantener la relevancia.</td>
+    <td colspan="1" valign="top">La creciente preocupación por la privacidad de los datos y las regulaciones en torno a la protección de la información personal pueden generar desafíos en términos de cumplimiento y confianza del usuario.</td>
+    <td colspan="1" valign="top">Cualquier interrupción en el servicio o fallos técnicos pueden dañar la reputación de la aplicación y disminuir la satisfacción de los usuarios.</td>
+  </tr>
+</table>
+
+### 2.1.2 Estrategias y tácticas frente a competidores
+
+Nuestro objetivo principal es ofrecer una experiencia de usuario superior que nos distinga claramente de la competencia. Aspiramos a que nuestra aplicación sea intuitiva, visualmente atractiva y cargada de funciones útiles que superen las expectativas del usuario.
+
+Pondremos en valor las características diferenciadoras de nuestra app, destacando un enfoque personalizado en la interacción entre los usuarios y los profesionales de la salud. Además, incluiremos contenido exclusivo y tecnología de vanguardia. Nuestra aplicación estará diseñada para adaptarse a las necesidades particulares de cada usuario, brindando recomendaciones personalizadas y ajustes basados en los datos recolectados, mediante algoritmos avanzados y una retroalimentación constante por parte de los usuarios.
+
+Para fortalecer nuestra presencia y credibilidad, estableceremos alianzas con influencers, nutriólogos reconocidos y entrenadores personales, además de organizar eventos de lanzamiento y colaboraciones estratégicas que generen confianza e interés en nuestra marca. Escuchar activamente a nuestros usuarios y responder a sus comentarios será clave para ofrecer un servicio al cliente excepcional, lo cual no solo fomentará la lealtad de nuestros usuarios actuales, sino que también atraerá a nuevos clientes hacia nuestra plataforma.
+
+## 2.2 Entrevistas 
+
+El objetivo de realizar entrevistas es comprender a fondo las experiencias, puntos de vista y opiniones de los segmentos de mercado elegidos. Buscamos recolectar información relevante que nos permita conocer mejor a nuestro público objetivo y profundizar en el entendimiento de los usuarios. A través de estas conversaciones, podremos identificar con mayor claridad sus necesidades y deseos, lo que facilitará la adaptación de nuestros productos o servicios para responder de forma más adecuada a sus expectativas.
+
+### 2.2.1 Diseño de entrevistas
+
+interesados en mejorar su salud y condición física:
+
+¿Qué razones te han impulsado recientemente a buscar formas de mejorar tu bienestar físico y tu salud?
+
+¿Cómo ha sido tu experiencia en el pasado al intentar llevar un estilo de vida más saludable? ¿Qué dificultades has encontrado en el camino?
+
+¿Qué tipo de guía o acompañamiento consideras que te sería más útil para alcanzar tus metas relacionadas con la salud y la forma física?
+
+¿De qué manera crees que una aplicación web de coaching online podría ayudarte a mantener la motivación y el compromiso con tus objetivos de bienestar?
+
+¿Qué funcionalidades considerarías esenciales al momento de elegir un servicio de coaching en línea enfocado en la salud y el acondicionamiento físico?
+
+¿Qué tipo de apoyo y seguimiento esperarías recibir de un coach profesional en tu camino hacia un estilo de vida más sano?
+
+### 2.2.2 Registro de entrevistas 
+
+Nombre y apellidos: Angel Fabian <br>
+Edad: 19 <br>
+
+[URL para ir a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219266_upc_edu_pe/EWENlAEPxZJHmqZvxuDqO0MBD3zQxxkQnChG0q1x3q6OBA?e=iGpgaj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+![EntrevistaAngel](assets/EntrevistaAngel.png)
+<br>
+
+**Resumen de la entrevista:** <td> El entrevistado nos cuenta sobre qué lo motivó a mejorar su salud y condición física. Esto porque quería mejorar su aspecto físico y no tener que comprar ropa ancha.
+También cuenta qué experiencias y obstáculos tuvo al adoptar este nuevo estilo de vida saludable.
+Finalmente nos cuenta que lo que espera de un coach es que lo incentive dándole metas y apoyo con las rutinas y la alimentación.
+ </td>
+
+### 2.2.3 Análisis de entrevistas
+
+![Pregunta1](assets/Pregunta1.png)
+<br><br>
+![Pregunta2](assets/Pregunta2.png)
+<br><br>
+![Pregunta3](assets/Pregunta3.png)
+<br><br>
+![Pregunta4](assets/Pregunta4.png)
+<br><br>
+
+## 2.3 Needfinding 
+
+### 2.3.1 User Personas
+
+**Segmento 1: Estudiantes universitarios que desean mejorar su condición física**
+
+![User Persona-University](/assets/User_Person_1_Camila.png)
+
+**Segmento 2: Adultos jóvenes (30–40 años) que trabajan y desean llevar una vida más saludable**
+
+![User Persona-Adult](/assets/User_Person_2_Martín.png)
+
+
+### 2.3.2 User Task Matrix
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td>User Task Matrix</td>
+        <td colspan=2>
+            Usuarios interesados en mejorar su salud y estado físico
+        </td>
+        <td colspan=2>
+            Profesionales de la salud y el fitness
+        </td>
+    </tr>
+    <tr>
+        <td>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Definir metas relacionadas con la salud y el acondicionamiento físico.
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            Baja
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Explorar y establecer contacto con nutriólogos y entrenadores personales.
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            Baja
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Obtener sugerencias personalizadas en cuanto a alimentación y rutinas de ejercicio.
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A menudo
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A veces
+        </td>
+    </tr>
+     <tr>
+        <td>
+            Monitorear el consumo de alimentos y el conteo de calorías.
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            Baja
+        </td>
+    </tr>
+     <tr>
+        <td>
+            Llevar un registro de las actividades físicas y los ejercicios efectuados.
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A menudo
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A veces
+        </td>
+    </tr>
+     <tr>
+        <td>
+            Revisar el avance alcanzado en relación con las metas de salud establecidas.
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A veces
+        </td>
+    </tr>
+     <tr>
+        <td>
+            Pedir supervisión y comentarios por parte de los profesionales de la salud.
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A veces
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A menudo
+        </td>
+    </tr>
+     <tr>
+        <td>
+            Configurar recordatorios y alertas para las actividades diarias.
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A menudo
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A veces
+        </td>
+    </tr>
+     <tr>
+        <td>
+            Conectarse y participar con otros usuarios en la comunidad de la aplicación.
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A menudo
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A veces
+        </td>
+    </tr>
+     <tr>
+        <td>
+            Explorar programas de entrenamiento específicos
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            A menudo
+        </td>
+        <td>
+            Alta
+        </td>
+        <td>
+            Baja
+        </td>
+    </tr>
+</table>
+
+### 2.3.3. User Journey Mapping
+
+![journey](assets/journeyMapping1.png)
+<br><br>
+
+![journey](assets/journeyMapping2.png)
+<br><br>
+
+### 2.3.4. Empathy Mapping
+
+![empathy](assets/Empathymap1.png)
+
+![empathy](assets/Empathymap2.png)
+
+### 2.3.5. As-is Scenario Mapping
+
+Los escenarios actuales (AS-IS) ofrecen una descripción detallada de los pasos, pensamientos y emociones de los usuarios antes de interactuar con el producto. Estos escenarios facilitan la comprensión de sus necesidades y desafíos actuales, lo cual guía al equipo en el diseño de una experiencia más efectiva y centrada en la solución de problemas reales. Al analizar los escenarios actuales, el producto puede desarrollarse de manera que cumpla con las expectativas y ofrezca soluciones alineadas con las experiencias reales de los usuarios, resultando en un producto más exitoso y relevante.
+
+**Segmento 1: Estudiantes universitarios que desean mejorar su condición física**
+
+![As-Is-University](/assets/As-Is-map1.jpg)
+
+**Figura 1**  
+*As-Is Scenario Mapping para el segmento de estudiantes universitarios*.  
+Nota. Elaboración propia basada en el análisis de experiencias futuras proyectadas para la usuaria Camila.
+
+
+**Segmento 2: Adultos jóvenes (30–40 años) que trabajan y desean llevar una vida más saludable**
+
+![As-Is-Adult](/assets/As-Is-map2.jpg)
+
+**Figura 2**  
+*As-Is Scenario Mapping para el segmento de adultos jóvenes que trabajan*.  
+Nota. Elaboración propia basada en el análisis de experiencias futuras proyectadas para el usuario Martín.
+
+## 2.4. Ubiquitous Language.
+
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 
