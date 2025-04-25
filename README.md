@@ -329,7 +329,7 @@ Edad: 19 <br>
 
 [URL para ir a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219266_upc_edu_pe/EWENlAEPxZJHmqZvxuDqO0MBD3zQxxkQnChG0q1x3q6OBA?e=iGpgaj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-![Entrevista_Seg01_Angel](assets/EntrevistaAngel.png)
+![EntrevistaAngel](assets/EntrevistaAngel.png)
 <br>
 
 **Resumen de la entrevista:** <td> El entrevistado nos cuenta sobre qué lo motivó a mejorar su salud y condición física. Esto porque quería mejorar su aspecto físico y no tener que comprar ropa ancha.
@@ -563,7 +563,17 @@ Finalmente nos cuenta que lo que espera de un coach es que lo incentive dándole
 
 ### 2.3.3. User Journey Mapping
 
+![journey](assets/journeyMapping1.png)
+<br><br>
+
+![journey](assets/journeyMapping2.png)
+<br><br>
+
 ### 2.3.4. Empathy Mapping
+
+![empathy](assets/Empathymap1.png)
+
+![empathy](assets/Empathymap2.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
