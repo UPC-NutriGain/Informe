@@ -328,13 +328,13 @@ interesados en mejorar su salud y condición física:
 
 ### 2.2.3 Análisis de entrevistas
 
-![Pregunta1](assets/chapter02/Resultados_Segmento1_Pregunta1.png)
+![Pregunta1](assets/Pregunta1.png)
 <br><br>
-![Pregunta2](assets/chapter02/Resultados_Segmento1_Pregunta2.png)
+![Pregunta2](assets/Pregunta2.png)
 <br><br>
-![Pregunta4](assets/chapter02/Resultados_Segmento1_Pregunta4.png)
+![Pregunta3](assets/Pregunta3.png)
 <br><br>
-![Pregunta6](assets/chapter02/Resultados_Segmento1_Pregunta6.png)
+![Pregunta4](assets/Pregunta4.png)
 <br><br>
 
 ## 2.3 Needfinding 
