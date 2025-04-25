@@ -340,6 +340,36 @@ Jóvenes de entre 18 y 25 años, en su mayoría universitarios, que buscan incor
 - Adultos (30–40 años) que trabajan y desean llevar una vida más saludable:
 Personas entre 30 y 40 años con una rutina laboral estable. Están interesados en mejorar su salud física y mental mediante entrenamientos eficientes y planes de alimentación. Valoran la practicidad, la orientación clara y los resultados medibles en poco tiempo.
 
+1. **Landing Page:** La página web inicial a la que llegan los usuarios cuando visitan el sitio de reserva de viajes. En el lenguaje ubicuo, podría ser simplemente "Página de Inicio" o "Página Principal".
+
+2. **Nutricionista**: Un profesional especializado en el estudio de la nutrición y sus efectos en la salud. En el contexto de nuestra aplicación, un nutricionista proporciona recomendaciones dietéticas personalizadas y orientación a los usuarios.
+
+3. **Entrenador de Fitness**: Una persona capacitada para diseñar programas de fitness y proporcionar orientación y motivación a las personas que buscan mejorar su salud física y niveles de condición física.
+
+4. **Establecimiento de Objetivos**: El proceso de identificar objetivos específicos y medibles que un individuo desea lograr dentro de un cierto período de tiempo. En nuestra aplicación, los usuarios pueden establecer objetivos relacionados con la pérdida de peso, el aumento de masa muscular o la mejora general de la condición física.
+
+5. **Seguimiento de Comidas**: La práctica de registrar y monitorear los tipos y cantidades de alimentos consumidos a lo largo del día. Los usuarios pueden hacer un seguimiento de sus comidas usando nuestra aplicación para obtener información sobre sus hábitos alimenticios y progreso hacia sus objetivos nutricionales.
+
+6. **Registro de Ejercicios**: El acto de documentar las actividades físicas y los entrenamientos completados por un individuo. Nuestra aplicación permite a los usuarios registrar sus sesiones de ejercicio, incluyendo duración, intensidad y tipo de actividad, para seguir su progreso físico.
+
+7. **Evaluación de Salud**: Una evaluación integral del estado de salud actual de un individuo, que incluye factores como la composición corporal, la salud cardiovascular y la función metabólica. Los usuarios pueden someterse a una evaluación de salud al comenzar el programa para establecer mediciones y objetivos de referencia.
+
+8. **Monitoreo de Progreso**: El proceso continuo de seguimiento y evaluación de los cambios en métricas clave de salud y condición física con el tiempo. Nuestra aplicación proporciona herramientas para que los usuarios monitoreen su progreso, como cambios de peso, medidas corporales y mejoras en el rendimiento de los ejercicios.
+
+9. **Cambio de Comportamiento**: El proceso de adoptar nuevos hábitos y elecciones de estilo de vida para apoyar objetivos de salud y condición física a largo plazo. Nuestra aplicación se centra en ayudar a los usuarios a desarrollar cambios de comportamiento sostenibles a través de la educación, motivación y coaching personalizado.
+
+10. **Apoyo Comunitario**: Una red de apoyo de individuos con objetivos de salud y condición física similares que brindan aliento, responsabilidad y motivación mutua. Nuestra aplicación fomenta un sentido de comunidad entre los usuarios a través de funciones como desafíos grupales, foros y compartición social.
+
+11. **Plan de Suscripción**: Una opción de membresía paga que otorga a los usuarios acceso a funciones y contenido premium dentro de la aplicación por un período especificado, generalmente mensual o anual. Los usuarios pueden elegir entre varios planes de suscripción según sus necesidades y preferencias.
+
+12. **Consulta**: Una sesión individual con un profesional de la salud o un entrenador de fitness para discutir objetivos, recibir orientación personalizada y establecer un plan de acción.
+
+13. **Registro de Progreso**: El proceso de documentar y visualizar los cambios y mejoras en el rendimiento físico y la salud a lo largo del tiempo, utilizando datos como medidas corporales, gráficos de peso y registros de ejercicios.
+
+14. **Hábitos Saludables**: Comportamientos y prácticas diarias que contribuyen al bienestar físico, mental y emocional, como dormir lo suficiente, mantenerse hidratado y practicar ejercicio regularmente.
+
+15. **Foro de Discusión**: Una plataforma en línea donde los usuarios pueden intercambiar ideas, hacer preguntas, compartir experiencias y brindar apoyo mutuo relacionado con la salud y el fitness.
+
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 
