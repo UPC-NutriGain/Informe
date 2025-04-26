@@ -50,7 +50,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 |Ariana Huapaya|xxxxxx.<br>xxxxxxx.<br>xxxxx<br>xxxxxx<br>xx.<br>xxx.<br>xxxx.<br>Landing Page<br>Sprint 1|
 |Santiago Gordillo|xxxx.<br>xxxx<br>xxxxx<br>xxxxxx<br>xxxxxx<br>xxxxx<br>xxxxx<br>xxxxx<br>Landing Page<br>Sprint 1|
 |Sebastian Mendez|General Style Guidelines<br>Web Style Guidelines<br>Information Architecture<br>Landing Page UI Design<br>Domain-Driven Software Architecture (C4 Diagrams)<br>Class Diagram<br>Database Diagram<br>Landing Page<br>Sprint 1|
-|Diego Pumahualcca|xxxx<br>xxxxx.<br>xxxx.<br>xxxxx<br>xxxxxxx<br>xxxxx<br>xxxx<br>xxxx<br>xxxx<br>xxxxx<br>xxxxxx<br>xxxxx<brxxxxx<br>xxxxx<br>xxxxx<br>Landing Page<br>Sprint 1|
+|Diego Pumahualcca|Análisis competitivo Estrategias y tácticas frente a competidores Diseño de entrevistas Registro de entrevistas Análisis de entrevistas User Task Matrix User Journey Mapping Empathy Mapping<br>Landing Page<br>Sprint 1|
 |Nicolas Vera|Impact Map.<br>AS-IS Map.<br>TO-BE Map.<br>User Stories.<br>Product Backlog.<br>User Persona.<br>Nav bar del Landing.<br>Hero section del landing.<br>Responsive del landing.<br>Animación del landing.<br>Botón de traducción del landing.<br>Sprint 1|
 
 ## GitHub Insights
