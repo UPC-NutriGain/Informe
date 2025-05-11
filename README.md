@@ -153,7 +153,7 @@ Las herramientas empleadas son las siguientes:
 
 ### Live server:
 
-Utilizado para agilizar el desarrollo de la Landing Page, esta herramienta permitió visualizar en tiempo real cada cambio hecho en el código, mejorando así la productividad y reduciendo errores de diseño visual.
+Utilizado para agilizar el desarrollo de la Landing Page, permitiendo visualizar en tiempo real cada cambio hecho en el código, mejorando así la productividad y reduciendo errores de diseño visual.
 
 
 <div style="text-align: center;">
@@ -163,7 +163,7 @@ Utilizado para agilizar el desarrollo de la Landing Page, esta herramienta permi
 
 ### Git y GitHub:
 
-Se decidió hacer uso de estas herramientas por la razón de que hoy en día es un estándar usar Git para el control de versiones de software y se eligió GitHub por ser la plataforma más popular y fácil de usar para crear y manejar repositorios de software, tener funciones para ver los cambios, commits, pull requests y entre otros. El enlace de descarga del instalador de GitHub Desktop es [GitHub Desktop](https://github.com/apps/desktop)
+Se utilizó Git para el control de versiones por ser el estándar actual en desarrollo de software. GitHub fue elegido por su facilidad de uso, popularidad y soporte para colaboración mediante funciones como commits, ramas, pull requests y revisiones de código. [GitHub Desktop](https://github.com/apps/desktop)
 
 
 <div style="text-align: center;">
@@ -173,7 +173,7 @@ Se decidió hacer uso de estas herramientas por la razón de que hoy en día es 
 
 ### Desarrollo de la Aplicacion Web
 
-La aplicación web fue construida con Vue.js en el frontend, lo cual facilitó la creación de una interfaz dinámica para personalizar rutinas, visualizar el progreso del usuario y controlar el avatar fitness. El backend fue desarrollado en .NET Core, ideal para estructurar los servicios RESTful que gestionan los planes de nutrición, estadísticas y retos semanales aleatorios.
+La aplicación web fue construida utilizando Angular como framework frontend, lo que facilitó la creación de una SPA (Single Page Application) robusta, dinámica e interactiva, ideal para personalizar rutinas, visualizar el progreso del usuario y controlar el avatar fitness. El backend fue desarrollado en .NET Core, ideal para estructurar los servicios RESTful que gestionan los planes de nutrición, estadísticas y retos semanales aleatorios.
 
 Las herramientas claves son las siguientes:
 
@@ -190,7 +190,6 @@ Se eligió esta herramienta para el desarrollo del frontend de NutriGain ya que 
 
 Esta herramienta fue clave para implementar el backend con .NET Core, ya que proporciona un entorno de desarrollo robusto para servicios RESTful y permite integrar fácilmente bases de datos y lógica de negocio. Su compatibilidad con C# y sus herramientas de depuración permitieron mantener el control sobre la lógica de personalización de rutinas y planes alimenticios.
 
-
 <div style="text-align: center;">
     <img src="/assets/rider.jpeg" alt="Descripción de la imagen" width="700">
 </div>
@@ -198,7 +197,7 @@ Esta herramienta fue clave para implementar el backend con .NET Core, ya que pro
 
 ### Node.js y npm:
 
-Fueron necesarios para la gestión de dependencias del proyecto frontend en Vue.js, como frameworks de diseño, librerías de gráficos de progreso y validadores de formularios. Además, el entorno Node permitió ejecutar scripts de compilación y pruebas unitarias.
+Necesarios para gestionar dependencias del proyecto Angular, incluyendo librerías de UI, validadores de formularios y herramientas de pruebas. También permitió ejecutar scripts para compilación, pruebas unitarias y generación de builds productivos.
 
 <div style="text-align: center;">
     <img src="/assets/nodeandnpm.png" alt="Descripción de la imagen" width="700">
