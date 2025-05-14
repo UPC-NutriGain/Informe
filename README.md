@@ -1974,24 +1974,24 @@ En esta segunda planificación del sprint, el equipo decidió continuar con el d
   </tbody>
 </table>
 
-- ### 5.2.1.4. Development Evidence for Sprint Review
+- ### 5.2.2.4. Development Evidence for Sprint Review
 
 
-- ### 5.2.1.5. Testing Suite Evidence for Sprint Review
+- ### 5.2.2.5. Testing Suite Evidence for Sprint Review
 
 Para este sprint, las pruebas se centraron en revisión manual de interfaz y pruebas básicas de visualización. No se incorporó aún un framework automatizado, pero se validó la correcta carga de elementos, adaptabilidad responsive y funcionamiento de navegación.
 
-- ### 5.2.1.6. Execution Evidence for Sprint Review
+- ### 5.2.2.6. Execution Evidence for Sprint Review
 
 Se hizo una demostración funcional del Landing Page en un entorno en vivo. Se verificó la navegación entre secciones, la carga de imágenes, la adaptación en móviles y se presentó a usuarios externos para retroalimentación básica.
 
 ![captura](/assets/landing_page_figma.JPG)
 
-- ### 5.2.1.7. Services Documentation Evidence for Sprint Review
+- ### 5.2.2.7. Services Documentation Evidence for Sprint Review
 
 
 
-- ### 5.2.1.8. Software Deployment Evidence for Sprint Review
+- ### 5.2.2.8. Software Deployment Evidence for Sprint Review
 
 El Landing Page fue desplegado exitosamente en GitHub Pages, quedando accesible públicamente para evaluación y pruebas por parte del equipo.
 
@@ -2006,7 +2006,9 @@ El despliegue incluye:
 A continuación se presentan capturas de evidencia del correcto funcionamiento:
 
 
-#### Captura 1: 
+#### Captura 1: Login 
+
+![image](https://github.com/user-attachments/assets/93162073-2971-43c1-b842-95edb1c551e2)
 
 
 #### Captura 2: 
@@ -2015,6 +2017,6 @@ A continuación se presentan capturas de evidencia del correcto funcionamiento:
 
 Mediante el siguiente boton pueden apreciar el [LandingPage](https://upc-nutrigain.github.io/Landing-Page-NutriGain/)
 
-- ### 5.2.1.9. Team Collaboration Insights during Sprint
+- ### 5.2.2.9. Team Collaboration Insights during Sprint
 
   Durante el Sprint 2, el equipo mostró buena comunicación y trabajo distribuido. Se coordinaron mediante WhatsApp y reuniones por Meet. Cada integrante tomó ownership de sus tareas, y el seguimiento se realizó en Trello. Las decisiones técnicas se discutieron en conjunto antes de implementarlas.
