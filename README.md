@@ -48,7 +48,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 |Integrante|Tareas Asignadas|
 |---|---|
 |Ariana Huapaya|xxxxxx.<br>xxxxxxx.<br>xxxxx<br>xxxxxx<br>xx.<br>xxx.<br>xxxx.<br>Landing Page<br>Sprint 1|
-|Santiago Gordillo|xxxx.<br>xxxx<br>xxxxx<br>xxxxxx<br>xxxxxx<br>xxxxx<br>xxxxx<br>xxxxx<br>Landing Page<br>Sprint 1|
+|Santiago Gordillo|Startup Profile<br>Solution Profile<br>Lean UX Process<br>Lean UX Canvas<br>Lean UX Assumptions<br>Segmentos Objetivo<br>Landing Page<br>Sprint 1|
 |Sebastian Mendez|General Style Guidelines<br>Web Style Guidelines<br>Information Architecture<br>Landing Page UI Design<br>Domain-Driven Software Architecture (C4 Diagrams)<br>Class Diagram<br>Database Diagram<br>Landing Page<br>Sprint 1|
 |Diego Pumahualcca|Análisis competitivo <br>Estrategias y tácticas frente a competidores <br>Diseño de entrevistas <br>Registro de entrevistas <br>Análisis de entrevistas <br>User Task Matrix <br>User Journey Mapping <br>Empathy Mapping<br>Landing Page<br>Sprint 1|
 |Nicolas Vera|Impact Map.<br>AS-IS Map.<br>TO-BE Map.<br>User Stories.<br>Product Backlog.<br>User Persona.<br>Nav bar del Landing.<br>Hero section del landing.<br>Responsive del landing.<br>Animación del landing.<br>Botón de traducción del landing.<br>Sprint 1|
