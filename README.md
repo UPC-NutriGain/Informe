@@ -254,23 +254,23 @@ Existe una desconexión entre los planes de entrenamiento estándar y los objeti
 **Business Assumptions**
 1. Asumimos que los usuarios abandonan sus rutinas fitness por falta de personalización y motivación.
 
-2. Creemos que una experiencia interactiva, con retos y acompañamiento virtual, puede aumentar la adherencia a un plan de entrenamiento.
+2. Creemos que una experiencia interactiva, con retos y acompañamiento virtual, puede aumentar la constancia.
 
-3. Los usuarios valoran rutinas personalizadas, seguimiento del progreso y recompensas semanales como medio para mantenerse motivados.
+3. Los usuarios valoran rutinas personalizadas, seguimiento del progreso y recompensas semanales.
 
-4. Nuestra aplicación integrará entrenamiento y nutrición en un solo flujo, simplificando la experiencia.
+4. Nuestra aplicación integrará entrenamiento y nutrición en un solo flujo.
 
 5. El principal riesgo es que la gamificación no sea suficiente para mantener el hábito diario.
 
 6. Mitigaremos ese riesgo con retos extremos diarios, evolución del avatar y comunidad activa.
 
-7. Nuestros primeros usuarios serán jóvenes adultos digitalizados con experiencia previa en apps de fitness.
+7. Nuestros primeros usuarios serán jóvenes adultos digitalizados con experiencia previa en apps.
 
 8. La propuesta se diferenciará por su enfoque emocional, visual y gamificado.
 
-9. Monetizaremos mediante planes premium que incluyen personalización avanzada, recomendaciones adaptativas y contenido exclusivo.
+9. Monetizaremos mediante planes premium que incluyen personalización avanzada.
 
-10. La ventaja competitiva será la combinación de personalización + gamificación + narrativa visual (avatar progresivo).
+10. La ventaja competitiva será la combinación de personalización + gamificación + narrativa visual.
 
 
 
@@ -1676,16 +1676,14 @@ Link de la [BackEnd RESTful]()
 
 -   ### 5.2.1.3. Sprint Backlog 1
 
-<h3>5.2.1.2. Sprint Backlog 1 – Landing Page</h3>
-
 <table>
   <thead>
     <tr>
       <th>User Story ID</th>
-      <th>Task ID</th>
-      <th>Título de Tarea</th>
-      <th>Descripción</th>
-      <th>Horas estimadas</th>
+      <th>Engineering Task ID</th>
+      <th>Título de Tarea Técnica</th>
+      <th>Descripción técnica</th>
+      <th>Estimación (h)</th>
       <th>Responsable</th>
       <th>Estado</th>
     </tr>
@@ -1694,68 +1692,105 @@ Link de la [BackEnd RESTful]()
     <tr>
       <td>US17</td>
       <td>T01</td>
-      <td>Header responsivo</td>
-      <td>Implementar el encabezado con navegación básica y responsividad.</td>
-      <td>3</td>
+      <td>Estructura HTML del header</td>
+      <td>Crear la estructura semántica con etiquetas &lt;header&gt; y enlaces de navegación.</td>
+      <td>1</td>
+      <td>Nicolas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US17</td>
+      <td>T02</td>
+      <td>Estilos del header</td>
+      <td>Aplicar estilos con CSS/Tailwind para desktop y mobile.</td>
+      <td>1</td>
+      <td>Nicolas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US17</td>
+      <td>T03</td>
+      <td>Funcionalidad de anclaje del nav</td>
+      <td>Hacer que los botones naveguen a secciones internas (#paths, #about-us, etc).</td>
+      <td>1</td>
       <td>Nicolas</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>US16</td>
-      <td>T02</td>
-      <td>Footer responsivo</td>
-      <td>Desarrollar el pie de página con enlaces, íconos y diseño adaptativo.</td>
-      <td>3</td>
+      <td>T04</td>
+      <td>Estructura y contenido del footer</td>
+      <td>Crear secciones: contacto, redes sociales, links.</td>
+      <td>1</td>
+      <td>Ariana</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US16</td>
+      <td>T05</td>
+      <td>Estilos y responsividad del footer</td>
+      <td>Asegurar visualización adecuada en móvil y escritorio.</td>
+      <td>2</td>
+      <td>Ariana</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US16</td>
+      <td>T06</td>
+      <td>Maquetar sección Hero</td>
+      <td>Diseñar el hero con imagen, título, subtítulo y CTA.</td>
+      <td>1</td>
       <td>Santiago</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>US16</td>
-      <td>T03</td>
-      <td>Hero Section</td>
-      <td>Diseñar sección inicial con título, subtítulo e imagen de presentación.</td>
+      <td>T07</td>
+      <td>Estilizar sección Hero</td>
+      <td>Aplicar gradientes, espaciado, animaciones ligeras.</td>
+      <td>1</td>
+      <td>Santiago</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US19</td>
+      <td>T08</td>
+      <td>Crear sección Testimonios</td>
+      <td>Maquetar cards con nombres, fotos y texto de feedback.</td>
+      <td>2</td>
+      <td>Diego</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US20</td>
+      <td>T09</td>
+      <td>Sección “Sobre nosotros”</td>
+      <td>Agregar fotos y descripciones de cada integrante.</td>
       <td>2</td>
       <td>Sebastian</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>US16</td>
-      <td>T04</td>
-      <td>Barra de navegación responsiva</td>
-      <td>Implementar la navegación por secciones del landing con comportamiento móvil.</td>
-      <td>3</td>
-      <td>Nicolas</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US19</td>
-      <td>T05</td>
-      <td>Sección de testimonios</td>
-      <td>Crear sección con opiniones ficticias y estilo amigable.</td>
-      <td>3</td>
+      <td>T10</td>
+      <td>Adaptar landing a diseño responsive</td>
+      <td>Ajustar fuentes, contenedores, flex/grid para compatibilidad móvil.</td>
+      <td>2</td>
       <td>Diego</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US20</td>
-      <td>T06</td>
-      <td>Sección 'Sobre nosotros'</td>
-      <td>Mostrar al equipo de desarrollo con tarjetas visuales.</td>
-      <td>2</td>
-      <td>Nicol</td>
-      <td>Done</td>
-    </tr>
-    <tr>
       <td>US16</td>
-      <td>T07</td>
-      <td>Responsive general</td>
-      <td>Verificar que todo el landing se visualice correctamente en distintos tamaños.</td>
-      <td>3</td>
-      <td>Nicolas</td>
+      <td>T11</td>
+      <td>Validar responsive en varios tamaños</td>
+      <td>Probar con DevTools y ajustar errores visuales en tablets y móviles.</td>
+      <td>1</td>
+      <td>Sebastian</td>
       <td>Done</td>
     </tr>
   </tbody>
 </table>
+
 
 - ### 5.2.1.4. Development Evidence for Sprint Review
 
