@@ -248,7 +248,10 @@ El índice de sobrepeso, estrés y enfermedades que genera una vida sedentaria.
 ##### 1.2.2.1. **Lean UX Problem Statements** 
 **Problem Statement**
 
-Existe una desconexión entre los planes de entrenamiento estándar y los objetivos individuales de los usuarios, lo que genera desmotivación y abandono temprano del estilo de vida saludable. Las personas necesitan una herramienta atractiva y personalizada que les permita entrenar de forma eficiente, adaptada a su ritmo y objetivos. NutriGain busca llenar ese vacío mediante una app que ofrece una experiencia divertida, motivadora y orientada al progreso real del usuario.
+Existe una desconexión entre los planes de entrenamiento estándar y los objetivos, ritmos y preferencias individuales de los usuarios. Esta falta de personalización, junto con la ausencia de motivación sostenida, lleva a un abandono de rutinas fitness. Además, muchas aplicaciones actuales no integran de forma efectiva el entrenamiento con la nutrición, ni generan un vínculo emocional o lúdico con el usuario.
+
+NutriGain busca resolver estos problemas ofreciendo una experiencia visualmente atractiva, personalizada y gamificada: con avatares virtuales que evolucionan con el progreso del usuario, retos diarios adaptados a sus metas (musculación, agilidad o yoga), y planes nutricionales dinámicos según su perfil. La propuesta apunta a reforzar la constancia, el compromiso emocional y la retención a través de una narrativa inmersiva y un sistema de recompensas motivacional.
+
 
 ##### 1.2.2.2. Lean UX Assumptions
 **Business Assumptions**
