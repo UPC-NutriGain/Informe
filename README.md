@@ -1891,6 +1891,8 @@ En esta segunda planificación del sprint, el equipo decidió continuar con el d
         - **Google Meet:** Para reuniones de coordinación diaria y revisión de los avances.
           
         - **Figma :** Para validar la implementación del diseño y realizar ajustes a los prototipos según feedback del equipo.
+
+  ## 5.2.2.2. Aspect Leaders and Collaborators.
     
 - ### 5.2.2.2. Sprint Backlog 2
   <table>
