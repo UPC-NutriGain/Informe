@@ -1870,9 +1870,7 @@ Mediante el siguiente boton pueden apreciar el [LandingPage](https://upc-nutriga
 
   Durante el Sprint 1, el equipo mostró buena comunicación y trabajo distribuido. Se coordinaron mediante WhatsApp y reuniones por Meet. Cada integrante tomó ownership de sus tareas, y el seguimiento se realizó en Trello. Las decisiones técnicas se discutieron en conjunto antes de implementarlas.
 
-![captura]()
-
-![captura2]()
+![captura](/assets/commits.png)
 
 - ### 5.2.2. Sprint 2
 - ### 5.2.2.1. Sprint Planning 2
