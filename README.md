@@ -1891,3 +1891,84 @@ En esta segunda planificación del sprint, el equipo decidió continuar con el d
         - **Google Meet:** Para reuniones de coordinación diaria y revisión de los avances.
           
         - **Figma :** Para validar la implementación del diseño y realizar ajustes a los prototipos según feedback del equipo.
+    
+- ### 5.2.2.2. Sprint Backlog 2
+  <table>
+  <thead>
+    <tr>
+      <th>User Story ID</th>
+      <th>Engineering Task ID</th>
+      <th>Título de Tarea Técnica</th>
+      <th>Descripción técnica</th>
+      <th>Estimación (h)</th>
+      <th>Responsable</th>
+      <th>Estado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US16</td>
+      <td>T01</td>
+      <td>Diseñar estructura visual general</td>
+      <td>Definir la estructura básica de la landing page con las secciones "About the app", "Paths", "Pricing" y "About us".</td>
+      <td>2</td>
+      <td>Diego</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US17</td>
+      <td>T02</td>
+      <td>Implementar botón de llamada a la acción (CTA)</td>
+      <td>Agregar un botón destacado para registro/inicio de sesión, con estilos visuales llamativos.</td>
+      <td>1</td>
+      <td>Nicolas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US18</td>
+      <td>T03</td>
+      <td>Maquetar sección de caminos fitness</td>
+      <td>Crear cards visuales para mostrar los caminos disponibles (Aesthetic, Sports, Yoga).</td>
+      <td>2</td>
+      <td>Sebastian</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US19</td>
+      <td>T04</td>
+      <td>Incluir sección informativa sobre NutriGain</td>
+      <td>Desarrollar una sección que destaque qué hace especial a NutriGain, con texto breve y visual.</td>
+      <td>2</td>
+      <td>Ariana</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US20</td>
+      <td>T05</td>
+      <td>Mostrar equipo de desarrollo</td>
+      <td>Diseñar una sección "About us" con fotos y nombres de los integrantes del equipo.</td>
+      <td>2</td>
+      <td>Santiago</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US16</td>
+      <td>T06</td>
+      <td>Hacer la landing responsive</td>
+      <td>Adaptar la landing page a tamaños de pantalla móviles y tablets usando Tailwind CSS o media queries.</td>
+      <td>2</td>
+      <td>Diego</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US16</td>
+      <td>T07</td>
+      <td>Validar visualización en múltiples dispositivos</td>
+      <td>Testear en navegador con DevTools y ajustar detalles visuales para una correcta presentación.</td>
+      <td>1</td>
+      <td>Nicolas</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
