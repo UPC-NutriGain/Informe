@@ -1974,3 +1974,47 @@ En esta segunda planificación del sprint, el equipo decidió continuar con el d
   </tbody>
 </table>
 
+- ### 5.2.1.4. Development Evidence for Sprint Review
+
+
+- ### 5.2.1.5. Testing Suite Evidence for Sprint Review
+
+Para este sprint, las pruebas se centraron en revisión manual de interfaz y pruebas básicas de visualización. No se incorporó aún un framework automatizado, pero se validó la correcta carga de elementos, adaptabilidad responsive y funcionamiento de navegación.
+
+- ### 5.2.1.6. Execution Evidence for Sprint Review
+
+Se hizo una demostración funcional del Landing Page en un entorno en vivo. Se verificó la navegación entre secciones, la carga de imágenes, la adaptación en móviles y se presentó a usuarios externos para retroalimentación básica.
+
+![captura](/assets/landing_page_figma.JPG)
+
+- ### 5.2.1.7. Services Documentation Evidence for Sprint Review
+
+
+
+- ### 5.2.1.8. Software Deployment Evidence for Sprint Review
+
+El Landing Page fue desplegado exitosamente en GitHub Pages, quedando accesible públicamente para evaluación y pruebas por parte del equipo.
+
+El despliegue incluye:
+
+- Implementación completa del diseño responsivo.
+- Secciones clave del landing: "About the app", "Paths", "Pricing" y "About us".
+- Botón **CTA** para registro e inicio de sesión.
+- Adaptación visual para dispositivos de escritorio y móviles.
+
+
+A continuación se presentan capturas de evidencia del correcto funcionamiento:
+
+
+#### Captura 1: 
+
+
+#### Captura 2: 
+
+
+
+Mediante el siguiente boton pueden apreciar el [LandingPage](https://upc-nutrigain.github.io/Landing-Page-NutriGain/)
+
+- ### 5.2.1.9. Team Collaboration Insights during Sprint
+
+  Durante el Sprint 2, el equipo mostró buena comunicación y trabajo distribuido. Se coordinaron mediante WhatsApp y reuniones por Meet. Cada integrante tomó ownership de sus tareas, y el seguimiento se realizó en Trello. Las decisiones técnicas se discutieron en conjunto antes de implementarlas.
