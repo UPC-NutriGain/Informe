@@ -1873,3 +1873,21 @@ Mediante el siguiente boton pueden apreciar el [LandingPage](https://upc-nutriga
 ![captura]()
 
 ![captura2]()
+
+- ### 5.2.2. Sprint 2
+- ### 5.2.2.1. Sprint Planning 2
+En esta segunda planificación del sprint, el equipo decidió continuar con el desarrollo del front end de la aplicación web NutriGain, enfocándose en implementar funcionalidades clave y mejorar la experiencia de usuario. Se abordaron elementos interactivos como botones, navegación entre secciones, integración de componentes visuales y adaptación responsiva. Además, se comenzó a trabajar con las primeras historias de usuario enfocadas en la interacción y comprensión de los elementos centrales de la app.
+
+ -   **Sprint Goal:** Desarrollar e integrar componentes interactivos del front end que permitan a los usuarios navegar fácilmente por la aplicación y comprender sus principales funcionalidades, mejorando la usabilidad y coherencia visual del sitio.
+
+   -  ####  Fecha de planificación: 10 de mayo de 2025
+
+       #### Herramientas utilizadas:
+
+        - **Trello:** Para gestionar nuevas historias de usuario enfocadas en la navegación y la interacción.
+
+        - **GitHub Projects:** Para hacer seguimiento al desarrollo del código, pull requests y revisión de ramas.
+
+        - **Google Meet:** Para reuniones de coordinación diaria y revisión de los avances.
+          
+        - **Figma :** Para validar la implementación del diseño y realizar ajustes a los prototipos según feedback del equipo.
