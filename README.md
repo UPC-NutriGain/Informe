@@ -252,17 +252,27 @@ Existe una desconexión entre los planes de entrenamiento estándar y los objeti
 
 ##### 1.2.2.2. Lean UX Assumptions
 **Business Assumptions**
-1. **Asumimos que nuestros usuarios** buscan mejorar su salud física y mental a través de rutinas de entrenamiento personalizadas y sostenibles en el tiempo.
-2. **Estas necesidades seran abordadas** mediante una app que combina entrenamiento físico, nutrición y motivación a través de gamificación y personajes virtuales.
-3. **Los primeros usuarios serán** jovenes y adultos con hábitos digitales, interesados en fitness, que usan el celular para entrenar y organizar su dieta.
-4. **El valor principal que esperan de nuestra aplicación es poder** acceder a rutinas personalizadas, seguimiento de su progreso, retos motivacionales y un plan nutricional integrado.
-5. **Los clientes obtendrán** logros semanales, participación en desafíos y seguimiento completo del plan.
-6. **Planeamos atraer usuarios a través de** campañas en redes sociales, influencers fitness y desafíos virales.
-7. **Generaremos ingresos en** funciones avanzadas de pago como una suscrpción premium(planes nutricionales personalizados, análisis de progreso en profundidad, rutinas premium), y anuncios de marcas saludables.
-8. **Nuestra competencia incluye** apps como Nike Training Club, Freeletics o MyFitnessPal.
-9. **Creemos que nuestra ventaja competitiva radica** en la experiencia gamificada, el acompañamiento de un personaje virtual y la integración de entrenamiento y nutrición en un mismo lugar.
-10. **El mayor riesgo es que** los usuarios no mantengan el hábito de uso diario o perciban la app como poco útil si no sienten resultados rápidos.
-11. **Enfrentaremos estos riesgos a través de** pruebas gratuitas, comunidad activa y actualizaciones constantes basadas en feedback.
+1. Asumimos que los usuarios abandonan sus rutinas fitness por falta de personalización y motivación.
+
+2. Creemos que una experiencia interactiva, con retos y acompañamiento virtual, puede aumentar la adherencia a un plan de entrenamiento.
+
+3. Los usuarios valoran rutinas personalizadas, seguimiento del progreso y recompensas semanales como medio para mantenerse motivados.
+
+4. Nuestra aplicación integrará entrenamiento y nutrición en un solo flujo, simplificando la experiencia.
+
+5. El principal riesgo es que la gamificación no sea suficiente para mantener el hábito diario.
+
+6. Mitigaremos ese riesgo con retos extremos diarios, evolución del avatar y comunidad activa.
+
+7. Nuestros primeros usuarios serán jóvenes adultos digitalizados con experiencia previa en apps de fitness.
+
+8. La propuesta se diferenciará por su enfoque emocional, visual y gamificado.
+
+9. Monetizaremos mediante planes premium que incluyen personalización avanzada, recomendaciones adaptativas y contenido exclusivo.
+
+10. La ventaja competitiva será la combinación de personalización + gamificación + narrativa visual (avatar progresivo).
+
+
 
 **User Assumptions**
 
@@ -294,35 +304,36 @@ visualmente atractivo y con capacidad de adaptación al progreso y gustos del us
 
 - **Hypothesis Statement 01**
 
-**Creemos que** los usuarios fitness valorarán una app que les ofrezca un acompañamiento virtual personalizado.
+**Creemos que** los usuarios fitness valorarán una app que les ofrezca un acompañamiento visual mediante un personaje virtual que evoluciona.  
 
-**Sabremos** que hemos tenido éxito.
+**Sabremos que** hemos tenido éxito cuando al menos un 60% de los usuarios activos interactúe con su avatar semanalmente,  
 
-**Cuando** los usuarios pasen aunque sea mas de 3 semanas en la aplicación.
+**Cuando** consulten la app durante sus rutinas y reciban mensajes personalizados de motivación.
 
 - **Hypothesis Statement 02**
 
-**Creemos que** al implementar desafíos diarios extremos aumentaremos el nivel de compromiso.
+**Creemos que** al ofrecer retos diarios personalizados según el camino elegido, aumentaremos la constancia en el uso de la aplicación.  
 
-**Sabremos** que hemos tenido éxito
+**Sabremos que** hemos tenido éxito cuando más del 50% de los usuarios complete al menos 3 retos semanales,  
 
-**Cuando** mas del 60% de los usuarios completen los retos.
+**Cuando** ingresen diariamente y respondan positivamente al desafío diario extremo.
+
 
 - **Hypothesis Statement 03**
 
-**Creemos que** al ofrecer diferentes caminos fitness (musculación, agilidad o yoga), atraeremos a una audiencia más amplia.
+**Creemos que** al ofrecer diferentes caminos fitness (musculación, agilidad y yoga), atraeremos a una audiencia más diversa.  
 
-**Sabremos** que hemos tenido éxito.
+**Sabremos que** hemos tenido éxito cuando cada camino tenga al menos un 25% de distribución entre los usuarios activos,  
 
-**Cuando** cada camino utilizado marque aunque sea el 50% de usuarios activos.
+**Cuando** revisemos las estadísticas de uso por tipo de camino en el primer mes.
 
 - **Hypothesis Statement 04**
 
-**Creemos que** al incluir una sección de nutrición personalizada aumentaremos la eficacia del programa y la satisfacción del usuario.
+**Creemos que** al incluir planes nutricionales adaptados a los perfiles de usuario, incrementaremos la satisfacción y la retención.  
 
-**Sabremos** que hemos tenido éxito.
+**Sabremos que** hemos tenido éxito cuando al menos el 70% de los usuarios califique los planes con 4/5 o más,  
 
-**Cuando** los usuarios reporten satisfacción en los planes nutricionales en las encuestas realizadas.
+**Cuando** completen las encuestas internas después de seguir los planes por al menos una semana.
 
 ##### 1.2.2.4. Lean UX Canvas
 
@@ -563,9 +574,19 @@ Finalmente nos cuenta que lo que espera de un coach es que lo incentive dándole
 
 ![User Persona-University](/assets/User_Person_1_Camila.png)
 
+**Análisis de comportamiento:**
+
+Camila ha probado múltiples rutinas de influencers y aplicaciones móviles, pero ninguna ha logrado mantener su interés por más de dos semanas. Generalmente empieza motivada, pero al no ver progreso claro ni recibir retroalimentación, deja la rutina. Tiene miedo de hacer los ejercicios mal y le preocupa no estar alimentándose correctamente. Una aplicación que le brinde seguimiento visual, retos y acompañamiento emocional sería clave para que se mantenga constante.
+
+
 **Segmento 2: Adultos jóvenes (30–40 años) que trabajan y desean llevar una vida más saludable**
 
 ![User Persona-Adult](/assets/User_Person_2_Martín.png)
+
+
+**Análisis de comportamiento:**
+
+Martín intenta entrenar en casa con videos cortos que guarda en TikTok, pero la falta de estructura y guía lo abruma. Usó apps de pago pero no supo cómo adaptar los planes genéricos a su realidad. Frecuentemente abandona las rutinas por sentir que no avanzan o que le quitan mucho tiempo. Busca una solución eficiente, sin curva de aprendizaje, que se adapte a sus tiempos y le muestre progreso concreto. Una app con rutinas ajustables y recordatorios semanales puede encajar con su estilo de vida.
 
 
 ### 2.3.2 User Task Matrix
@@ -794,6 +815,11 @@ Los escenarios actuales (AS-IS) ofrecen una descripción detallada de los pasos,
 *As-Is Scenario Mapping para el segmento de estudiantes universitarios*.  
 Nota. Elaboración propia basada en el análisis de experiencias futuras proyectadas para la usuaria Camila.
 
+#### Análisis del As-Is Scenario – Camila
+
+El recorrido actual de Camila evidencia un ciclo emocional negativo: empieza con esperanza pero sin una guía clara, lo que la lleva a buscar contenido genérico en redes sociales. Al no contar con seguimiento ni resultados visibles, abandona rápidamente. Esta situación se agrava en periodos académicos exigentes, donde no sabe cómo ajustar su rutina. Su frustración final es no saber si lo está haciendo bien y perder la motivación.
+
+
 
 **Segmento 2: Adultos jóvenes (30–40 años) que trabajan y desean llevar una vida más saludable**
 
@@ -802,6 +828,12 @@ Nota. Elaboración propia basada en el análisis de experiencias futuras proyect
 **Figura 2**  
 *As-Is Scenario Mapping para el segmento de adultos jóvenes que trabajan*.  
 Nota. Elaboración propia basada en el análisis de experiencias futuras proyectadas para el usuario Martín.
+
+
+#### Análisis del As-Is Scenario – Martín
+
+Martín presenta un perfil de usuario saturado por el trabajo, que recurre a soluciones rápidas como apps o videos cortos. Su expectativa es que una app le organice la vida sin complicaciones, pero se frustra cuando estas soluciones no se ajustan a su realidad diaria. Tiende a abandonar rápidamente y sentirse culpable, lo que refuerza su percepción de que no tiene tiempo para cuidarse. La falta de personalización y flexibilidad son claves en su frustración.
+
 
 ## 2.4. Ubiquitous Language.
 
@@ -856,155 +888,159 @@ Nota. Elaboración propia basada en el análisis de experiencias futuras proyect
 ## 3.2. User Stories
 
 <table>
+  <p style="font-size: 0.95em; color: #333;">
+    A continuación se presentan las historias de usuario priorizadas para el desarrollo de NutriGain. Los criterios de aceptación están formulados en el formato estándar internacional <strong>Given – When – Then</strong>, con el objetivo de definir claramente el comportamiento esperado de cada funcionalidad. La redacción general se mantiene en español para coherencia con el resto del informe.
+  </p>
+
   <thead>
     <tr>
       <th>Epic / Story ID</th>
-      <th>Título</th>
-      <th>Descripción</th>
-      <th>Criterios de Aceptación</th>
-      <th>Relacionado con (Epic ID)</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Acceptance Criteria (Given – When – Then)</th>
+      <th>Related Epic</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>US01</td>
-      <td>Elección de camino fitness</td>
-      <td>Como estudiante sin experiencia en entrenamiento, quiero elegir un camino fitness personalizado, para poder iniciar una rutina adecuada a mis metas.</td>
-      <td><strong>Dado que</strong> el usuario ha creado una cuenta, <strong>Cuando</strong> accede por primera vez, <strong>Luego</strong> podrá seleccionar uno de los caminos fitness disponibles.</td>
+      <td>Selección de ruta de acondicionamiento físico</td>
+      <td>Como estudiante sin experiencia en entrenamiento, quiero elegir un camino de fitness personalizado para comenzar una rutina que se ajuste a mis objetivos.</td>
+      <td><strong>Given</strong> the user has created an account,<br><strong>When</strong> they log in for the first time,<br><strong>Then</strong> they can choose among the available fitness paths.</td>
       <td>EP-01</td>
     </tr>
     <tr>
       <td>US02</td>
-      <td>Acompañamiento virtual</td>
-      <td>Como estudiante usuaria de la app, quiero que un personaje virtual me acompañe en mi progreso, para sentirme motivada a seguir entrenando cada semana.</td>
-      <td><strong>Dado que</strong> el usuario ha elegido un camino, <strong>Cuando</strong> avance en su progreso semanal, <strong>Luego</strong> el avatar evolucionará y mostrará mensajes de motivación.</td>
+      <td>Soporte de avatar virtual</td>
+      <td>Como estudiante que usa la aplicación, quiero un personaje virtual que acompañe mi progreso para sentirme motivado a entrenar semanalmente.</td>
+      <td><strong>Given</strong> the user has selected a path,<br><strong>When</strong> they progress weekly,<br><strong>Then</strong> the avatar evolves and shows motivational messages.</td>
       <td>EP-02</td>
     </tr>
     <tr>
       <td>US03</td>
-      <td>Visualización de progreso</td>
-      <td>Como estudiante que busca tonificarse, quiero ver mis avances semanales mediante gráficos, para tener visibilidad clara de mi progreso.</td>
-      <td><strong>Dado que</strong> el usuario completa sesiones, <strong>Cuando</strong> revise la sección de progreso, <strong>Luego</strong> visualizará gráficas actualizadas con sus avances.</td>
+      <td>Visualización del progreso</td>
+      <td>Como estudiante que busca tonificar sus músculos, quiero ver gráficos de progreso semanales para poder seguir claramente mi desempeño.</td>
+      <td><strong>Given</strong> the user has completed sessions,<br><strong>When</strong> they enter the progress section,<br><strong>Then</strong> they see updated charts showing their progress.</td>
       <td>EP-03</td>
     </tr>
     <tr>
       <td>US04</td>
-      <td>Plan nutricional personalizado</td>
-      <td>Como usuaria con poco conocimiento nutricional, quiero recibir un plan nutricional basado en mis preferencias, para alimentarme mejor sin complicaciones.</td>
-      <td><strong>Dado que</strong> el usuario completa su perfil alimenticio, <strong>Cuando</strong> accede al plan nutricional, <strong>Luego</strong> recibirá un menú personalizado con recomendaciones.</td>
+      <td>Plan de comidas personalizado</td>
+      <td>Como usuario con pocos conocimientos de nutrición, quiero un plan de alimentación personalizado en función de mis preferencias para poder comer mejor sin complicaciones.</td>
+      <td><strong>Given</strong> the user completes their nutrition profile,<br><strong>When</strong> they access the nutrition section,<br><strong>Then</strong> a personalized plan is shown with easy-to-follow suggestions.</td>
       <td>EP-04</td>
     </tr>
     <tr>
       <td>US05</td>
-      <td>Retos semanales aleatorios</td>
-      <td>Como estudiante con rutinas monótonas previas, quiero recibir retos semanales aleatorios, para mantenerme motivada y evitar el aburrimiento.</td>
-      <td><strong>Dado que</strong> inicia una nueva semana, <strong>Cuando</strong> entra a la app, <strong>Luego</strong> recibirá un reto semanal adaptado a su nivel.</td>
+      <td>Desafíos aleatorios semanales</td>
+      <td>Como estudiante cansado de las rutinas repetitivas, quiero desafíos aleatorios semanales para mantenerme motivado y evitar el aburrimiento.</td>
+      <td><strong>Given</strong> a new week begins,<br><strong>When</strong> the user logs into the app,<br><strong>Then</strong> they receive a challenge adapted to their level.</td>
       <td>EP-05</td>
     </tr>
     <tr>
       <td>US06</td>
-      <td>Plan semanal adaptado al tiempo</td>
-      <td>Como adulto con poco tiempo disponible, quiero recibir un plan semanal de ejercicios adaptado a mi rutina laboral, para poder entrenar sin afectar mi horario de trabajo.</td>
-      <td><strong>Dado que</strong> el usuario tiene tiempo limitado, <strong>Cuando</strong> configure sus preferencias, <strong>Luego</strong> el plan semanal se ajustará a su disponibilidad.</td>
+      <td>Plan semanal adaptable al tiempo</td>
+      <td>Como adulto trabajador con tiempo limitado, quiero un plan de entrenamiento semanal adaptado a mi horario para hacer ejercicio sin afectar mis horas de trabajo.</td>
+      <td><strong>Given</strong> the user has limited availability,<br><strong>When</strong> they configure preferences,<br><strong>Then</strong> the weekly plan adjusts to their availability.</td>
       <td>EP-01</td>
     </tr>
     <tr>
       <td>US07</td>
-      <td>Registro de progreso físico y nutricional</td>
-      <td>Como profesional que desea llevar una vida saludable, quiero registrar fácilmente mis avances físicos y nutricionales, para tener seguimiento y constancia.</td>
-      <td><strong>Dado que</strong> el usuario registra sus datos, <strong>Cuando</strong> consulte su evolución, <strong>Luego</strong> podrá visualizar estadísticas de progreso físico y nutricional.</td>
+      <td>Registro físico y nutricional</td>
+      <td>Como profesional que desea un estilo de vida saludable, quiero registrar mi progreso físico y nutricional para realizar un seguimiento constante.</td>
+      <td><strong>Given</strong> the user enters data,<br><strong>When</strong> they check their evolution,<br><strong>Then</strong> they see stats showing their physical and nutritional progress.</td>
       <td>EP-03</td>
     </tr>
     <tr>
       <td>US08</td>
       <td>Motivación constante</td>
-      <td>Como adulto que se desmotiva fácilmente, quiero recibir mensajes de motivación del personaje virtual, para mantenerme enfocado en mis metas.</td>
-      <td><strong>Dado que</strong> el usuario complete objetivos, <strong>Cuando</strong> interactúe con su avatar, <strong>Luego</strong> recibirá mensajes motivacionales personalizados.</td>
+      <td>Como usuario que pierde la motivación fácilmente, quiero recibir mensajes motivacionales del avatar para mantenerme enfocado en mis objetivos.</td>
+      <td><strong>Given</strong> the user achieves goals,<br><strong>When</strong> they interact with the avatar,<br><strong>Then</strong> they receive personalized motivational messages.</td>
       <td>EP-02</td>
     </tr>
     <tr>
       <td>US09</td>
-      <td>Acceso al camino en plan gratuito</td>
-      <td>Como usuario del plan gratuito, quiero poder probar un camino fitness completo antes de pagar, para evaluar si la app me funciona antes de suscribirme.</td>
-      <td><strong>Dado que</strong> el usuario está en plan gratuito, <strong>Cuando</strong> inicia la app, <strong>Luego</strong> podrá acceder a un camino completo pero con funciones limitadas.</td>
+      <td>Acceso de prueba al plan gratuito</td>
+      <td>Como usuario gratuito, quiero probar una ruta de fitness completa antes de suscribirme para evaluar si la aplicación funciona para mí.</td>
+      <td><strong>Given</strong> the user is on the free plan,<br><strong>When</strong> they open the app,<br><strong>Then</strong> they can access a complete fitness path with limited features.</td>
       <td>EP-06</td>
     </tr>
     <tr>
       <td>US10</td>
-      <td>Cambio de camino en plan premium</td>
-      <td>Como usuario premium, quiero poder cambiar de camino fitness en cualquier momento, para adaptar mi entrenamiento a mis nuevas metas o intereses.</td>
-      <td><strong>Dado que</strong> el usuario tiene plan premium, <strong>Cuando</strong> desee cambiar de camino, <strong>Luego</strong> podrá hacerlo desde la configuración de perfil sin restricciones.</td>
+      <td>Cambio de ruta para usuarios premium</td>
+      <td>Como usuario premium, quiero cambiar de ruta de fitness en cualquier momento para adaptar mi entrenamiento a nuevos objetivos o intereses.</td>
+      <td><strong>Given</strong> the user has a premium plan,<br><strong>When</strong> they change their preferences,<br><strong>Then</strong> they can switch paths from the profile without limitations.</td>
       <td>EP-06</td>
     </tr>
     <tr>
       <td>US11</td>
-      <td>Gestión de perfil de usuario</td>
-      <td>Como usuario registrado, quiero editar mi información personal y preferencias, para mantener mi perfil actualizado según mis objetivos.</td>
-      <td><strong>Dado que</strong> el usuario ha iniciado sesión, <strong>Cuando</strong> accede a su perfil, <strong>Luego</strong> podrá editar y guardar su información personal.</td>
+      <td>Gestión de perfiles de usuario</td>
+      <td>Como usuario registrado, quiero editar mi información personal y preferencias para mantener mi perfil actualizado en función de mis objetivos.</td>
+      <td><strong>Given</strong> the user has logged in,<br><strong>When</strong> they access their profile,<br><strong>Then</strong> they can update and save their personal data and fitness preferences.</td>
       <td>EP-06</td>
     </tr>
     <tr>
       <td>US12</td>
-      <td>Visualización de logros alcanzados</td>
-      <td>Como usuario, quiero ver los logros que he desbloqueado, para sentirme motivado a continuar usando la app.</td>
-      <td><strong>Dado que</strong> el usuario completa objetivos, <strong>Cuando</strong> consulte su perfil, <strong>Luego</strong> visualizará logros alcanzados y próximos por cumplir.</td>
+      <td>Visualización de logros</td>
+      <td>Como usuario, quiero ver mis logros desbloqueados para sentirme motivado a seguir usando la aplicación.</td>
+      <td><strong>Given</strong> the user completes objectives,<br><strong>When</strong> they open their profile,<br><strong>Then</strong> they can view their unlocked achievements and next goals visually.</td>
       <td>EP-02</td>
     </tr>
     <tr>
       <td>US13</td>
       <td>Notificaciones de actividad diaria</td>
-      <td>Como usuario con poca constancia, quiero recibir notificaciones diarias sobre mis rutinas y planes, para mantenerme enfocado en mi progreso.</td>
-      <td><strong>Dado que</strong> el usuario tiene planes activos, <strong>Cuando</strong> llegue la hora programada, <strong>Luego</strong> recibirá una notificación sobre su actividad pendiente.</td>
+      <td>Como usuario con poca constancia, quiero recibir recordatorios diarios de mis rutinas y planes para mantenerme enfocado en mi progreso.</td>
+      <td><strong>Given</strong> the user has active plans,<br><strong>When</strong> it’s time for a scheduled activity,<br><strong>Then</strong> they receive a motivational notification with context.</td>
       <td>EP-02</td>
     </tr>
     <tr>
       <td>US14</td>
-      <td>Evaluación de bienestar semanal</td>
-      <td>Como usuario, quiero completar un cuestionario semanal sobre mi bienestar, para recibir recomendaciones más personalizadas.</td>
-      <td><strong>Dado que</strong> finaliza la semana, <strong>Cuando</strong> complete el cuestionario de bienestar, <strong>Luego</strong> la app ajustará sugerencias en base a sus respuestas.</td>
+      <td>Evaluación semanal de bienestar</td>
+      <td>Como usuario, quiero completar una encuesta de bienestar semanal para recibir recomendaciones más personalizadas.</td>
+      <td><strong>Given</strong> the week has ended,<br><strong>When</strong> the user completes the wellness survey,<br><strong>Then</strong> the app updates their suggestions based on responses.</td>
       <td>EP-03</td>
     </tr>
     <tr>
       <td>US15</td>
-      <td>Soporte técnico básico para usuarios</td>
-      <td>Como usuario que enfrenta dificultades técnicas, quiero acceder a una sección de ayuda o soporte, para resolver problemas rápidamente.</td>
-      <td><strong>Dado que</strong> el usuario reporta un problema, <strong>Cuando</strong> accede a la sección de soporte, <strong>Luego</strong> podrá ver respuestas frecuentes o contactar asistencia.</td>
+      <td>Acceso a soporte técnico básico</td>
+      <td>Como usuario que experimenta dificultades técnicas, quiero acceder a una sección de ayuda o soporte para resolver problemas rápidamente.</td>
+      <td><strong>Given</strong> the user reports a problem,<br><strong>When</strong> they enter the support section,<br><strong>Then</strong> they see FAQs or contact options for assistance.</td>
       <td>EP-06</td>
     </tr>
     <tr>
-    <td>US16</td>
-    <td>Visualización de secciones clave</td>
-    <td>Como visitante del sitio web, quiero visualizar de forma clara las secciones "About the app", "Paths", "Pricing" y "About us", para entender la app fácilmente.</td>
-    <td><strong>Dado que</strong> accedo a la landing page, <strong>Cuando</strong> navego entre secciones, <strong>Luego</strong> puedo ver cada bloque con información diferenciada y comprensible.</td>
-    <td>EP-06</td>
+      <td>US16</td>
+      <td>Secciones clave que se muestran en la página de aterrizaje</td>
+      <td>Como visitante del sitio web, quiero ver claramente las secciones “Acerca de la aplicación”, “Rutas”, “Precios” y “Acerca de nosotros” para comprender la aplicación.</td>
+      <td><strong>Given</strong> the user visits the landing page,<br><strong>When</strong> they scroll through sections,<br><strong>Then</strong> they see each section with clear and accessible information.</td>
+      <td>EP-06</td>
     </tr>
     <tr>
-    <td>US17</td>
-    <td>Botón CTA (Call To Action)</td>
-    <td>Como visitante, quiero ver un botón llamativo para registrarme o iniciar sesión, para empezar a usar la app de forma rápida.</td>
-    <td><strong>Dado que</strong> estoy en la landing page, <strong>Cuando</strong> visualizo el header, <strong>Luego</strong> veo un botón destacado "Get Started" que me lleva al registro/login.</td>
-    <td>EP-06</td>
+      <td>US17</td>
+      <td>Botón de llamada a la acción (CTA)</td>
+      <td>Como visitante, quiero ver un botón destacado para registrarse o iniciar sesión para poder comenzar a usar la aplicación rápidamente.</td>
+      <td><strong>Given</strong> the user is on the landing page,<br><strong>When</strong> they see the header,<br><strong>Then</strong> they see a highlighted “Get Started” button that redirects to the login/registration form.</td>
+      <td>EP-06</td>
     </tr>
     <tr>
-    <td>US18</td>
-    <td>Visualización de los caminos (Paths)</td>
-    <td>Como visitante, quiero ver los distintos caminos de entrenamiento (Aesthetic, Sports, Yoga), para elegir el que mejor se adapte a mis objetivos.</td>
-    <td><strong>Dado que</strong> navego a la sección "Paths", <strong>Cuando</strong> leo la información y veo las imágenes, <strong>Luego</strong> puedo entender la diferencia entre cada tipo de camino.</td>
-    <td>EP-01</td>
+      <td>US18</td>
+      <td>Visualización de rutas de fitness</td>
+      <td>Como visitante, quiero ver los diferentes caminos fitness (Estético, Deportivo, Yoga) para elegir el que se ajuste a mis objetivos.</td>
+      <td><strong>Given</strong> the user navigates to the “Paths” section,<br><strong>When</strong> they review content and images,<br><strong>Then</strong> they understand the differences among the paths.</td>
+      <td>EP-01</td>
     </tr>
     <tr>
-    <td>US19</td>
-    <td>Información sobre la app</td>
-    <td>Como visitante, quiero entender qué hace diferente a NutriGain, para saber si me interesa registrarme.</td>
-    <td><strong>Dado que</strong> accedo a la sección "About the app", <strong>Cuando</strong> leo su contenido, <strong>Luego</strong> puedo entender sus funcionalidades principales.</td>
-    <td>EP-06</td>
+      <td>US19</td>
+      <td>Información sobre la aplicación</td>
+      <td>Como visitante, quiero entender qué hace que NutriGain sea diferente para poder decidir si quiero registrarme.</td>
+      <td><strong>Given</strong> the user visits the “About the App” section,<br><strong>When</strong> they read its content,<br><strong>Then</strong> they learn about the app’s unique features and value proposition.</td>
+      <td>EP-06</td>
     </tr>
     <tr>
-    <td>US20</td>
-    <td>Visualización del equipo</td>
-    <td>Como visitante, quiero conocer a las personas detrás de la app, para confiar más en el producto.</td>
-    <td><strong>Dado que</strong> accedo a la sección "About us", <strong>Cuando</strong> visualizo las tarjetas del equipo, <strong>Luego</strong> puedo ver sus nombres, roles e imágenes.</td>
-    <td>EP-06</td>
+      <td>US20</td>
+      <td>Sección de presentación del equipo</td>
+      <td>Como visitante, quiero saber quién está detrás de la aplicación para poder confiar más en el producto.</td>
+      <td><strong>Given</strong> the user visits the “About Us” section,<br><strong>When</strong> they view the team cards,<br><strong>Then</strong> they see names, roles, and photos of team members.</td>
+      <td>EP-06</td>
     </tr>
   </tbody>
 </table>
@@ -1541,7 +1577,7 @@ Esta separación por entornos y herramientas permitió una mayor eficiencia en l
 
 Para mantener el orden al desarrollar una solución y evitar conflictos o superposiciones de información, los proyectos se trabajaron en un organización de GitHub y dentro de esta se encuentran los diferentes repositorios para cada proyecto cuyos enlaces de los repositorios son los siguientes:
 
-Repositorio para el [landing page](https://github.com/UPC-NutriGain/Landing-Page)
+Repositorio para el [landing page](https://github.com/UPC-NutriGain/Landing-Page-NutriGain)
 
 Repositorio para los [tests de aceptación]()
 
@@ -1593,7 +1629,7 @@ Para realizar esto se realizaron los siguientes pasos:
 2. Seleccionar la rama principal y confirmar los cambios, luego de esto GitHub comenzará el proceso de deploy. Cuando GitHub tenga listo el enlace público, este se podrá ver desde el mismo menú en la parte superior.
 
 
-Link de la [landing page](https://github.com/UPC-NutriGain/Landing-Page)
+Link de la [landing page](https://upc-nutrigain.github.io/Landing-Page-NutriGain/)
 
 
 ### **Despliegue de la Aplicación Web**
@@ -1635,23 +1671,92 @@ Link de la [BackEnd RESTful]()
 
         - **Figma :** Se sugirió como herramienta para prototipado visual, especialmente útil si se desea incluir una imagen del wireframe inicial.
 
+    ## 5.2.1.2. Aspect Leaders and Collaborators.
 
--   ### 5.2.1.2. Sprint Backlog 1
+-   ### 5.2.1.3. Sprint Backlog 1
 
+<h3>5.2.1.2. Sprint Backlog 1 – Landing Page</h3>
 
+<table>
+  <thead>
+    <tr>
+      <th>User Story ID</th>
+      <th>Task ID</th>
+      <th>Título de Tarea</th>
+      <th>Descripción</th>
+      <th>Horas estimadas</th>
+      <th>Responsable</th>
+      <th>Estado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US17</td>
+      <td>T01</td>
+      <td>Header responsivo</td>
+      <td>Implementar el encabezado con navegación básica y responsividad.</td>
+      <td>3</td>
+      <td>Nicolas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US16</td>
+      <td>T02</td>
+      <td>Footer responsivo</td>
+      <td>Desarrollar el pie de página con enlaces, íconos y diseño adaptativo.</td>
+      <td>3</td>
+      <td>Santiago</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US16</td>
+      <td>T03</td>
+      <td>Hero Section</td>
+      <td>Diseñar sección inicial con título, subtítulo e imagen de presentación.</td>
+      <td>2</td>
+      <td>Sebastian</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US16</td>
+      <td>T04</td>
+      <td>Barra de navegación responsiva</td>
+      <td>Implementar la navegación por secciones del landing con comportamiento móvil.</td>
+      <td>3</td>
+      <td>Nicolas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US19</td>
+      <td>T05</td>
+      <td>Sección de testimonios</td>
+      <td>Crear sección con opiniones ficticias y estilo amigable.</td>
+      <td>3</td>
+      <td>Diego</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US20</td>
+      <td>T06</td>
+      <td>Sección 'Sobre nosotros'</td>
+      <td>Mostrar al equipo de desarrollo con tarjetas visuales.</td>
+      <td>2</td>
+      <td>Nicol</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US16</td>
+      <td>T07</td>
+      <td>Responsive general</td>
+      <td>Verificar que todo el landing se visualice correctamente en distintos tamaños.</td>
+      <td>3</td>
+      <td>Nicolas</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
 
-|  USER STORY<br/> ID | TITULO           | TASK <br/>ID |  TITULO DE <br/>TAREA | DESCRIPCION |Estimacion<br/>(Horas)|
-|----------------|------------------|------|-----------------|-----------------------|----|
-| ID01           |Apartado del Header|T01  |Header responsivo|Desarrollo e implementacion de los estilos que corresponden al encabezado de manera responsive|3|
-| ID02          |Apartado de Footer|T02|Footer responsivo|Desarrollo e implementación del pie de página con enfoque en compatibilidad móvil y estructura clara|3|
-|ID03           |Seccion Hero|T03|Hero responsivo|Diseño de la primera sección visual con título principal, subtítulo y llamada a la acción para usuarios nuevos|2|
-|ID04           |Barra de navegacion|T04|Navegacion responsiva|Implementación del menú de navegación principal con anclajes a cada sección y comportamiento adaptativo.|3|
-|ID05           |Testimonials|T05|Testimonios|Desarrollo de una sección con opiniones de usuarios ficticios, representando experiencias con NutriGain|3|
-|ID06           |Sobre Nosotros|T06|Info del equipo|Sección con información sobre los desarrolladores del proyecto y la inspiración detrás de NutriGain.|2|
-|ID07           |Interfaz Responsive General|T07 |Responsive completo|Asegurar que toda la landing funcione correctamente en distintos dispositivos (móviles, tablets, escritorio).|3|
-
-
-- ### 5.2.1.3. Development Evidence for Sprint Review
+- ### 5.2.1.4. Development Evidence for Sprint Review
 
 Durante el sprint, se realizaron múltiples commits en GitHub con etiquetas claras. Las tareas fueron desarrolladas en ramas individuales y luego fusionadas a la rama main mediante pull requests.
 Se adjuntaron capturas de pantalla de cada sección funcional implementada para validación.
@@ -1660,35 +1765,72 @@ Se adjuntaron capturas de pantalla de cada sección funcional implementada para 
 
 ![captura2](/assets/commits_2.JPG)
 
-- ### 5.2.1.4. Testing Suite Evidence for Sprint Review
+- ### 5.2.1.5. Testing Suite Evidence for Sprint Review
 
 Para este sprint, las pruebas se centraron en revisión manual de interfaz y pruebas básicas de visualización. No se incorporó aún un framework automatizado, pero se validó la correcta carga de elementos, adaptabilidad responsive y funcionamiento de navegación.
 
-- ### 5.2.1.4. Execution Evidence for Sprint Review
+- ### 5.2.1.6. Execution Evidence for Sprint Review
 
 Se hizo una demostración funcional del Landing Page en un entorno en vivo. Se verificó la navegación entre secciones, la carga de imágenes, la adaptación en móviles y se presentó a usuarios externos para retroalimentación básica.
 
 ![captura](/assets/landing_page_figma.JPG)
 
-- ### 5.2.1.5. Services Documentation Evidence for Sprint Review
+- ### 5.2.1.7. Services Documentation Evidence for Sprint Review
 
 No aplica para este sprint, ya que aún no se integran los servicios backend. Esta documentación se planifica para el Sprint 2.
 
-- ### 5.2.1.6. Software Deployment Evidence for Sprint Review
+- ### 5.2.1.8. Software Deployment Evidence for Sprint Review
 
 El Landing Page fue desplegado exitosamente en GitHub Pages, quedando accesible públicamente para evaluación y pruebas por parte del equipo.
 
-![captura]()
+El despliegue incluye:
 
-![captura2]()
+- Implementación completa del diseño responsivo.
+- Secciones clave del landing: "About the app", "Paths", "Pricing" y "About us".
+- Botón **CTA** para registro e inicio de sesión.
+- Adaptación visual para dispositivos de escritorio y móviles.
 
-Mediante el siguiente boton pueden apreciar el [LandingPage](https://github.com/UPC-NutriGain/Landing-Page)
 
-- ### 5.2.1.7. Team Collaboration Insights during Sprint
+A continuación se presentan capturas de evidencia del correcto funcionamiento:
+
+
+#### Captura 1: Vista en escritorio (pantalla completa)
+
+  <img src="./assets/LandingPage1.png" alt="Captura de landing page en escritorio" width="85%">
+
+  <img src="./assets/LandingPage2.png" alt="Captura de landing page en escritorio" width="85%">
+
+  <img src="./assets/LandingPage3.png" alt="Captura de landing page en escritorio" width="85%">
+
+
+#### Captura 2: Vista en móvil (diseño responsive)
+
+<p align="center">
+  <img src="./assets/LandingPageMovil1.png" alt="Captura de landing page en móvil" width="35%">
+</p>
+
+<p align="center">
+  <img src="./assets/LandingPageMovil2.png" alt="Captura de landing page en móvil" width="35%">
+</p>
+
+<p align="center">
+  <img src="./assets/LandingPageMovil3.png" alt="Captura de landing page en móvil" width="35%">
+</p>
+
+<p align="center">
+  <img src="./assets/LandingPageMovil4.png" alt="Captura de landing page en móvil" width="35%">
+</p>
+
+**Nota:** Las pruebas se realizaron en Google Chrome y dispositivos móviles mediante herramientas de desarrollo (DevTools) y un smartphone real, verificando la correcta visualización en distintos tamaños de pantalla.
+
+
+
+Mediante el siguiente boton pueden apreciar el [LandingPage](https://upc-nutrigain.github.io/Landing-Page-NutriGain/)
+
+- ### 5.2.1.9. Team Collaboration Insights during Sprint
 
   Durante el Sprint 1, el equipo mostró buena comunicación y trabajo distribuido. Se coordinaron mediante WhatsApp y reuniones por Meet. Cada integrante tomó ownership de sus tareas, y el seguimiento se realizó en Trello. Las decisiones técnicas se discutieron en conjunto antes de implementarlas.
 
 ![captura]()
 
 ![captura2]()
-
