@@ -212,10 +212,8 @@ Para mantener el orden al desarrollar una solución y evitar conflictos o superp
 
 Repositorio para el [landing page](https://github.com/UPC-NutriGain/Landing-Page)
 
-Repositorio para los [tests de aceptación]()
-
 Repositorio de la aplicación web :
-- [FrontEnd]()
+- [FrontEnd](https://github.com/UPC-NutriGain/NutriGain-Frontend)
 - [Backend]()
 
 Se aplicó el modelo de ramas GitFlow, con una estructura compuesta por:
