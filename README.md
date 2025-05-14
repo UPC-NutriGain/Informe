@@ -337,9 +337,10 @@ visualmente atractivo y con capacidad de adaptación al progreso y gustos del us
 
 ##### 1.2.2.4. Lean UX Canvas
 
-![canva](./assets/canvas1.png)
+![canva](./assets/LeanUXCanvas.jpg)
 
-![canva](./assets/canvas2.png)
+Link: https://miro.com/welcomeonboard/aWpraUlyc21MWTBaNE4yaHg4OWRUaWg5dHJ5bG9JOStscXRzT1ZjY3dEU0RGUkNZWSswU0U5YnoyUjJHYkRUNVNFeTBiaGY4UkYrSmxZaCtMOUp4MndBWGhCdkg1T3hPQVFqaFYwcEZsM2ZKSjJHU3Z4aStEVldCYnNoNTg1QXdnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=626538764079
+
 
 
 # 1.3. Segmentos objetivo
