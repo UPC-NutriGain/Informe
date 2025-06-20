@@ -2024,8 +2024,76 @@ Mediante el siguiente boton pueden apreciar el [LandingPage](https://upc-nutriga
 ### 5.2.3.1.Sprint Planning 3.
 Durante el Sprint 3 se planificó el desarrollo del backend enfocado en los bounded contexts restantes: Challenge, Routine, Avatar, Motivation, y Payment. Se acordó completar la implementación de servicios, controladores, entidades y pruebas unitarias. El sprint tiene una duración de 7 días.
 
-### 5.2.3.2. Aspect Leaders and Collaborators.
+## 5.2.3.2. Aspect Leaders and Collaborators.
 ### 5.2.3.3.Sprint Backlog 3.
+
+<table>
+  <thead>
+    <tr>
+      <th>User Story ID</th>
+      <th>Engineering Task ID</th>
+      <th>Título de Tarea Técnica</th>
+      <th>Descripción Técnica</th>
+      <th>Bounded Context</th>
+      <th>Estimación en Horas</th>
+      <th>Responsable</th>
+      <th>Estado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US-003</td>
+      <td>ENG-013</td>
+      <td>Implementar rutina CRUD</td>
+      <td>Crear endpoints para manejar rutinas fitness (GET, POST, PUT, DELETE)</td>
+      <td>Routine</td>
+      <td>8 h</td>
+      <td>Diego Pumahualcca</td>
+      <td>En progreso</td>
+    </tr>
+    <tr>
+      <td>US-006</td>
+      <td>ENG-018</td>
+      <td>Integrar lógica de planes premium</td>
+      <td>Desarrollar endpoints para suscripciones y control de acceso por plan</td>
+      <td>Payment</td>
+      <td>6 h</td>
+      <td>Sebastián Méndez</td>
+      <td>Pendiente</td>
+    </tr>
+    <tr>
+      <td>US-005</td>
+      <td>ENG-016</td>
+      <td>Actualizar avatar con experiencia</td>
+      <td>Diseñar lógica para evolución del personaje y puntos ganados</td>
+      <td>Avatar / Gamification</td>
+      <td>7 h</td>
+      <td>Santiago Gordillo</td>
+      <td>En progreso</td>
+    </tr>
+    <tr>
+      <td>US-004</td>
+      <td>ENG-014</td>
+      <td>Generar retos aleatorios</td>
+      <td>Crear servicio y controlador para asignar retos semanales únicos por usuario</td>
+      <td>Challenge</td>
+      <td>8 h</td>
+      <td>Nicolás Vera</td>
+      <td>Completado</td>
+    </tr>
+    <tr>
+      <td>US-007</td>
+      <td>ENG-020</td>
+      <td>Mostrar frase motivacional diaria</td>
+      <td>Desarrollar lógica de selección aleatoria de frases y API para frontend</td>
+      <td>Motivation</td>
+      <td>5 h</td>
+      <td>Ariana Huapaya</td>
+      <td>Pendiente</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 5.2.3.4.Development Evidence for Sprint Review.
 
 Se crearon e integraron correctamente los siguientes servicios en Spring Boot:
