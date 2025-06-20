@@ -1890,7 +1890,7 @@ En esta segunda planificación del sprint, el equipo decidió continuar con el d
           
         - **Figma :** Para validar la implementación del diseño y realizar ajustes a los prototipos según feedback del equipo.
 
-- ### 5.2.2.2. Aspect Leaders and Collaborators.
+- ## 5.2.2.2. Aspect Leaders and Collaborators.
     
 - ### 5.2.2.3. Sprint Backlog 2
   <table>
@@ -2018,3 +2018,66 @@ Mediante el siguiente boton pueden apreciar el [LandingPage](https://upc-nutriga
 - ### 5.2.2.9. Team Collaboration Insights during Sprint
 
   Durante el Sprint 2, el equipo mostró buena comunicación y trabajo distribuido. Se coordinaron mediante WhatsApp y reuniones por Meet. Cada integrante tomó ownership de sus tareas, y el seguimiento se realizó en Trello. Las decisiones técnicas se discutieron en conjunto antes de implementarlas.
+
+
+### 5.2.3. Sprint 3
+### 5.2.3.1.Sprint Planning 3.
+Durante el Sprint 3 se planificó el desarrollo del backend enfocado en los bounded contexts restantes: Challenge, Routine, Avatar, Motivation, y Payment. Se acordó completar la implementación de servicios, controladores, entidades y pruebas unitarias. El sprint tiene una duración de 7 días.
+
+### 5.2.3.2. Aspect Leaders and Collaborators.
+### 5.2.3.3.Sprint Backlog 3.
+### 5.2.3.4.Development Evidence for Sprint Review.
+
+Se crearon e integraron correctamente los siguientes servicios en Spring Boot:
+
+- ChallengeService, ChallengeController
+- PaymentService, PaymentController
+- AvatarService, GamificationService
+- MotivationService, PhraseController
+- RoutineService, RoutineController
+
+Se utilizó arquitectura basada en DDD, siguiendo buenas prácticas de modularidad, DTOs, y control de errores.
+
+### 5.2.3.5.Execution Evidence for Sprint Review.
+Se ejecutaron pruebas locales de endpoints con Postman, y se validó la conexión con la base de datos MySQL. También se realizaron pruebas funcionales del flujo entre frontend y backend.
+
+### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+Se utilizó Swagger UI para documentar todos los endpoints, disponible en:
+
+
+Cada servicio incluye:
+
+- Endpoint base (/api/challenges, /api/routines, etc.)
+- Métodos: GET, POST, PUT, DELETE
+- Ejemplos de uso
+- Validaciones aplicadas
+
+### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+El backend fue desplegado localmente utilizando Spring Boot y MySQL. Se adjuntan capturas y logs de prueba de endpoints funcionales, tanto para operaciones CRUD como lógicas especiales (reto aleatorio, frase diaria, etc.).
+
+### 5.2.3.8.Team Collaboration Insights during Sprint.
+- Se trabajó con ramas por feature en GitHub (feature/challenges-backend, etc.).
+- Se realizaron reuniones de seguimiento cada 2 días para coordinar avances.
+- La comunicación se mantuvo vía WhatsApp y GitHub Issues.
+- Se promovió la colaboración cruzada: todos los integrantes revisaron el código de al menos otro miembro.
+
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+
+Las entrevistas fueron diseñadas para validar la usabilidad, motivación y claridad de la aplicación. Se consideraron preguntas sobre:
+
+- Preferencias de entrenamiento
+- Experiencia con otras apps fitness
+- Claridad del flujo de uso
+- Satisfacción con retos y personaje virtual
+
+
+### 5.3.2. Registro de Entrevistas.
+
+Se realizaron 3 entrevistas semiestructuradas a usuarios universitarios interesados en el entrenamiento físico. Las sesiones fueron grabadas (con consentimiento) y los hallazgos se documentaron en un informe compartido por Google Docs.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+
+
